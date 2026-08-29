@@ -1,0 +1,50 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: false
+
+      - name: Run tests
+        run: npm test
+
+      - name: Stage Foundry package
+        run: node tools/prepare-release.mjs "$GITHUB_REF_NAME"
+
+      - name: Build release archive
+        shell: bash
+        run: |
+          cd build/package
+          zip -r ../naxx-dnd5e-collection-2024.zip .
+          cd ..
+          test "$(unzip -Z1 naxx-dnd5e-collection-2024.zip | grep -Ec '^module\.json$')" -eq 1
+          sha256sum module.json naxx-dnd5e-collection-2024.zip > SHA256SUMS.txt
+
+      - name: Publish GitHub Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            build/module.json \
+            build/naxx-dnd5e-collection-2024.zip \
+            build/SHA256SUMS.txt \
+            --verify-tag \
+            --latest \
+            --title "naxx-dnd5e-collection-2024 $GITHUB_REF_NAME" \
+            --generate-notes

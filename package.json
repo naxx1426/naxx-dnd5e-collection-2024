@@ -1,0 +1,11 @@
+{
+  "name": "naxx-dnd5e-collection-2024",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "icons:refresh": "node tools/export-item-icon-index.mjs",
+    "release:prepare": "node tools/prepare-release.mjs"
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": "naxx-homerule-item",
+  "iconPrefix": "modules/naxx-dnd5e-collection-2024/assets/icons/",
+  "count": 150,
+  "items": [
+    {
+      "id": "phbarmBreastplat",
+      "name": "胸甲 Breastplate",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/breastplate.webp"
+    },
+    {
+      "id": "phbarmChainMail0",
+      "name": "链甲 Chain Mail",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/chain-mail.webp"
+    },
+    {
+      "id": "phbarmChainShirt",
+      "name": "链甲衫 Chain Shirt",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/chain-shirt.webp"
+    },
+    {
+      "id": "phbarmHalfPlateA",
+      "name": "半身板甲 Half Plate Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/half-plate-armor.webp"
+    },
+    {
+      "id": "phbarmHideArmor0",
+      "name": "兽皮甲 Hide Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/hide-armor.webp"
+    },
+    {
+      "id": "phbarmLeatherArm",
+      "name": "皮甲 Leather Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/leather-armor.webp"
+    },
+    {
+      "id": "phbarmPaddedArmo",
+      "name": "布甲 Padded Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/padded-armor.webp"
+    },
+    {
+      "id": "phbarmPlateArmor",
+      "name": "板甲 Plate Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/plate-armor.webp"
+    },
+    {
+      "id": "phbarmRingMail00",
+      "name": "环甲 Ring Mail",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/ring-mail.webp"
+    },
+    {
+      "id": "phbarmScaleMail0",
+      "name": "鳞甲 Scale Mail",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/scale-mail.webp"
+    },
+    {
+      "id": "phbarmShield0000",
+      "name": "盾牌 Shield",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/shield.webp"
+    },
+    {
+      "id": "phbarmSplintArmo",
+      "name": "板条甲 Splint Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/splint-armor.webp"
+    },
+    {
+      "id": "phbarmStuddedLea",
+      "name": "镶钉皮甲 Studded Leather Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/studded-leather-armor.webp"
+    },
+    {
+      "id": "phbbgAcolyte0000",
+      "name": "侍僧 Acolyte",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/acolyte.webp"
+    },
+    {
+      "id": "phbbgArtisan0000",
+      "name": "工匠 Artisan",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/artisan.webp"
+    },
+    {
+      "id": "phbbgCharlatan00",
+      "name": "骗子 Charlatan",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/charlatan.webp"
+    },
+    {
+      "id": "phbbgCriminal000",
+      "name": "罪犯 Criminal",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/criminal.webp"
+    },
+    {
+      "id": "phbbgEntertainer",
+      "name": "艺人 Entertainer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/entertainer.webp"
+    },
+    {
+      "id": "phbbgFarmer00000",
+      "name": "农民 Farmer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/farmer.webp"
+    },
+    {
+      "id": "phbbgGuard000000",
+      "name": "警卫 Guard",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/guard.webp"
+    },
+    {
+      "id": "phbbgGuide000000",
+      "name": "向导 Guide",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/guide.webp"
+    },
+    {
+      "id": "phbbgHermit00000",
+      "name": "隐士 Hermit",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/hermit.webp"
+    },
+    {
+      "id": "phbbgMerchant000",
+      "name": "商人 Merchant",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/merchant.webp"
+    },
+    {
+      "id": "phbbgNoble000000",
+      "name": "贵族 Noble",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/noble.webp"
+    },
+    {
+      "id": "phbbgSage0000000",
+      "name": "智者 Sage",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/sage.webp"
+    },
+    {
+      "id": "phbbgSailor00000",
+      "name": "水手 Sailor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/sailor.webp"
+    },
+    {
+      "id": "phbbgScribe00000",
+      "name": "抄写员 Scribe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/scribe.webp"
+    },
+    {
+      "id": "phbbgSoldier0000",
+      "name": "士兵 Soldier",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/soldier.webp"
+    },
+    {
+      "id": "phbbgWayfarer000",
+      "name": "流浪者 Wayfarer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/wayfarer.webp"
+    },
+    {
+      "id": "phbbrbBarbarian0",
+      "name": "野蛮人 Barbarian",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/barbarian.webp"
+    },
+    {
+      "id": "phbbrbBerserker0",
+      "name": "狂战士道途 Path of the Berserker",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/berserker.webp"
+    },
+    {
+      "id": "phbbrbWildHeart0",
+      "name": "兽心道途 Path of the Wild Heart",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wild-heart.webp"
+    },
+    {
+      "id": "phbbrbWorldTree0",
+      "name": "世界树道途 Path of the World Tree",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/world-tree.webp"
+    },
+    {
+      "id": "phbbrbZealot0000",
+      "name": "狂热者道途 Path of the Zealot",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/zealot.webp"
+    },
+    {
+      "id": "phbbrdBard000000",
+      "name": "吟游诗人 Bard",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/bard.webp"
+    },
+    {
+      "id": "phbbrdDance00000",
+      "name": "舞蹈学院 College of Dance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/dance.webp"
+    },
+    {
+      "id": "phbbrdGlamour000",
+      "name": "魅心学院 College of Glamour",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/glamour.webp"
+    },
+    {
+      "id": "phbbrdLore000000",
+      "name": "逸闻学院 College of Lore",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/lore.webp"
+    },
+    {
+      "id": "phbbrdValor00000",
+      "name": "勇气学院 College of Valor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/valor.webp"
+    },
+    {
+      "id": "phbclcCleric0000",
+      "name": "牧师 Cleric",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/cleric.webp"
+    },
+    {
+      "id": "phbclcLifeDomain",
+      "name": "生命领域 Life Domain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/life.webp"
+    },
+    {
+      "id": "phbclcLightDomai",
+      "name": "光明领域 Light Domain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/light.webp"
+    },
+    {
+      "id": "phbclcTrickeryDo",
+      "name": "诡术领域 Trickery Domain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/trickery.webp"
+    },
+    {
+      "id": "phbclcWarDomain0",
+      "name": "战争领域 War Domain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/war.webp"
+    },
+    {
+      "id": "phbdrdCirland000",
+      "name": "大地结社 Circle of the Land",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/land.webp"
+    },
+    {
+      "id": "phbdrdCirmoon000",
+      "name": "月亮结社 Circle of the Moon",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/moon.webp"
+    },
+    {
+      "id": "phbdrdCirsea0000",
+      "name": "海洋结社 Circle of the Sea",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/sea.webp"
+    },
+    {
+      "id": "phbdrdCirstars00",
+      "name": "星辰结社 Circle of the Stars",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/stars.webp"
+    },
+    {
+      "id": "phbdrdDruid00000",
+      "name": "德鲁伊 Druid",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/druid.webp"
+    },
+    {
+      "id": "phbftrBattleMast",
+      "name": "战斗大师 Battle Master",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/battle-master.webp"
+    },
+    {
+      "id": "phbftrChampion00",
+      "name": "勇士 Champion",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/champion.webp"
+    },
+    {
+      "id": "phbftrEldritchKn",
+      "name": "奥法骑士 Eldritch Knight",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/eldritch-knight.webp"
+    },
+    {
+      "id": "phbftrFighter000",
+      "name": "战士 Fighter",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fighter.webp"
+    },
+    {
+      "id": "phbftrPsiWarrior",
+      "name": "灵能武士 Psi Warrior",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/psi-warrior.webp"
+    },
+    {
+      "id": "phbmnkElementsWa",
+      "name": "四象武者 Warrior of the Elements",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/elements.webp"
+    },
+    {
+      "id": "phbmnkMercyWarri",
+      "name": "命流武者 Warrior of Mercy",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/mercy.webp"
+    },
+    {
+      "id": "phbmnkMonk000000",
+      "name": "武僧 Monk",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/monk.webp"
+    },
+    {
+      "id": "phbmnkOpenHandWa",
+      "name": "散打武者 Warrior of the Open Hand",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/open-hand.webp"
+    },
+    {
+      "id": "phbmnkShadowWarr",
+      "name": "暗影武者 Warrior of Shadow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/shadow.webp"
+    },
+    {
+      "id": "phbpdnOathOfDevo",
+      "name": "奉献之誓 Oath of Devotion",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/devotion.webp"
+    },
+    {
+      "id": "phbpdnOathOfGlor",
+      "name": "荣耀之誓 Oath of Glory",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/glory.webp"
+    },
+    {
+      "id": "phbpdnOathOfTheA",
+      "name": "古贤之誓 Oath of the Ancients",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/ancients.webp"
+    },
+    {
+      "id": "phbpdnOathOfVeng",
+      "name": "复仇之誓 Oath of Vengeance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/vengeance.webp"
+    },
+    {
+      "id": "phbpdnPaladin000",
+      "name": "圣武士 Paladin",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/paladin.webp"
+    },
+    {
+      "id": "phbrgeArcaneTric",
+      "name": "诡术师 Arcane Trickster",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/arcane-trickster.webp"
+    },
+    {
+      "id": "phbrgeAssassin00",
+      "name": "刺客 Assassin",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/assassin.webp"
+    },
+    {
+      "id": "phbrgeRogue00000",
+      "name": "游荡者 Rogue",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/rogue.webp"
+    },
+    {
+      "id": "phbrgeSoulknife0",
+      "name": "魂刃 Soulknife",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/soulknife.webp"
+    },
+    {
+      "id": "phbrgeThief00000",
+      "name": "盗贼 Thief",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/thief.webp"
+    },
+    {
+      "id": "phbrgrBeastMaste",
+      "name": "驯兽师 Beast Master",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/beast-master.webp"
+    },
+    {
+      "id": "phbrgrFeyWander0",
+      "name": "妖精漫游者 Fey Wanderer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fey-wanderer.webp"
+    },
+    {
+      "id": "phbrgrGloomStalk",
+      "name": "幽域追猎者 Gloom Stalker",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/gloom-stalker.webp"
+    },
+    {
+      "id": "phbrgrHunter0000",
+      "name": "猎人 Hunter",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/hunter.webp"
+    },
+    {
+      "id": "phbrgrRanger0000",
+      "name": "游侠 Ranger",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/ranger.webp"
+    },
+    {
+      "id": "phbscrAberrantSo",
+      "name": "畸变术法 Aberrant Sorcery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/aberrant.webp"
+    },
+    {
+      "id": "phbscrClockworkS",
+      "name": "时械术法 Clockwork Sorcery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/clockwork.webp"
+    },
+    {
+      "id": "phbscrDraconicSo",
+      "name": "龙族术法 Draconic Sorcery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/draconic.webp"
+    },
+    {
+      "id": "phbscrSorcerer00",
+      "name": "术士 Sorcerer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/sorcerer.webp"
+    },
+    {
+      "id": "phbscrWildMagicS",
+      "name": "狂野术法 Wild Magic Sorcery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wild-magic.webp"
+    },
+    {
+      "id": "phbspAasimar0000",
+      "name": "阿斯莫 Aasimar",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/aasimar.webp"
+    },
+    {
+      "id": "phbspAbyssalTief",
+      "name": "提夫林（深渊） Tiefling, Abyssal",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-abyssal.webp"
+    },
+    {
+      "id": "phbspChthonicTie",
+      "name": "提夫林（幽冥） Tiefling, Chthonic",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-chthonic.webp"
+    },
+    {
+      "id": "phbspDragonborn0",
+      "name": "龙裔 Dragonborn",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/dragonborn.webp"
+    },
+    {
+      "id": "phbspDrow0000000",
+      "name": "精灵（卓尔） Elf, Drow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/drow.webp"
+    },
+    {
+      "id": "phbspDwarf000000",
+      "name": "矮人 Dwarf",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/dwarf.webp"
+    },
+    {
+      "id": "phbspForestGnome",
+      "name": "侏儒（森林） Gnome, Forest",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-forest.webp"
+    },
+    {
+      "id": "phbspGoliath0000",
+      "name": "歌利亚 Goliath",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/goliath.webp"
+    },
+    {
+      "id": "phbspHalfling000",
+      "name": "半身人 Halfling",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/halfling.webp"
+    },
+    {
+      "id": "phbspHighElf0000",
+      "name": "精灵（高等精灵） Elf, High",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-high.webp"
+    },
+    {
+      "id": "phbspHuman000000",
+      "name": "人类 Human",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/human.webp"
+    },
+    {
+      "id": "phbspInfernalTie",
+      "name": "提夫林（炼狱） Tiefling, Infernal",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-infernal.webp"
+    },
+    {
+      "id": "phbspOrc00000000",
+      "name": "兽人 Orc",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/orc.webp"
+    },
+    {
+      "id": "phbspRockGnome00",
+      "name": "侏儒（岩石） Gnome, Rock",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-rock.webp"
+    },
+    {
+      "id": "phbsptAbyssalLeg",
+      "name": "邪魔遗赠（深渊） Fiendish Legacy, Abyssal",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-abyssal.webp"
+    },
+    {
+      "id": "phbsptChthonicLe",
+      "name": "邪魔遗赠（幽冥） Fiendish Legacy, Chthonic",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-chthonic.webp"
+    },
+    {
+      "id": "phbsptDrowElfLin",
+      "name": "精灵血系（卓尔） Elven Lineage, Drow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/drow.webp"
+    },
+    {
+      "id": "phbsptForestGnom",
+      "name": "侏儒血系（森林） Gnomish Lineage, Forest",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-forest.webp"
+    },
+    {
+      "id": "phbsptHighElfLin",
+      "name": "精灵血系（高等精灵） Elven Lineage, High Elf",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-high.webp"
+    },
+    {
+      "id": "phbsptInfernalLe",
+      "name": "邪魔遗赠（炼狱） Fiendish Legacy, Infernal",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-infernal.webp"
+    },
+    {
+      "id": "phbsptRockGnomeL",
+      "name": "侏儒血系（岩石） Gnomish Lineage, Rock",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-rock.webp"
+    },
+    {
+      "id": "phbsptWoodElfLin",
+      "name": "精灵血系（木精灵） Elven Lineage, Wood Elf",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-wood.webp"
+    },
+    {
+      "id": "phbspWoodElf0000",
+      "name": "精灵（木精灵） Elf, Wood",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-wood.webp"
+    },
+    {
+      "id": "phbwepBattleaxe0",
+      "name": "战斧 Battleaxe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/battleaxe.webp"
+    },
+    {
+      "id": "phbwepBlowgun000",
+      "name": "吹箭筒 Blowgun",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/blowgun.webp"
+    },
+    {
+      "id": "phbwepClub000000",
+      "name": "短棒 Club",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/club.webp"
+    },
+    {
+      "id": "phbwepDagger0000",
+      "name": "匕首 Dagger",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/dagger.webp"
+    },
+    {
+      "id": "phbwepDart000000",
+      "name": "飞镖 Dart",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/dart.webp"
+    },
+    {
+      "id": "phbwepFlail00000",
+      "name": "链枷 Flail",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/flail.webp"
+    },
+    {
+      "id": "phbwepGlaive0000",
+      "name": "长柄刀 Glaive",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/glaive.webp"
+    },
+    {
+      "id": "phbwepGreataxe00",
+      "name": "巨斧 Greataxe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greataxe.webp"
+    },
+    {
+      "id": "phbwepGreatclub0",
+      "name": "巨棒 Greatclub",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greatclub.webp"
+    },
+    {
+      "id": "phbwepGreatsword",
+      "name": "巨剑 Greatsword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greatsword.webp"
+    },
+    {
+      "id": "phbwepHalberd000",
+      "name": "戟 Halberd",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/halberd.webp"
+    },
+    {
+      "id": "phbwepHandaxe000",
+      "name": "手斧 Handaxe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/handaxe.webp"
+    },
+    {
+      "id": "phbwepHandCrossb",
+      "name": "手弩 Hand Crossbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/hand-crossbow.webp"
+    },
+    {
+      "id": "phbwepHeavyCross",
+      "name": "重弩 Heavy Crossbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/heavy-crossbow.webp"
+    },
+    {
+      "id": "phbwepJavelin000",
+      "name": "标枪 Javelin",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/javelin.webp"
+    },
+    {
+      "id": "phbwepLance00000",
+      "name": "骑枪 Lance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/lance.webp"
+    },
+    {
+      "id": "phbwepLightCross",
+      "name": "轻弩 Light Crossbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/light-crossbow.webp"
+    },
+    {
+      "id": "phbwepLightHamme",
+      "name": "轻锤 Light Hammer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/light-hammer.webp"
+    },
+    {
+      "id": "phbwepLongbow000",
+      "name": "长弓 Longbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/longbow.webp"
+    },
+    {
+      "id": "phbwepLongsword0",
+      "name": "长剑 Longsword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/longsword.webp"
+    },
+    {
+      "id": "phbwepMace000000",
+      "name": "硬头锤 Mace",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/mace.webp"
+    },
+    {
+      "id": "phbwepMaul000000",
+      "name": "巨锤 Maul",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/maul.webp"
+    },
+    {
+      "id": "phbwepMorningsta",
+      "name": "钉头锤 Morningstar",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/morningstar.webp"
+    },
+    {
+      "id": "phbwepMusket0000",
+      "name": "火铳 Musket",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/musket.webp"
+    },
+    {
+      "id": "phbwepPike000000",
+      "name": "长矛 Pike",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/pike.webp"
+    },
+    {
+      "id": "phbwepPistol0000",
+      "name": "手铳 Pistol",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/pistol.webp"
+    },
+    {
+      "id": "phbwepQuartersta",
+      "name": "长棍 Quarterstaff",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/quarterstaff.webp"
+    },
+    {
+      "id": "phbwepRapier0000",
+      "name": "刺剑 Rapier",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/rapier.webp"
+    },
+    {
+      "id": "phbwepScimitar00",
+      "name": "弯刀 Scimitar",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/scimitar.webp"
+    },
+    {
+      "id": "phbwepShortbow00",
+      "name": "短弓 Shortbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/shortbow.webp"
+    },
+    {
+      "id": "phbwepShortsword",
+      "name": "短剑 Shortsword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/shortsword.webp"
+    },
+    {
+      "id": "phbwepSickle0000",
+      "name": "镰刀 Sickle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/sickle.webp"
+    },
+    {
+      "id": "phbwepSling00000",
+      "name": "投石索 Sling",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/sling.webp"
+    },
+    {
+      "id": "phbwepSpear00000",
+      "name": "矛 Spear",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/spear.webp"
+    },
+    {
+      "id": "phbwepTrident000",
+      "name": "三叉戟 Trident",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/trident.webp"
+    },
+    {
+      "id": "phbwepWarhammer0",
+      "name": "战锤 Warhammer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/warhammer.webp"
+    },
+    {
+      "id": "phbwepWarPick000",
+      "name": "战镐 War Pick",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/war-pick.webp"
+    },
+    {
+      "id": "phbwepWhip000000",
+      "name": "鞭 Whip",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/whip.webp"
+    },
+    {
+      "id": "phbwlkArchfeyPat",
+      "name": "至高妖精宗主 Archfey Patron",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/archfey.webp"
+    },
+    {
+      "id": "phbwlkCelestialP",
+      "name": "天界宗主 Celestial Patron",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/celestial.webp"
+    },
+    {
+      "id": "phbwlkFiendPatro",
+      "name": "邪魔宗主 Fiend Patron",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fiend.webp"
+    },
+    {
+      "id": "phbwlkGreatOldOn",
+      "name": "旧日支配者宗主 Great Old One Patron",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/great-old-one.webp"
+    },
+    {
+      "id": "phbwlkWarlock000",
+      "name": "魔契师 Warlock",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/warlock.webp"
+    },
+    {
+      "id": "phbwzdAbjurer000",
+      "name": "防护师 Abjurer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/abjurer.webp"
+    },
+    {
+      "id": "phbwzdDiviner000",
+      "name": "预言师 Diviner",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/diviner.webp"
+    },
+    {
+      "id": "phbwzdEvoker0000",
+      "name": "塑能师 Evoker",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/evoker.webp"
+    },
+    {
+      "id": "phbwzdIllusionis",
+      "name": "幻术师 Illusionist",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/illusionist.webp"
+    },
+    {
+      "id": "phbwzdWizard0000",
+      "name": "法师 Wizard",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wizard.webp"
+    }
+  ]
+}

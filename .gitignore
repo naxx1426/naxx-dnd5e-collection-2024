@@ -1,0 +1,7 @@
+build/
+backups/
+node_modules/
+*.zip
+*.sha256
+*.tmp
+*.log.tmp

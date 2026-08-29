@@ -1,0 +1,113 @@
+{
+  "id": "naxx-dnd5e-collection-2024",
+  "type": "module",
+  "title": "房规包",
+  "version": "1.0.1",
+  "url": "https://github.com/naxx1426/naxx-dnd5e-collection-2024",
+  "manifest": "https://github.com/naxx1426/naxx-dnd5e-collection-2024/releases/latest/download/module.json",
+  "download": "https://github.com/naxx1426/naxx-dnd5e-collection-2024/releases/download/v1.0.1/naxx-dnd5e-collection-2024.zip",
+  "readme": "https://github.com/naxx1426/naxx-dnd5e-collection-2024/blob/main/README.md",
+  "bugs": "https://github.com/naxx1426/naxx-dnd5e-collection-2024/issues",
+  "changelog": "https://github.com/naxx1426/naxx-dnd5e-collection-2024/releases",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14",
+    "maximum": "14"
+  },
+  "authors": [
+    {
+      "name": "naxx",
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "naxx房规",
+      "color": "#ffaa00",
+      "sorting": "m",
+      "packs": [
+        "naxx-homerule-spellList",
+        "naxx-homerule-rulelist",
+        "naxx-homerule-actor",
+        "naxx-homerule-item",
+        "naxx-homerule-macro"
+      ],
+      "folders": []
+    }
+  ],
+  "packs": [
+    {
+      "name": "naxx-homerule-spellList",
+      "label": "Naxx法术列表",
+      "path": "packs/naxx-homerule-spellList",
+      "type": "JournalEntry",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "naxx-homerule-rulelist",
+      "label": "Naxx表",
+      "path": "packs/naxx-homerule-rulelist",
+      "type": "RollTable",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "naxx-homerule-actor",
+      "label": "Naxx角色",
+      "path": "packs/naxx-homerule-actor",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "naxx-homerule-item",
+      "label": "Naxx物品",
+      "path": "packs/naxx-homerule-item",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "naxx-homerule-macro",
+      "label": "Naxx宏",
+      "path": "packs/naxx-homerule-macro",
+      "type": "Macro",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "<p>一个包含了大量自设 D&amp;D5E 资料的模组</p>",
+  "flags": {
+    "canUpload": true
+  }
+}
