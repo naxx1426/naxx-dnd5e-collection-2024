@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": {
+    "id": "naxx-homerule-rulelist",
+    "label": "Naxx表",
+    "type": "RollTable",
+    "system": "dnd5e"
+  },
+  "recordCount": 2935,
+  "groups": [
+    {
+      "group": "folders",
+      "file": "records/folders.json",
+      "count": 38
+    },
+    {
+      "group": "tables",
+      "file": "records/tables.json",
+      "count": 268
+    },
+    {
+      "group": "tables.results",
+      "file": "records/tables.results.json",
+      "count": 2629
+    }
+  ]
+}

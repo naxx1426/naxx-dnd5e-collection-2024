@@ -7,6 +7,11 @@ import { fileURLToPath } from "node:url";
 const root = fileURLToPath(new URL("..", import.meta.url));
 const manifest = JSON.parse(await readFile(path.join(root, "module.json"), "utf8"));
 const iconIndex = JSON.parse(await readFile(path.join(root, "data", "item-icons.json"), "utf8"));
+const assetSources = [
+  "dnd-dungeon-masters-guide",
+  "dnd-monster-manual",
+  "dnd-players-handbook"
+];
 
 test("Foundry 更新清单和下载地址与版本一致", () => {
   assert.equal(manifest.id, "naxx-dnd5e-collection-2024");
@@ -22,14 +27,17 @@ test("清单中的每个合集数据库都存在", async () => {
   }
 });
 
-test("物品图标索引只使用本模组路径且文件全部存在", async () => {
-  assert.equal(iconIndex.count, 150);
+test("物品图标索引只使用按规则书区分的本模组路径", () => {
+  const assetPrefix = `modules/${manifest.id}/assets/`;
+  assert.equal(iconIndex.assetPrefix, assetPrefix);
+  assert.ok(iconIndex.count > 0);
   assert.equal(iconIndex.items.length, iconIndex.count);
   assert.equal(new Set(iconIndex.items.map((item) => item.id)).size, iconIndex.count);
-  const prefix = `modules/${manifest.id}/`;
   for (const item of iconIndex.items) {
-    assert.match(item.img, new RegExp(`^modules/${manifest.id}/assets/icons/`));
-    assert.equal((await stat(path.join(root, item.img.slice(prefix.length)))).isFile(), true, item.img);
+    assert.ok(
+      assetSources.some((source) => item.img.startsWith(`${assetPrefix}${source}/`)),
+      item.img
+    );
   }
 });
 

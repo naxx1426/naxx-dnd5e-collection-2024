@@ -1,0 +1,958 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-rulelist",
+  "group": "folders",
+  "records": [
+    {
+      "key": "!folders!39XLtKZbVr6tWUn4",
+      "value": {
+        "name": "魔法物品属性",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "39XLtKZbVr6tWUn4",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843759983,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4xJVBX8YHcxinA2E",
+      "value": {
+        "name": "随机魔法物品",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "4xJVBX8YHcxinA2E",
+        "description": "",
+        "sort": 550000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843806575,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!58LM0vw0ytZfTlkR",
+      "value": {
+        "name": "宝石",
+        "sorting": "m",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "58LM0vw0ytZfTlkR",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843741444,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!5ap8Zy30pK3cstoa",
+      "value": {
+        "name": "遭遇",
+        "sorting": "a",
+        "folder": "vYLFWDaWrC95PD3f",
+        "type": "RollTable",
+        "_id": "5ap8Zy30pK3cstoa",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843474101,
+          "modifiedTime": 1784843958829,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!6PmNgdAU8WO1cFlx",
+      "value": {
+        "name": "第 7 章：宝藏",
+        "sorting": "m",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "6PmNgdAU8WO1cFlx",
+        "description": "",
+        "sort": 450000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784849381785,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!acELKJ8PRP0oU4RY",
+      "value": {
+        "name": "第 5 章：创作战役",
+        "sorting": "a",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "acELKJ8PRP0oU4RY",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843475966,
+          "modifiedTime": 1784843880039,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!apynQPDSBoAR5pJL",
+      "value": {
+        "name": "武备",
+        "sorting": "m",
+        "folder": "4xJVBX8YHcxinA2E",
+        "type": "RollTable",
+        "_id": "apynQPDSBoAR5pJL",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784848555455,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Bq4Z5FFOV8tFf4cW",
+      "value": {
+        "name": "万象无常牌",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "Bq4Z5FFOV8tFf4cW",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784843817128,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!F9buBBrMbcKkKGWY",
+      "value": {
+        "name": "阵营的个人特质",
+        "sorting": "a",
+        "folder": "oqsiqoUzcbfevHRV",
+        "type": "RollTable",
+        "_id": "F9buBBrMbcKkKGWY",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844581979,
+          "modifiedTime": 1784844630254,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!H6GuZ74gUlcOEuC5",
+      "value": {
+        "name": "转生血统",
+        "sorting": "a",
+        "folder": "RY28PgQgqr68sh45",
+        "type": "RollTable",
+        "_id": "H6GuZ74gUlcOEuC5",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844586180,
+          "modifiedTime": 1784844646623,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!I2IHCZhwMY7ttiXw",
+      "value": {
+        "name": "物品特别表",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "I2IHCZhwMY7ttiXw",
+        "description": "",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784843828903,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Iql5oCfKyncKTjZ1",
+      "value": {
+        "name": "根据等级奖励的魔法物品",
+        "sorting": "m",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "Iql5oCfKyncKTjZ1",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843637575,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!KKkXLFWot2oRON9V",
+      "value": {
+        "type": "RollTable",
+        "folder": null,
+        "name": "玩家手册掷骰表",
+        "color": "#00ccff",
+        "sorting": "a",
+        "_id": "KKkXLFWot2oRON9V",
+        "description": "",
+        "sort": 300000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843410999,
+          "modifiedTime": 1784844582469,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!L0olJL2ltEzbnNxS",
+      "value": {
+        "name": "器具",
+        "sorting": "m",
+        "folder": "4xJVBX8YHcxinA2E",
+        "type": "RollTable",
+        "_id": "L0olJL2ltEzbnNxS",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784848534724,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!LeT9ipagQsn9KTBA",
+      "value": {
+        "name": "第 3 章",
+        "sorting": "a",
+        "folder": "KKkXLFWot2oRON9V",
+        "type": "RollTable",
+        "_id": "LeT9ipagQsn9KTBA",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844584640,
+          "modifiedTime": 1784844602962,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!nXKU6zbcXzPyF8tO",
+      "value": {
+        "name": "第 2 章：运作游戏",
+        "sorting": "a",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "nXKU6zbcXzPyF8tO",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843471390,
+          "modifiedTime": 1784843917593,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!oqsiqoUzcbfevHRV",
+      "value": {
+        "name": "第 2 章",
+        "sorting": "a",
+        "folder": "KKkXLFWot2oRON9V",
+        "type": "RollTable",
+        "_id": "oqsiqoUzcbfevHRV",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844581979,
+          "modifiedTime": 1784844601599,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Os5Cq0O9VNJdxYPS",
+      "value": {
+        "type": "RollTable",
+        "folder": null,
+        "name": "城主指南掷骰表",
+        "color": "#00d5ff",
+        "sorting": "a",
+        "_id": "Os5Cq0O9VNJdxYPS",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843404526,
+          "modifiedTime": 1784844582469,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!OUhxCdPPynTzwwPV",
+      "value": {
+        "name": "魔术袋",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "OUhxCdPPynTzwwPV",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843727016,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!OZfEZsH4ijrQpAJK",
+      "value": {
+        "name": "神器属性",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "OZfEZsH4ijrQpAJK",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561571,
+          "modifiedTime": 1784843781791,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PM6msMC2mFZnQ7Y3",
+      "value": {
+        "name": "奥秘",
+        "sorting": "m",
+        "folder": "4xJVBX8YHcxinA2E",
+        "type": "RollTable",
+        "_id": "PM6msMC2mFZnQ7Y3",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784848524183,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PwJC3iNIfGZgQF0n",
+      "value": {
+        "name": "智能物品属性",
+        "sorting": "a",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "PwJC3iNIfGZgQF0n",
+        "description": "",
+        "sort": 900000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784843843901,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!RrSE00U709tYjPXO",
+      "value": {
+        "name": "第 8 章：据点",
+        "sorting": "a",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "RrSE00U709tYjPXO",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843851276,
+          "modifiedTime": 1784843866864,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!RY28PgQgqr68sh45",
+      "value": {
+        "name": "第 7 章",
+        "sorting": "a",
+        "folder": "KKkXLFWot2oRON9V",
+        "type": "RollTable",
+        "_id": "RY28PgQgqr68sh45",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844586180,
+          "modifiedTime": 1784844611513,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!SJJJASzLqDHBOfuG",
+      "value": {
+        "name": "怪物属性",
+        "sorting": "a",
+        "folder": "vYLFWDaWrC95PD3f",
+        "type": "RollTable",
+        "_id": "SJJJASzLqDHBOfuG",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843474101,
+          "modifiedTime": 1784843964680,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!t7jhOtaunF4EYN4S",
+      "value": {
+        "name": "名称",
+        "sorting": "a",
+        "folder": "TMkLvjVpo1uzm9ia",
+        "type": "RollTable",
+        "_id": "t7jhOtaunF4EYN4S",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843472687,
+          "modifiedTime": 1784843947681,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TMkLvjVpo1uzm9ia",
+      "value": {
+        "name": "第 3 章：地下城主工具箱",
+        "sorting": "a",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "TMkLvjVpo1uzm9ia",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843472687,
+          "modifiedTime": 1784843908201,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TqamAdaI7Lfqyy5n",
+      "value": {
+        "name": "冒险情景",
+        "sorting": "m",
+        "folder": "vYLFWDaWrC95PD3f",
+        "type": "RollTable",
+        "_id": "TqamAdaI7Lfqyy5n",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843474101,
+          "modifiedTime": 1784843970834,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!uDv0kQlrfGOSnTzR",
+      "value": {
+        "name": "非玩家角色",
+        "sorting": "a",
+        "folder": "TMkLvjVpo1uzm9ia",
+        "type": "RollTable",
+        "_id": "uDv0kQlrfGOSnTzR",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843472687,
+          "modifiedTime": 1784843929473,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UGzrs6W3hYBrC27z",
+      "value": {
+        "type": "RollTable",
+        "folder": null,
+        "name": "怪物图鉴掷骰表",
+        "color": "#00ccff",
+        "sorting": "a",
+        "_id": "UGzrs6W3hYBrC27z",
+        "description": "",
+        "sort": 400000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843420418,
+          "modifiedTime": 1784844582469,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!vYLFWDaWrC95PD3f",
+      "value": {
+        "name": "第 4 章：创作冒险",
+        "sorting": "m",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "vYLFWDaWrC95PD3f",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843474101,
+          "modifiedTime": 1784843894032,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!W6NHf7tjf9VcPc3H",
+      "value": {
+        "name": "艺术品",
+        "sorting": "m",
+        "folder": "6PmNgdAU8WO1cFlx",
+        "type": "RollTable",
+        "_id": "W6NHf7tjf9VcPc3H",
+        "description": "",
+        "sort": 800000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784843834904,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!xL3vaD4uzW1qvoGC",
+      "value": {
+        "name": "圣物",
+        "sorting": "m",
+        "folder": "4xJVBX8YHcxinA2E",
+        "type": "RollTable",
+        "_id": "xL3vaD4uzW1qvoGC",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843561572,
+          "modifiedTime": 1784848546401,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!xSN3ilZNegyVMzSg",
+      "value": {
+        "name": "据点事件",
+        "sorting": "a",
+        "folder": "RrSE00U709tYjPXO",
+        "type": "RollTable",
+        "_id": "xSN3ilZNegyVMzSg",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843851277,
+          "modifiedTime": 1784843995834,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!YfvWa2aZOtLeqyZK",
+      "value": {
+        "name": "聚落属性",
+        "sorting": "a",
+        "folder": "TMkLvjVpo1uzm9ia",
+        "type": "RollTable",
+        "_id": "YfvWa2aZOtLeqyZK",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843472687,
+          "modifiedTime": 1784843935212,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!YvpBmhPic8Q5dLeB",
+      "value": {
+        "name": "第 6 章：宇宙学",
+        "sorting": "a",
+        "folder": "Os5Cq0O9VNJdxYPS",
+        "type": "RollTable",
+        "_id": "YvpBmhPic8Q5dLeB",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843477590,
+          "modifiedTime": 1784843541502,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Z1giIxgDBxmqM4y1",
+      "value": {
+        "name": "属性值描述",
+        "sorting": "a",
+        "folder": "oqsiqoUzcbfevHRV",
+        "type": "RollTable",
+        "_id": "Z1giIxgDBxmqM4y1",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844581979,
+          "modifiedTime": 1784844620895,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ZEFCOOyJBB7PrHY9",
+      "value": {
+        "name": "引子",
+        "sorting": "a",
+        "folder": "vYLFWDaWrC95PD3f",
+        "type": "RollTable",
+        "_id": "ZEFCOOyJBB7PrHY9",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843474101,
+          "modifiedTime": 1784843976046,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    }
+  ]
+}

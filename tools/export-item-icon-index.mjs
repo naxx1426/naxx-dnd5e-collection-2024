@@ -4,7 +4,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const MODULE_ID = "naxx-dnd5e-collection-2024";
-const ICON_PREFIX = `modules/${MODULE_ID}/assets/icons/`;
+const ASSET_PREFIX = `modules/${MODULE_ID}/assets/`;
 const DEFAULT_FOUNDRY_APP = "C:\\Software\\Foundry Virtual Tabletop\\resources\\app";
 const moduleRoot = fileURLToPath(new URL("..", import.meta.url));
 const packPath = path.resolve(readOption("--pack") ?? path.join(moduleRoot, "packs", "naxx-homerule-item"));
@@ -30,7 +30,7 @@ try {
     } catch {
       continue;
     }
-    if (typeof document?.img !== "string" || !document.img.startsWith(ICON_PREFIX)) continue;
+    if (typeof document?.img !== "string" || !document.img.startsWith(ASSET_PREFIX)) continue;
     items.push({ id: document._id, name: document.name, img: document.img });
   }
 } finally {
@@ -43,7 +43,7 @@ await writeFile(outputPath, `${JSON.stringify({
   schemaVersion: 1,
   moduleId: MODULE_ID,
   pack: "naxx-homerule-item",
-  iconPrefix: ICON_PREFIX,
+  assetPrefix: ASSET_PREFIX,
   count: items.length,
   items,
 }, null, 2)}\n`, "utf8");

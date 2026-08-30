@@ -1,0 +1,1491 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-actor",
+  "group": "actors.effects",
+  "records": [
+    {
+      "key": "!actors.effects!dmg3x5CarpetofFl.OOJj1Gc67HwjhG7Q",
+      "value": {
+        "name": "超载",
+        "img": "icons/tools/smithing/anvil.webp",
+        "_id": "OOJj1Gc67HwjhG7Q",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 0.5,
+              "priority": null,
+              "type": "multiply",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": true,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "<p>当飞毯载重超过正常容量时，其飞行速度减半。</p>",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Overloaded",
+            "originalPayload": {
+              "name": "Overloaded",
+              "description": "<p>The carpet's Fly Speed is halved when carrying more than its normal capacity.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "movement": {
+                      "fly": 0.5
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmg3x5CarpetofFl.ActiveEffect.OOJj1Gc67HwjhG7Q",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094225,
+          "modifiedTime": 1784843094225,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmg4x6CarpetofFl.2MQnteT8igejUV4G",
+      "value": {
+        "name": "超载",
+        "img": "icons/tools/smithing/anvil.webp",
+        "_id": "2MQnteT8igejUV4G",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 0.5,
+              "priority": null,
+              "type": "multiply",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": true,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "<p>当飞毯载重超过正常容量时，其飞行速度减半。</p>",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Overloaded",
+            "originalPayload": {
+              "name": "Overloaded",
+              "description": "<p>The carpet's Fly Speed is halved when carrying more than its normal capacity.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "movement": {
+                      "fly": 0.5
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmg3x5CarpetofFl.ActiveEffect.OOJj1Gc67HwjhG7Q",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094227,
+          "modifiedTime": 1784843094227,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmg5x7CarpetofFl.x31gxhzQK4X86k0a",
+      "value": {
+        "name": "超载",
+        "img": "icons/tools/smithing/anvil.webp",
+        "_id": "x31gxhzQK4X86k0a",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 0.5,
+              "priority": null,
+              "type": "multiply",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": true,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "<p>当飞毯载重超过正常容量时，其飞行速度减半。</p>",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Overloaded",
+            "originalPayload": {
+              "name": "Overloaded",
+              "description": "<p>The carpet's Fly Speed is halved when carrying more than its normal capacity.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "movement": {
+                      "fly": 0.5
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmg3x5CarpetofFl.ActiveEffect.OOJj1Gc67HwjhG7Q",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094229,
+          "modifiedTime": 1784843094229,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmg6x9CarpetofFl.XDasfDlazbjtYP26",
+      "value": {
+        "name": "超载",
+        "img": "icons/tools/smithing/anvil.webp",
+        "_id": "XDasfDlazbjtYP26",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 0.5,
+              "priority": null,
+              "type": "multiply",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": true,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "<p>当飞毯载重超过正常容量时，其飞行速度减半。</p>",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Overloaded",
+            "originalPayload": {
+              "name": "Overloaded",
+              "description": "<p>The carpet's Fly Speed is halved when carrying more than its normal capacity.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "movement": {
+                      "fly": 0.5
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmg3x5CarpetofFl.ActiveEffect.OOJj1Gc67HwjhG7Q",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094230,
+          "modifiedTime": 1784843094230,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.9Sxe5orNBLhYpDwz",
+      "value": {
+        "type": "base",
+        "name": "前爪展开",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/commodities/tech/coil-steel-grey.webp",
+        "_id": "9Sxe5orNBLhYpDwz",
+        "system": {
+          "changes": []
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "transformed"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Claws Extended",
+            "originalPayload": {
+              "name": "Claws Extended",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.D6TOlFQbOM6V0Jv8",
+      "value": {
+        "type": "base",
+        "name": "双腿展开",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/commodities/tech/transmission.webp",
+        "_id": "D6TOlFQbOM6V0Jv8",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.walk",
+              "value": 30,
+              "priority": null,
+              "type": "upgrade",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.movement.swim",
+              "value": 30,
+              "priority": null,
+              "type": "upgrade",
+              "phase": "initial"
+            }
+          ]
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "transformed"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Legs Extended",
+            "originalPayload": {
+              "name": "Legs Extended",
+              "description": "",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "movement": {
+                      "walk": 30,
+                      "swim": 30
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.pvJazR3MqOCj5fq8",
+      "value": {
+        "type": "base",
+        "name": "后舱盖打开",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/commodities/tech/frame-copper.webp",
+        "system": {
+          "changes": []
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "transformed"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Rear Hatch Open",
+            "originalPayload": {
+              "name": "Rear Hatch Open",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmgApparatusofKw.ActiveEffect.xIiZeSr9KPqMrDFq",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "_id": "pvJazR3MqOCj5fq8",
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.rBFF2F7IQteiU8kL",
+      "value": {
+        "type": "base",
+        "name": "灯光开启",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/magic/light/light-lantern-lit-white.webp",
+        "_id": "rBFF2F7IQteiU8kL",
+        "system": {
+          "changes": []
+        },
+        "description": "<p>眼状部件发出半径 30 尺的明亮光照以及额外 30 尺的微光光照。</p>",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Lights Activated",
+            "originalPayload": {
+              "name": "Lights Activated",
+              "description": "<p>Eyelike fixtures emit Bright Light in a 30-foot radius and Dim Light for an additional 30 feet.</p>",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.sj7HGYh5KeLlZhfr",
+      "value": {
+        "type": "base",
+        "name": "舱侧百叶窗打开",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/commodities/tech/metal-panel.webp",
+        "system": {
+          "changes": []
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "transformed"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Side Shutters Open",
+            "originalPayload": {
+              "name": "Side Shutters Open",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmgApparatusofKw.ActiveEffect.xIiZeSr9KPqMrDFq",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "_id": "sj7HGYh5KeLlZhfr",
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgApparatusofKw.xIiZeSr9KPqMrDFq",
+      "value": {
+        "type": "base",
+        "name": "前窗打开",
+        "origin": "Actor.dmgApparatusofKw",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": true,
+        "img": "icons/commodities/tech/metal-blue.webp",
+        "system": {
+          "changes": []
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "transformed"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Forward Shutter Open",
+            "originalPayload": {
+              "name": "Forward Shutter Open",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": "Actor.dmgApparatusofKw.ActiveEffect.xIiZeSr9KPqMrDFq",
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843094234,
+          "modifiedTime": 1784843094234,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "_id": "xIiZeSr9KPqMrDFq",
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!dmgRockslide0000.dnd5ebloodied000",
+      "value": {
+        "_id": "dnd5ebloodied000",
+        "name": "浴血",
+        "img": "systems/dnd5e/icons/svg/statuses/bloodied.svg",
+        "statuses": [
+          "bloodied"
+        ],
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Bloodied",
+            "originalPayload": {
+              "name": "Bloodied",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843098984,
+          "modifiedTime": 1784843098984,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmArchmage000000.Ic0OzBJJ71Op119N",
+      "value": {
+        "_id": "Ic0OzBJJ71Op119N",
+        "disabled": false,
+        "duration": {
+          "value": 28800,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "origin": "Compendium.dnd-players-handbook.spells.Item.phbsplMageArmor0",
+        "transfer": false,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Mage Armor",
+            "originalPayload": {
+              "name": "Mage Armor",
+              "description": "<p>The target's base AC becomes 13 + its Dexterity modifier.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "ac": {
+                      "calc": "mage + 2"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tint": "#ffffff",
+        "name": "法师护甲",
+        "description": "<p>你的基础 AC 变为 13 + 你的敏捷调整值。着装护甲则该法术提前终止。</p>",
+        "statuses": [],
+        "_stats": {
+          "compendiumSource": "Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H.ActiveEffect.cfwMU7LuOJ619Lny",
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842893834,
+          "modifiedTime": 1784842893834
+        },
+        "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.ac.calc",
+              "value": "mage + 2",
+              "priority": null,
+              "type": "override",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmInvisibleStalk.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784843005752,
+          "modifiedTime": 1784843005752
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmMage0000000000.yZKlx0TdbtDiVmy0",
+      "value": {
+        "_id": "yZKlx0TdbtDiVmy0",
+        "disabled": false,
+        "duration": {
+          "value": 28800,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "origin": "Compendium.dnd-players-handbook.spells.Item.phbsplMageArmor0",
+        "transfer": false,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Mage Armor",
+            "originalPayload": {
+              "name": "Mage Armor",
+              "description": "<p>The target's base AC becomes 13 + its Dexterity modifier.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "ac": {
+                      "calc": "mage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tint": "#ffffff",
+        "name": "法师护甲",
+        "description": "<p>你的基础 AC 变为 13 + 你的敏捷调整值。着装护甲则该法术提前终止。</p>",
+        "statuses": [],
+        "_stats": {
+          "compendiumSource": "Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H.ActiveEffect.cfwMU7LuOJ619Lny",
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842894009,
+          "modifiedTime": 1784842894009
+        },
+        "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.ac.calc",
+              "value": "mage",
+              "priority": null,
+              "type": "override",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmMageApprentice.uBTDOHbUslDrtcRg",
+      "value": {
+        "_id": "uBTDOHbUslDrtcRg",
+        "disabled": false,
+        "duration": {
+          "value": 28800,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "origin": "Compendium.dnd-players-handbook.spells.Item.phbsplMageArmor0",
+        "transfer": false,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Mage Armor",
+            "originalPayload": {
+              "name": "Mage Armor",
+              "description": "<p>The target's base AC becomes 13 + its Dexterity modifier.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "ac": {
+                      "calc": "mage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tint": "#ffffff",
+        "name": "法师护甲",
+        "description": "<p>你的基础 AC 变为 13 + 你的敏捷调整值。着装护甲则该法术提前终止。</p>",
+        "statuses": [],
+        "_stats": {
+          "compendiumSource": "Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H.ActiveEffect.cfwMU7LuOJ619Lny",
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842894026,
+          "modifiedTime": 1784842894026
+        },
+        "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.ac.calc",
+              "value": "mage",
+              "priority": null,
+              "type": "override",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmNobleProdigy00.sAcBIJbf2jsCi79p",
+      "value": {
+        "_id": "sAcBIJbf2jsCi79p",
+        "disabled": false,
+        "duration": {
+          "value": 28800,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "origin": "Compendium.dnd-players-handbook.spells.Item.phbsplMageArmor0",
+        "transfer": false,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Mage Armor",
+            "originalPayload": {
+              "name": "Mage Armor",
+              "description": "<p>The target's base AC becomes 13 + its Dexterity modifier.</p>",
+              "changes": {
+                "system": {
+                  "attributes": {
+                    "ac": {
+                      "calc": "mage"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "tint": "#ffffff",
+        "name": "法师护甲",
+        "description": "<p>你的基础 AC 变为 13 + 你的敏捷调整值。着装护甲则该法术提前终止。</p>",
+        "statuses": [],
+        "_stats": {
+          "compendiumSource": "Compendium.dnd5e.spells.Item.CKZTpZlxj7hjjo2H.ActiveEffect.cfwMU7LuOJ619Lny",
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842894053,
+          "modifiedTime": 1784842894053
+        },
+        "img": "icons/equipment/chest/breastplate-helmet-metal.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.ac.calc",
+              "value": "mage",
+              "priority": null,
+              "type": "override",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!mmWaterWeird0000.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784843005845,
+          "modifiedTime": 1784843005845
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": null,
+          "time": 0,
+          "turn": null,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbInvisibleSens.9gxhNWiPY0SA7eV0",
+      "value": {
+        "name": "激活感官：视觉",
+        "img": "icons/svg/eye.svg",
+        "_id": "9gxhNWiPY0SA7eV0",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 600,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "deafened"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Active Sense: Sight",
+            "originalPayload": {
+              "name": "Active Sense: Sight",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392812,
+          "modifiedTime": 1784842392812
+        },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbInvisibleSens.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392812,
+          "modifiedTime": 1784842392812
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": 0,
+          "time": 0,
+          "turn": 0,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbInvisibleSens.O96hoqlJot40eGqB",
+      "value": {
+        "name": "激活感官：听觉",
+        "img": "icons/svg/sound.svg",
+        "_id": "O96hoqlJot40eGqB",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 600,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "blinded"
+        ],
+        "sort": 0,
+        "flags": {
+          "babele": {
+            "translated": true,
+            "hasTranslation": true,
+            "originalName": "Active Sense: Hearing",
+            "originalPayload": {
+              "name": "Active Sense: Hearing",
+              "description": "",
+              "changes": {}
+            }
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392812,
+          "modifiedTime": 1784842392812
+        },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbmobFaithfulHo.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392824,
+          "modifiedTime": 1784842392824
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": 0,
+          "time": 0,
+          "turn": 0,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbprgRanger0000.dnd5ebloodied000",
+      "value": {
+        "_id": "dnd5ebloodied000",
+        "name": "Bloodied",
+        "img": "systems/dnd5e/icons/svg/statuses/bloodied.svg",
+        "statuses": [
+          "bloodied"
+        ],
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842390958,
+          "modifiedTime": 1784842390958,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        },
+        "origin": null,
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": 0,
+          "time": 0,
+          "turn": 0,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbsplArcaneEye0.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392828,
+          "modifiedTime": 1784842392828
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": 0,
+          "time": 0,
+          "turn": 0,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    },
+    {
+      "key": "!actors.effects!phbsplUnseenServ.dnd5einvisible00",
+      "value": {
+        "name": "Invisible",
+        "_id": "dnd5einvisible00",
+        "img": "systems/dnd5e/icons/svg/statuses/invisible.svg",
+        "statuses": [
+          "invisible"
+        ],
+        "description": "@Embed[Compendium.dnd5e.rules.JournalEntry.w7eitkpD7QQTB6j0.JournalEntryPage.3UU5GCTVeRDbZy9u inline]",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "origin": null,
+        "tint": "#ffffff",
+        "transfer": false,
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784842392859,
+          "modifiedTime": 1784842392859
+        },
+        "showIcon": 2,
+        "start": {
+          "combat": null,
+          "round": 0,
+          "time": 0,
+          "turn": 0,
+          "combatant": null,
+          "initiative": null
+        },
+        "folder": null
+      }
+    }
+  ]
+}

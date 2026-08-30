@@ -46,7 +46,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "NoveilHomeRule"
+        }
+      }
     },
     {
       "name": "naxx-homerule-rulelist",
@@ -58,7 +62,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "NoveilHomeRule"
+        }
+      }
     },
     {
       "name": "naxx-homerule-actor",
@@ -70,7 +78,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "NoveilHomeRule"
+        }
+      }
     },
     {
       "name": "naxx-homerule-item",
@@ -82,7 +94,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "NoveilHomeRule"
+        }
+      }
     },
     {
       "name": "naxx-homerule-macro",
@@ -94,7 +110,11 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "flags": {}
+      "flags": {
+        "dnd5e": {
+          "sourceBook": "NoveilHomeRule"
+        }
+      }
     }
   ],
   "relationships": {
@@ -108,6 +128,11 @@
   },
   "description": "<p>一个包含了大量自设 D&amp;D5E 资料的模组</p>",
   "flags": {
-    "canUpload": true
+    "canUpload": true,
+    "dnd5e": {
+      "sourceBooks": {
+        "NoveilHomeRule": "NoveilHomeRule"
+      }
+    }
   }
 }

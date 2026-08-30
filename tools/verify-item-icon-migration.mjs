@@ -3,7 +3,7 @@ import path from "node:path";
 
 const MODULE_ID = "naxx-dnd5e-collection-2024";
 const OLD_PREFIX = "modules/dnd-players-handbook/assets/icons/";
-const NEW_PREFIX = `modules/${MODULE_ID}/assets/icons/`;
+const NEW_PREFIX = `modules/${MODULE_ID}/assets/dnd-players-handbook/icons/`;
 const DEFAULT_FOUNDRY_APP = "C:\\Software\\Foundry Virtual Tabletop\\resources\\app";
 
 const beforePath = requiredOption("--before");

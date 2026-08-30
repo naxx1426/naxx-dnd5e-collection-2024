@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": {
+    "id": "naxx-homerule-actor",
+    "label": "Naxx角色",
+    "type": "Actor",
+    "system": "dnd5e"
+  },
+  "recordCount": 6275,
+  "groups": [
+    {
+      "group": "actors",
+      "file": "records/actors.json",
+      "count": 714
+    },
+    {
+      "group": "actors.effects",
+      "file": "records/actors.effects.json",
+      "count": 24
+    },
+    {
+      "group": "actors.items",
+      "file": "records/actors.items.json",
+      "count": 3755
+    },
+    {
+      "group": "actors.items.effects",
+      "file": "records/actors.items.effects.json",
+      "count": 1739
+    },
+    {
+      "group": "folders",
+      "file": "records/folders.json",
+      "count": 43
+    }
+  ]
+}

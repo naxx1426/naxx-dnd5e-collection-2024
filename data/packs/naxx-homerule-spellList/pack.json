@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": {
+    "id": "naxx-homerule-spellList",
+    "label": "Naxx法术列表",
+    "type": "JournalEntry",
+    "system": "dnd5e"
+  },
+  "recordCount": 16,
+  "groups": [
+    {
+      "group": "journal",
+      "file": "records/journal.json",
+      "count": 8
+    },
+    {
+      "group": "journal.pages",
+      "file": "records/journal.pages.json",
+      "count": 8
+    }
+  ]
+}

@@ -1,11 +1,9 @@
 import { createRequire } from "node:module";
-import { access } from "node:fs/promises";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 
 const MODULE_ID = "naxx-dnd5e-collection-2024";
 const OLD_PREFIX = "modules/dnd-players-handbook/assets/icons/";
-const NEW_PREFIX = `modules/${MODULE_ID}/assets/icons/`;
+const NEW_PREFIX = `modules/${MODULE_ID}/assets/dnd-players-handbook/icons/`;
 const DEFAULT_PACK = path.resolve("packs", "naxx-homerule-item");
 const DEFAULT_FOUNDRY_APP = "C:\\Software\\Foundry Virtual Tabletop\\resources\\app";
 
@@ -14,7 +12,6 @@ const verbose = process.argv.includes("--verbose");
 const packArg = readOption("--pack") ?? DEFAULT_PACK;
 const foundryApp = readOption("--foundry-app") ?? process.env.FOUNDRY_APP_PATH ?? DEFAULT_FOUNDRY_APP;
 const packPath = path.resolve(packArg);
-const moduleRoot = fileURLToPath(new URL("..", import.meta.url));
 
 const requireFromFoundry = createRequire(path.join(foundryApp, "package.json"));
 const { ClassicLevel } = requireFromFoundry("classic-level");
@@ -51,8 +48,6 @@ try {
     }
 
     const nextImage = `${NEW_PREFIX}${document.img.slice(OLD_PREFIX.length)}`;
-    const relativeAssetPath = nextImage.slice(`modules/${MODULE_ID}/`.length);
-    await access(path.join(moduleRoot, relativeAssetPath));
     document.img = nextImage;
     matches.push({
       key,

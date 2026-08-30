@@ -1,0 +1,240 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-spellList",
+  "group": "journal",
+  "records": [
+    {
+      "key": "!journal!9XynEMLbcqIvYZzw",
+      "value": {
+        "name": "法师法术列表",
+        "_id": "9XynEMLbcqIvYZzw",
+        "pages": [
+          "Xj6wVr1lIh4D9pUu"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606684149,
+          "modifiedTime": 1785606685576,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 300000
+      }
+    },
+    {
+      "key": "!journal!ByMj4c4BlthjeOGB",
+      "value": {
+        "name": "德鲁伊法术列表",
+        "_id": "ByMj4c4BlthjeOGB",
+        "pages": [
+          "WQdqxwpLPnGOZUOG"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606682869,
+          "modifiedTime": 1785606685575,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 100000
+      }
+    },
+    {
+      "key": "!journal!GS5ywPf0MYz7Z1rl",
+      "value": {
+        "name": "术士法术列表",
+        "_id": "GS5ywPf0MYz7Z1rl",
+        "pages": [
+          "hoLoEfu9ToioGqsv"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606689429,
+          "modifiedTime": 1785606690877,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 700000
+      }
+    },
+    {
+      "key": "!journal!LBuJog0NJUE9TqGT",
+      "value": {
+        "name": "牧师法术列表",
+        "_id": "LBuJog0NJUE9TqGT",
+        "pages": [
+          "dm8AdXN6kvH25h6q"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606686559,
+          "modifiedTime": 1785606688094,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 500000
+      }
+    },
+    {
+      "key": "!journal!SmECi2ems3wzqk2i",
+      "value": {
+        "name": "游侠法术列表",
+        "_id": "SmECi2ems3wzqk2i",
+        "pages": [
+          "nqZIlcDdkVbLYLu6"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606691699,
+          "modifiedTime": 1785606691874,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 200000
+      }
+    },
+    {
+      "key": "!journal!TBFS0SaMJ9sQ6NrR",
+      "value": {
+        "name": "圣武士法术列表",
+        "_id": "TBFS0SaMJ9sQ6NrR",
+        "pages": [
+          "iqmwBqEe2mFcmmvO"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606687918,
+          "modifiedTime": 1785606689615,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 600000
+      }
+    },
+    {
+      "key": "!journal!ugn8VfN2pqkj7UqP",
+      "value": {
+        "name": "魔契师法术列表",
+        "_id": "ugn8VfN2pqkj7UqP",
+        "pages": [
+          "quJVkyvrCGGyJG4b"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606685453,
+          "modifiedTime": 1785606686773,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 400000
+      }
+    },
+    {
+      "key": "!journal!WLvNTT7DZf7Z9cp3",
+      "value": {
+        "name": "吟游诗人法术列表",
+        "_id": "WLvNTT7DZf7Z9cp3",
+        "pages": [
+          "lFn5clIuA1k8wEk3"
+        ],
+        "folder": null,
+        "categories": [],
+        "ownership": {
+          "default": 0,
+          "nSt1PeNLIOK4Bhvq": 3
+        },
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606690759,
+          "modifiedTime": 1785606691874,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "sort": 800000
+      }
+    }
+  ]
+}

@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node --test test/*.test.mjs",
     "icons:refresh": "node tools/export-item-icon-index.mjs",
+    "packs:export": "node tools/export-packs-json.mjs",
+    "packs:migrate": "node tools/migrate-pack-json.mjs",
+    "packs:build": "node tools/build-packs-json.mjs",
     "release:prepare": "node tools/prepare-release.mjs"
   }
 }

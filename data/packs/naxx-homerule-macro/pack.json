@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": {
+    "id": "naxx-homerule-macro",
+    "label": "Naxx宏",
+    "type": "Macro",
+    "system": "dnd5e"
+  },
+  "recordCount": 11,
+  "groups": [
+    {
+      "group": "folders",
+      "file": "records/folders.json",
+      "count": 2
+    },
+    {
+      "group": "macros",
+      "file": "records/macros.json",
+      "count": 9
+    }
+  ]
+}

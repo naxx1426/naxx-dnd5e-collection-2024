@@ -2,758 +2,2913 @@
   "schemaVersion": 1,
   "moduleId": "naxx-dnd5e-collection-2024",
   "pack": "naxx-homerule-item",
-  "iconPrefix": "modules/naxx-dnd5e-collection-2024/assets/icons/",
-  "count": 150,
+  "assetPrefix": "modules/naxx-dnd5e-collection-2024/assets/",
+  "count": 581,
   "items": [
+    {
+      "id": "05Lok63szRXdAafx",
+      "name": "耀眼光束",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gem-of-brightness.webp"
+    },
+    {
+      "id": "1dBN1NUlcymoWlxz",
+      "name": "云巨人之力",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-giant-strength-storm.webp"
+    },
+    {
+      "id": "1MhKOwy5blXJtP9r",
+      "name": "守护卷轴：邪魔",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "30vmoE2Z5s0k3uCH",
+      "name": "Ring of Evasion",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-evasion.webp"
+    },
+    {
+      "id": "4MsmIVyXTFt4AKuD",
+      "name": "青铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "4Xom4fAANNPxjb0k",
+      "name": "守护卷轴：泥怪",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "5Z35lVoEDct7Ivx2",
+      "name": "战法师魔杖 +3",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "67ofG0FVqrrkAHKa",
+      "name": "捕获",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/net.webp"
+    },
+    {
+      "id": "6CqUePYaCOnGRxYa",
+      "name": "Blade of Radiance - Activated",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sunblade.webp"
+    },
+    {
+      "id": "6f8ARzOvPmhNZ0NV",
+      "name": "佩戴手套",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gloves-of-thievery.webp"
+    },
+    {
+      "id": "7Pcy0FgaAr30JUBV",
+      "name": "战法师魔杖 +1",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "7pZPJW8286U9Tg7k",
+      "name": "金龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "7R5dtsUNiWZhXhS3",
+      "name": "黄铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "8LOiciVz81eZo34v",
+      "name": "技能专家",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "8vCrPyrvsQ5MIxTJ",
+      "name": "食人魔力量",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gauntlets-of-ogre-power.webp"
+    },
+    {
+      "id": "8Y80BGFPEux1Ifdz",
+      "name": "白龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "AwFDnHD5U7aOOzds",
+      "name": "麻痹",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-paralysis.webp"
+    },
+    {
+      "id": "bbPsBexnD43dITRz",
+      "name": "守护卷轴：天界",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "bduc7RqYUR3Ya837",
+      "name": "枕戈待命：先攻优势",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/trident.webp"
+    },
+    {
+      "id": "Bf5EJfd0ghcirCkX",
+      "name": "Oathbow - Sworn Enemy - Target",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/oathbow.webp"
+    },
+    {
+      "id": "BFfhMUlqxRCc8RVd",
+      "name": "守护卷轴：异怪",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "Byvwe1NjGChfIS8X",
+      "name": "守护卷轴：元素",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "cPxO25ckNFWtuPOT",
+      "name": "黑龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "digyUmkB2vUGt81C",
+      "name": "守护卷轴：构装",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "dmg1WandOfTheWar",
+      "name": "战法师魔杖，+1、+2、+3 Wand of the War Mage, +1, +2, or +3",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "dmgAbsorptionIou",
+      "name": "艾恩石：吸收 Ioun Stone of Absorption",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-clear-prism.webp"
+    },
+    {
+      "id": "dmgAdamantineArm",
+      "name": "精金护甲 Adamantine Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/adamantine-armor.webp"
+    },
+    {
+      "id": "dmgAgilityIounSt",
+      "name": "艾恩石：机敏 Ioun Stone of Agility",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-deep-red-sphere.webp"
+    },
+    {
+      "id": "dmgAirRingOfElem",
+      "name": "命令元素戒指：气 Air Ring of Elemental Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-elemental-command-air.webp"
+    },
+    {
+      "id": "dmgAlchemyJugCon",
+      "name": "炼金壶 Alchemy Jug",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/alchemy-jug.webp"
+    },
+    {
+      "id": "dmgAmuletOfHealt",
+      "name": "健康护符 Amulet of Health",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/amulet-of-health.webp"
+    },
+    {
+      "id": "dmgAmuletOfProof",
+      "name": "反侦护符 Amulet of Proof against Detection and Location",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/amulet-of-proof-against-detection-location.webp"
+    },
+    {
+      "id": "dmgAmuletOfThePl",
+      "name": "位面护符 Amulet of the Planes",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/amulet-of-the-planes.webp"
+    },
+    {
+      "id": "dmgAnchorQuaalsF",
+      "name": "夸尔羽符（锚） Quaal's Feather Token (Anchor)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-anchor.webp"
+    },
+    {
+      "id": "dmgAnstruthHarpI",
+      "name": "安斯翠瑟竖琴 Anstruth Harp Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/anstruth-harp.webp"
+    },
+    {
+      "id": "dmgApparatusOfKw",
+      "name": "夸力许装置 Apparatus of Kwalish",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/apparatus-of-kwalish.webp"
+    },
+    {
+      "id": "dmgArcaneStudy00",
+      "name": "奥术研究室 Arcane Study",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgArchive000000",
+      "name": "档案馆 Archive",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "dmgArmor12or3000",
+      "name": "护甲，+1、+2、+3 Armor, +1, +2, or +3",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/plus-one-plate-armor.webp"
+    },
+    {
+      "id": "dmgArmorOfInvuln",
+      "name": "坚不可摧护甲 Armor of Invulnerability",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/armor-of-invulnerability.webp"
+    },
+    {
+      "id": "dmgArmorOfResist",
+      "name": "抗性护甲 Armor of Resistance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/leather-armor-of-resistance.webp"
+    },
+    {
+      "id": "dmgArmory0000000",
+      "name": "军械库 Armory",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgAwarenessIoun",
+      "name": "艾恩石：警觉 Ioun Stone of Awareness",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-dusty-rose-prism.webp"
+    },
+    {
+      "id": "dmgAxeOfTheDwarv",
+      "name": "矮人王圣斧 Axe of the Dwarvish Lords",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/axe-of-the-dwarvish-lords.webp"
+    },
+    {
+      "id": "dmgBabaYagasDanc",
+      "name": "芭芭·雅嘎的舞空帚 Baba Yaga's Dancing Broom",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/baba-yagas-dancing-broom.webp"
+    },
+    {
+      "id": "dmgBagOfBeans000",
+      "name": "魔豆之袋 Bag of Beans",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-beans.webp"
+    },
+    {
+      "id": "dmgBagOfDevourin",
+      "name": "吞噬袋 Bag of Devouring",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-devouring.webp"
+    },
+    {
+      "id": "dmgBagOfHolding0",
+      "name": "次元袋 Bag of Holding",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-holding.webp"
+    },
+    {
+      "id": "dmgBagOfTricks00",
+      "name": "灰色魔术袋 Gray Bag of Tricks",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-tricks.webp"
+    },
+    {
+      "id": "dmgBarrack000000",
+      "name": "兵营 Barrack",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgBedroom000000",
+      "name": "卧室 Bedroom",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgBeltOfDwarven",
+      "name": "矮人腰带 Belt of Dwarvenkind",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/belt-of-dwarvenkind.webp"
+    },
+    {
+      "id": "dmgBeltOfGiantSt",
+      "name": "巨人之力腰带 Belt of Giant Strength",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/belt-of-giant-strength-stone.webp"
+    },
+    {
+      "id": "dmgBerserkerAxe0",
+      "name": "狂战斧  Berserker Axe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/berserker-axe-battleaxe.webp"
+    },
+    {
+      "id": "dmgBirdQuaalsFea",
+      "name": "夸尔羽符（鸟） Quaal's Feather Token (Bird)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-bird.webp"
+    },
+    {
+      "id": "dmgBlackrazor000",
+      "name": "黑刃 Blackrazor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/blackrazor.webp"
+    },
+    {
+      "id": "dmgBlueElemental",
+      "name": "元素宝石：蓝宝石 Elemental Gem (Blue Sapphire)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elemental-gem-air.webp"
+    },
+    {
+      "id": "dmgBookOfExalted",
+      "name": "圣洁之书 Book of Exalted Deeds",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/book-of-exalted-deeds.webp"
+    },
+    {
+      "id": "dmgBookOfVileDar",
+      "name": "秽恶之书 Book of Vile Darkness",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/book-of-vile-darkness.webp"
+    },
+    {
+      "id": "dmgBootsOfElvenk",
+      "name": "精灵之靴 Boots of Elvenkind",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/boots-of-elvenkind.webp"
+    },
+    {
+      "id": "dmgBootsOfSpeed0",
+      "name": "速度之靴 Boots of Speed",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/boots-of-speed.webp"
+    },
+    {
+      "id": "dmgBootsOfStridi",
+      "name": "跳跑之靴 Boots of Striding and Springing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/boots-of-striding-and-springing.webp"
+    },
+    {
+      "id": "dmgBootsOfTheWin",
+      "name": "雪地之靴 Boots of the Winterlands",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/boots-of-the-winterlands.webp"
+    },
+    {
+      "id": "dmgBowlOfCommand",
+      "name": "命令水元素水钵 Bowl of Commanding Water Elementals",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bowl-of-commanding-water-elementals.webp"
+    },
+    {
+      "id": "dmgBracersOfArch",
+      "name": "射手护腕 Bracers of Archery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bracers-of-archery.webp"
+    },
+    {
+      "id": "dmgBracersOfDefe",
+      "name": "防御护腕 Bracers of Defense",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bracers-of-defense.webp"
+    },
+    {
+      "id": "dmgBrassHornOfVa",
+      "name": "瓦尔哈拉号角：黄铜 Brass Horn of Valhalla",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-valhalla.webp"
+    },
+    {
+      "id": "dmgBrazierOfComm",
+      "name": "命令火元素火盆 Brazier of Commanding Fire Elementals",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/brazier-of-commanding-fire-elementals.webp"
+    },
+    {
+      "id": "dmgBronzeHornOfV",
+      "name": "瓦尔哈拉号角：青铜 Bronze Horn of Valhalla",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-valhalla.webp"
+    },
+    {
+      "id": "dmgBroochOfShiel",
+      "name": "护盾胸针 Brooch of Shielding",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/brooch-of-shielding.webp"
+    },
+    {
+      "id": "dmgBroomOfFlying",
+      "name": "飞天扫帚 Broom of Flying",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/broom-of-flying.webp"
+    },
+    {
+      "id": "dmgCanaithMandol",
+      "name": "卡奈斯曼陀林 Canaith Mandolin Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/canaith-mandolin.webp"
+    },
+    {
+      "id": "dmgCandleOfInvoc",
+      "name": "祈神蜡烛 Candle of Invocation",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/candles-of-invocation.webp"
+    },
+    {
+      "id": "dmgCapeOfTheMoun",
+      "name": "江湖骗子披风 Cape of the Mountebank",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cape-of-the-mountebank.webp"
+    },
+    {
+      "id": "dmgCarpetOfFlyin",
+      "name": "飞毯 Carpet of Flying",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/carpet-of-flying.webp"
+    },
+    {
+      "id": "dmgCauldronOfReb",
+      "name": "重生坩埚 Cauldron of Rebirth",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cauldron-of-rebirth.webp"
+    },
+    {
+      "id": "dmgCenserOfContr",
+      "name": "命令元素香炉：气 Censer of Controlling Air Elementals",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/censer-of-controlling-air-elementals.webp"
+    },
+    {
+      "id": "dmgCharlatansDie",
+      "name": "骗子骰 Charlatan's Die",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/charlatans-die.webp"
+    },
+    {
+      "id": "dmgChimeOfOpenin",
+      "name": "开门钟琴 Chime of Opening",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/chime-of-opening.webp"
+    },
+    {
+      "id": "dmgCircletOfBlas",
+      "name": "爆裂头饰 Circlet of Blasting",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/circlet-of-blasting.webp"
+    },
+    {
+      "id": "dmgCliLyreInstru",
+      "name": "克里里拉琴 Cli Lyre Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cli-lyre.webp"
+    },
+    {
+      "id": "dmgCloakOfBillow",
+      "name": "飘扬斗篷 Cloak of Billowing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-billowing.webp"
+    },
+    {
+      "id": "dmgCloakOfDispla",
+      "name": "移位斗篷 Cloak of Displacement",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-displacement.webp"
+    },
+    {
+      "id": "dmgCloakOfElvenk",
+      "name": "精灵斗篷 Cloak of Elvenkind",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-elvenkind.webp"
+    },
+    {
+      "id": "dmgCloakOfManyFa",
+      "name": "万众时尚斗篷 Cloak of Many Fashions",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-many-fashions.webp"
+    },
+    {
+      "id": "dmgCloakOfProtec",
+      "name": "防护斗篷 Cloak of Protection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-protection.webp"
+    },
+    {
+      "id": "dmgCloakOfTheMan",
+      "name": "蝠鲼斗篷 Cloak of the Manta Ray",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cloak-of-the-manta-ray.webp"
+    },
+    {
+      "id": "dmgCloudPotionOf",
+      "name": "巨人之力药水：云巨人 Potion of Giant Strength (Cloud)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-giant-strength-storm.webp"
+    },
+    {
+      "id": "dmgCourtyard0000",
+      "name": "庭院 Courtyard",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgCubeOfForce00",
+      "name": "力场魔方 Cube of Force",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cube-of-force.webp"
+    },
+    {
+      "id": "dmgCubeOfSummoni",
+      "name": "召唤魔方 Cube of Summoning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cube-of-summoning.webp"
+    },
+    {
+      "id": "dmgCubicGate0000",
+      "name": "异界之门魔方 Cubic Gate",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/cubic-gate.webp"
+    },
+    {
+      "id": "dmgDaernsInstant",
+      "name": "迪恩的折叠要塞 Daern's Instant Fortress",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/daerns-instant-fortress.webp"
+    },
+    {
+      "id": "dmgDaggerOfVenom",
+      "name": "淬毒匕首 Dagger of Venom",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dagger-of-venom.webp"
+    },
+    {
+      "id": "dmgDancingSword0",
+      "name": "舞空剑 Dancing Sword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dancing-sword-longsword.webp"
+    },
+    {
+      "id": "dmgDarkShardAmul",
+      "name": "黑暗碎片护符 Dark Shard Amulet",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dark-shard-amulet.webp"
+    },
+    {
+      "id": "dmgDecanterOfEnd",
+      "name": "无尽水瓶 Decanter of Endless Water",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/decanter-of-endless-water.webp"
+    },
+    {
+      "id": "dmgDefender00000",
+      "name": "防御者 Defender",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/defender-greatsword.webp"
+    },
+    {
+      "id": "dmgDemiplane0000",
+      "name": "半位面 Demiplane",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgDemonArmor000",
+      "name": "恶魔护甲 Demon Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/demon-armor-plate.webp"
+    },
+    {
+      "id": "dmgDemonomiconOf",
+      "name": "伊格薇尔伏恶魔志 Demonomicon of Iggwilv",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/demonnomicon-of-iggwilv.webp"
+    },
+    {
+      "id": "dmgDimensionalSh",
+      "name": "次元镣铐 Dimensional Shackles",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dimensional-shackles.webp"
+    },
+    {
+      "id": "dmgDiningRoom000",
+      "name": "餐厅 Dining Room",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "dmgDmtComet00000",
+      "name": "彗星 Comet",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/deck-of-many-things-comet.webp"
+    },
+    {
+      "id": "dmgDmtFool000000",
+      "name": "愚者 Fool",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/deck-of-many-things-fool.webp"
+    },
+    {
+      "id": "dmgDmtSkull00000",
+      "name": "头骨 Skull",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/deck-of-many-things-skull.webp"
+    },
+    {
+      "id": "dmgDmtTalons0000",
+      "name": "利爪 Talons",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/deck-of-many-things-talons.webp"
+    },
+    {
+      "id": "dmgDmtThrone0000",
+      "name": "王座 Throne",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/deck-of-many-things-throne.webp"
+    },
+    {
+      "id": "dmgDossLuteInstr",
+      "name": "道斯鲁特琴 Doss Lute Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/doss-lute.webp"
+    },
+    {
+      "id": "dmgDragonScaleMa",
+      "name": "龙鳞甲 Dragon Scale Mail",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "dmgDragonSlayer0",
+      "name": "屠龙者 Dragon Slayer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-slayer-greatsword.webp"
+    },
+    {
+      "id": "dmgDreadHelm0000",
+      "name": "恐怖头盔 Dread Helm",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dread-helm.webp"
+    },
+    {
+      "id": "dmgDriftglobe000",
+      "name": "漂浮之球 Driftglobe",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/driftglobe.webp"
+    },
+    {
+      "id": "dmgDustOfDisappe",
+      "name": "无踪粉 Dust of Disappearance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dust-of-disappearance.webp"
+    },
+    {
+      "id": "dmgDustOfSneezin",
+      "name": "喷嚏粉 Dust of Sneezing and Choking",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dust-of-sneezing-choking.webp"
+    },
+    {
+      "id": "dmgDwarvenPlate0",
+      "name": "矮人板甲 Dwarven Plate",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dwarven-plate.webp"
+    },
+    {
+      "id": "dmgDwarvenThrowe",
+      "name": "矮人飞锤 Dwarven Thrower",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dwarven-thrower.webp"
+    },
+    {
+      "id": "dmgEarthRingOfEl",
+      "name": "命令元素戒指：土 Earth Ring of Elemental Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-elemental-command-air.webp"
+    },
+    {
+      "id": "dmgEfreetiBottle",
+      "name": "火巨灵囚瓶 Efreeti Bottle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/efreeti-bottle.webp"
+    },
+    {
+      "id": "dmgEfreetiChain0",
+      "name": "火巨灵链甲 Efreeti Chain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/efreeti-chain.webp"
+    },
+    {
+      "id": "dmgElementalGem0",
+      "name": "元素宝石 Elemental Gem",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elemental-gem-earth.webp"
+    },
+    {
+      "id": "dmgElvenChain000",
+      "name": "精灵链甲 Elven Chain",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elven-chain.webp"
+    },
+    {
+      "id": "dmgEmeraldElemen",
+      "name": "元素宝石：绿宝石 Elemental Gem (Emerald)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elemental-gem-water.webp"
+    },
+    {
+      "id": "dmgEnergyBow0000",
+      "name": "能量弓 Energy Bow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/energy-bow.webp"
+    },
+    {
+      "id": "dmgEversmokingBo",
+      "name": "无尽烟壶 Eversmoking Bottle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/eversmoking-bottle.webp"
+    },
+    {
+      "id": "dmgEyeAndHandOfV",
+      "name": "维克那法眼和魔掌 Eye and Hand of Vecna",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/eye-of-vecna.webp"
+    },
+    {
+      "id": "dmgEyeofVecna000",
+      "name": "维克那法眼 Eye of Vecna",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/eye-of-vecna.webp"
+    },
+    {
+      "id": "dmgEyesOfCharmin",
+      "name": "魅惑镜片 Eyes of Charming",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/eyes-of-charming.webp"
+    },
+    {
+      "id": "dmgEyesOfTheEagl",
+      "name": "鹰眼镜片 Eyes of the Eagle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/eyes-of-the-eagle.webp"
+    },
+    {
+      "id": "dmgFanQuaalsFeat",
+      "name": "夸尔羽符（扇） Quaal's Feather Token (Fan)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-fan.webp"
+    },
+    {
+      "id": "dmgFigurineOfWon",
+      "name": "异能塑像 Figurine of Wondrous Power",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-ivory-goats.webp"
+    },
+    {
+      "id": "dmgfirBeltofGian",
+      "name": "巨人之力腰带：火巨人 Belt of Giant Strength (fire)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/belt-of-giant-strength-fire.webp"
+    },
+    {
+      "id": "dmgFireRingOfEle",
+      "name": "命令元素戒指：火 Fire Ring of Elemental Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-elemental-command-air.webp"
+    },
+    {
+      "id": "dmgFlameTongue00",
+      "name": "焰舌 Flame Tongue",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/flame-tongue-longsword.webp"
+    },
+    {
+      "id": "dmgFochlucanBand",
+      "name": "佛克路坎班多里琴 Fochlucan Bandore Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/fochlucan-bandore.webp"
+    },
+    {
+      "id": "dmgFortitudeIoun",
+      "name": "艾恩石：坚韧 Ioun Stone of Fortitude",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-iridescent-spindle.webp"
+    },
+    {
+      "id": "dmgFrostBrand000",
+      "name": "霜铭 Frost Brand",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/frost-brand-scimitar.webp"
+    },
+    {
+      "id": "dmgFwpEbonyFlyRa",
+      "name": "黑檀苍蝇 Ebony Fly",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-ebony-fly.webp"
+    },
+    {
+      "id": "dmgFwpGoldenLion",
+      "name": "黄金狮子 Golden Lions",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-golden-lions.webp"
+    },
+    {
+      "id": "dmgFwpIvoryGoats",
+      "name": "象牙山羊 Ivory Goats",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-ivory-goats.webp"
+    },
+    {
+      "id": "dmgFwpMarbleElep",
+      "name": "大理石象 Marble Elephant",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-marble-elephant.webp"
+    },
+    {
+      "id": "dmgFwpObsidianSt",
+      "name": "黑曜石驹 Obsidian Steed",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-obsidian-steed.webp"
+    },
+    {
+      "id": "dmgFwpOnyxDogRar",
+      "name": "玛瑙狗狗 Onyx Dog",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-onyx-dog.webp"
+    },
+    {
+      "id": "dmgFwpSerpentine",
+      "name": "蛇纹石鸮 Serpentine Owl",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/figurine-of-wondrous-power-serpentine-owl.webp"
+    },
+    {
+      "id": "dmgGamingHall000",
+      "name": "游戏厅 Gaming Hall",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgGarden0000000",
+      "name": "种植园 Garden",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgGauntletsOfOg",
+      "name": "食人魔力量护手 Gauntlets of Ogre Power",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gauntlets-of-ogre-power.webp"
+    },
+    {
+      "id": "dmgGemOfBrightne",
+      "name": "光彩夺目宝石 Gem of Brightness",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gem-of-brightness.webp"
+    },
+    {
+      "id": "dmgGemOfSeeing00",
+      "name": "真视宝石 Gem of Seeing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gem-of-seeing.webp"
+    },
+    {
+      "id": "dmgGlamouredStud",
+      "name": "幻惑镶钉皮甲 Glamoured Studded Leather",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/studded-leather-armor.webp"
+    },
+    {
+      "id": "dmgGlovesOfMissi",
+      "name": "辟矢夺箭手套 Gloves of Missile Snaring",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gloves-of-missile-snaring.webp"
+    },
+    {
+      "id": "dmgGlovesOfThiev",
+      "name": "窃贼手套 Gloves of Thievery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gloves-of-thievery.webp"
+    },
+    {
+      "id": "dmgGogglesOfNigh",
+      "name": "夜视镜  Goggles of Night",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/goggles-of-night.webp"
+    },
+    {
+      "id": "dmgGreaterAbsorp",
+      "name": "艾恩石：高等吸收 Ioun Stone of Greater Absorption",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-pale-blue-rhomboid.webp"
+    },
+    {
+      "id": "dmgGreaterPotion",
+      "name": "治疗药水（高等） Potion of Healing (Greater)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "dmgGreenhouse000",
+      "name": "温室 Greenhouse",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgGuildhall0000",
+      "name": "公会大厅 Guildhall",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgHagEye0000000",
+      "name": "鬼婆之眼 Hag Eye",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hag-eye.webp"
+    },
+    {
+      "id": "dmgHammerOfThund",
+      "name": "雷神之锤 Hammer of Thunderbolts",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hammer-of-thunderbolts.webp"
+    },
+    {
+      "id": "dmgHandofVecna00",
+      "name": "维克那魔掌  Hand of Vecna",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hand-of-vecna.webp"
+    },
+    {
+      "id": "dmgHatOfDisguise",
+      "name": "易容帽 Hat of Disguise",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hat-of-disguise.webp"
+    },
+    {
+      "id": "dmgHatOfManySpel",
+      "name": "万法无常帽 Hat of Many Spells",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hat-of-many-spells.webp"
+    },
+    {
+      "id": "dmgHatOfVermin00",
+      "name": "害兽帽 Hat of Vermin",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hat-of-vermin.webp"
+    },
+    {
+      "id": "dmgHatOfWizardry",
+      "name": "巫术帽 Hat of Wizardry",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hat-of-wizardry.webp"
+    },
+    {
+      "id": "dmgHeadbandOfInt",
+      "name": "智力头带 Headband of Intellect",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/headband-of-intellect.webp"
+    },
+    {
+      "id": "dmgHelmOfBrillia",
+      "name": "光辉头盔 Helm of Brilliance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/helm-of-brilliance.webp"
+    },
+    {
+      "id": "dmgHelmOfCompreh",
+      "name": "通晓语言头盔 Helm of Comprehending Languages",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/helm-of-comprehending-languages.webp"
+    },
+    {
+      "id": "dmgHelmOfTelepat",
+      "name": "心灵感应头盔 Helm of Telepathy",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/helm-of-telepathy.webp"
+    },
+    {
+      "id": "dmgHelmOfTelepor",
+      "name": "传送头盔 Helm of Teleportation",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/helm-of-teleportation.webp"
+    },
+    {
+      "id": "dmgHewardsHandyH",
+      "name": "霍华德便利袋 Heward's Handy Haversack",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/hewards-handy-haversack.webp"
+    },
+    {
+      "id": "dmgHolyAvenger00",
+      "name": "神圣复仇者 Holy Avenger",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/holy-avenger-greatsword.webp"
+    },
+    {
+      "id": "dmgHornOfBlastin",
+      "name": "音爆号角 Horn of Blasting",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-blasting.webp"
+    },
+    {
+      "id": "dmgHornofValhall",
+      "name": "瓦尔哈拉号角 Horn of Valhalla",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-valhalla.webp"
+    },
+    {
+      "id": "dmgImmovableRod0",
+      "name": "不动权杖 Immovable Rod",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/immovable-rod.webp"
+    },
+    {
+      "id": "dmgInsightIounSt",
+      "name": "艾恩石：洞悉 Ioun Stone of Insight",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-vibrant-purple-prism.webp"
+    },
+    {
+      "id": "dmgInstrumentOfI",
+      "name": "幻象乐器 Instrument of Illusions",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/instrument-of-illusions.webp"
+    },
+    {
+      "id": "dmgIntellectIoun",
+      "name": "艾恩石：才智 Ioun Stone of Intellect",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-deep-red-sphere.webp"
+    },
+    {
+      "id": "dmgIounStone0000",
+      "name": "艾恩石 Ioun Stone",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-vibrant-purple-prism.webp"
+    },
+    {
+      "id": "dmgIronBandsOfBi",
+      "name": "比拉罗的铁索 Iron Bands of Bilarro",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/iron-bands-of-bilarro.webp"
+    },
+    {
+      "id": "dmgIronFlask0000",
+      "name": "收妖瓶 Iron Flask",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/iron-flask.webp"
+    },
+    {
+      "id": "dmgIronHornOfVal",
+      "name": "瓦尔哈拉号角：黑铁 Iron Horn of Valhalla",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-valhalla.webp"
+    },
+    {
+      "id": "dmgJavelinOfLigh",
+      "name": "闪电标枪 Javelin of Lightning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/javelin-of-lightning.webp"
+    },
+    {
+      "id": "dmgKegLauncher00",
+      "name": "毒桶抛掷器 Keg Launcher",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/keg-launcher.webp"
+    },
+    {
+      "id": "dmgKeoghtomsOint",
+      "name": "卡夫统灵药 Keoghtom's Ointment",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/keoghtoms-ointment.webp"
+    },
+    {
+      "id": "dmgKitchen000000",
+      "name": "厨房 Kitchen",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgLaboratory000",
+      "name": "实验室 Laboratory",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgLanternOfReve",
+      "name": "显像提灯 Lantern of Revealing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/lantern-of-revealing.webp"
+    },
+    {
+      "id": "dmgLeadershipIou",
+      "name": "艾恩石：统御 Ioun Stone of Leadership",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-clear-prism.webp"
+    },
+    {
+      "id": "dmgLibrary000000",
+      "name": "图书馆 Library",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgLuckBlade0000",
+      "name": "吉兆之刃 Luck Blade",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/luck-blade-shortsword.webp"
+    },
+    {
+      "id": "dmgLuteOfThunder",
+      "name": "轰天震雷鲁特琴 Lute of Thunderous Thumping",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/doss-lute.webp"
+    },
+    {
+      "id": "dmgMaceOfDisrupt",
+      "name": "瓦解之锤 Mace of Disruption",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mace-of-disruption.webp"
+    },
+    {
+      "id": "dmgMaceOfSmiting",
+      "name": "打击之锤 Mace of Smiting",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mace-of-smiting.webp"
+    },
+    {
+      "id": "dmgMaceOfTerror0",
+      "name": "恐惧之锤 Mace of Terror",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mace-of-terror.webp"
+    },
+    {
+      "id": "dmgMacfuirmidhCi",
+      "name": "麦克-弗瑞米西特琴 Mac-Fuirmidh Cittern Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mac-fuirmidh-cittern.webp"
+    },
+    {
+      "id": "dmgMangonel00000",
+      "name": "弹射投石机 Mangonel",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mangonel.webp"
+    },
+    {
+      "id": "dmgMantleOfSpell",
+      "name": "法术抗性斗篷 Mantle of Spell Resistance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mantle-of-spell-resistance.webp"
+    },
+    {
+      "id": "dmgManualOfBodil",
+      "name": "强身手册 Manual of Bodily Health",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/manual-of-bodily-health.webp"
+    },
+    {
+      "id": "dmgManualOfGolem",
+      "name": "魔像手册 Manual of Golems",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/manual-of-golems-flesh.webp"
+    },
+    {
+      "id": "dmgManualOfQuick",
+      "name": "灵巧手册 Manual of Quickness of Action",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/manual-of-quickness-of-action.webp"
+    },
+    {
+      "id": "dmgMarinersArmor",
+      "name": "水手护甲 Mariner's Armor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mariners-armor-leather.webp"
+    },
+    {
+      "id": "dmgMasteryIounSt",
+      "name": "艾恩石：精通 Ioun Stone of Mastery",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-vibrant-purple-prism.webp"
+    },
+    {
+      "id": "dmgMedallionOfTh",
+      "name": "读心勋章 Medallion of Thoughts",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/medallion-of-thoughts.webp"
+    },
+    {
+      "id": "dmgMeditationCha",
+      "name": "冥想间 Meditation Chamber",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "dmgMenagerie0000",
+      "name": "兽栏 Menagerie",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgMirrorOfLifeT",
+      "name": "摄心镜 Mirror of Life Trapping",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/mirror-of-life-trapping.webp"
+    },
+    {
+      "id": "dmgMoonblade0000",
+      "name": "月刃 Moonblade",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/moonblade-longsword.webp"
+    },
+    {
+      "id": "dmgMoontouchedSw",
+      "name": "触月剑 Moon-Touched Sword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/moon-touched-sword-rapier.webp"
+    },
+    {
+      "id": "dmgNaturesMantle",
+      "name": "自然斗篷 Nature's Mantle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/natures-mantle.webp"
+    },
+    {
+      "id": "dmgNecklaceOfFir",
+      "name": "火球项链 Necklace of Fireballs",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/necklace-of-fireballs.webp"
+    },
+    {
+      "id": "dmgNecklaceOfPra",
+      "name": "念珠项链 Necklace of Prayer Beads",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/necklace-of-prayer-beads.webp"
+    },
+    {
+      "id": "dmgNineLivesStea",
+      "name": "九命夺杀者 Nine Lives Stealer",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/nine-lives-stealer-greatsword.webp"
+    },
+    {
+      "id": "dmgNolzursMarvel",
+      "name": "诺泽尔的惊奇颜料 Nolzur's Marvelous Pigments",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/nolzurs-marvelous-pigments.webp"
+    },
+    {
+      "id": "dmgOathbow000000",
+      "name": "誓仇弓 Oathbow",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/oathbow.webp"
+    },
+    {
+      "id": "dmgObservatory00",
+      "name": "天文台 Observatory",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgOllamHarpInst",
+      "name": "奥莱姆竖琴 Ollamh Harp Instrument of the Bards",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ollamh-harp.webp"
+    },
+    {
+      "id": "dmgOrbOfDirectio",
+      "name": "方向法球 Orb of Direction",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/orb-of-direction.webp"
+    },
+    {
+      "id": "dmgOrbOfDragonki",
+      "name": "龙珠 Orb of Dragonkind",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/orb-of-dragonkind.webp"
+    },
+    {
+      "id": "dmgParlor0000000",
+      "name": "客厅 Parlor",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgPeriaptOfHeal",
+      "name": "保健护符 Periapt of Health",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/periapt-of-health.webp"
+    },
+    {
+      "id": "dmgPeriaptOfProo",
+      "name": "辟毒护符 Periapt of Proof against Poison",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/periapt-of-health.webp"
+    },
+    {
+      "id": "dmgPeriaptOfWoun",
+      "name": "愈合护符 Periapt of Wound Closure",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/periapt-of-wound-closure.webp"
+    },
+    {
+      "id": "dmgPipeOfSmokeMo",
+      "name": "怪物烟斗 Pipe of Smoke Monsters",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/pipe-of-smoke-monsters.webp"
+    },
+    {
+      "id": "dmgPipesOfHaunti",
+      "name": "颤栗乐笙 Pipes of Haunting",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/pipes-of-haunting.webp"
+    },
+    {
+      "id": "dmgPipesOfTheSew",
+      "name": "唤鼠乐笙 Pipes of the Sewers",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/pipes-of-the-sewers.webp"
+    },
+    {
+      "id": "dmgPlateArmorOfE",
+      "name": "以太化板甲 Plate Armor of Etherealness",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/plate-armor-of-etherealness.webp"
+    },
+    {
+      "id": "dmgPotionOfClimb",
+      "name": "攀爬药水 Potion of Climbing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-climbing.webp"
+    },
+    {
+      "id": "dmgPotionOfFireB",
+      "name": "火焰吐息药水 Potion of Fire Breath Potion of Fire Breath",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-fire-breath.webp"
+    },
+    {
+      "id": "dmgPotionofGiant",
+      "name": "巨人之力药水 Potion of Giant Strength",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-giant-strength-storm.webp"
+    },
+    {
+      "id": "dmgPotionOfGreat",
+      "name": "高等隐身药水 Potion of Greater Invisibility",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-invisibility.webp"
+    },
+    {
+      "id": "dmgPotionOfHeali",
+      "name": "治疗药水 Potion of Healing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "dmgPotionOfInvis",
+      "name": "隐身药水 Potion of Invisibility",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-invisibility.webp"
+    },
+    {
+      "id": "dmgPotionOfPoiso",
+      "name": "剧毒药水 Potion of Poison",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "dmgPotionOfPugil",
+      "name": "重拳药水 Potion of Pugilism",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-pugilism.webp"
+    },
+    {
+      "id": "dmgPotionOfVital",
+      "name": "活力药水 Potion of Vitality",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-vitality.webp"
+    },
+    {
+      "id": "dmgPotionOfWater",
+      "name": "水下呼吸药水 Potion of Water Breathing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-water-breathing.webp"
+    },
+    {
+      "id": "dmgProtectionIou",
+      "name": "艾恩石：防护 Ioun Stone of Protection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-pale-blue-rhomboid.webp"
+    },
+    {
+      "id": "dmgPub0000000000",
+      "name": "酒馆 Pub",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgQuaalsFeather",
+      "name": "夸尔羽符 Quaal's Feather Token",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-fan.webp"
+    },
+    {
+      "id": "dmgQuarterstaffO",
+      "name": "杂技长棍 Quarterstaff of the Acrobat",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quarterstaff-of-the-acrobat.webp"
+    },
+    {
+      "id": "dmgQuiverOfEhlon",
+      "name": "艾罗娜的箭袋 Quiver of Ehlonna",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quiver-of-ehlonna.webp"
+    },
+    {
+      "id": "dmgRedElementalG",
+      "name": "元素宝石：红刚玉 Elemental Gem (Red Corundum)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elemental-gem-fire.webp"
+    },
+    {
+      "id": "dmgRegnerationIo",
+      "name": "Ioun Stone of Regneration",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-iridescent-spindle.webp"
+    },
+    {
+      "id": "dmgReliquary0000",
+      "name": "圣物库 Reliquary",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgReserveIounSt",
+      "name": "艾恩石：储法 Ioun Stone of Reserve",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-dusty-rose-prism.webp"
+    },
+    {
+      "id": "dmgRingOfAnimalI",
+      "name": "影响动物戒指 Ring of Animal Influence",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-animal-influence.webp"
+    },
+    {
+      "id": "dmgRingOfDjinniS",
+      "name": "召唤气巨灵戒指 Ring of Djinni Summoning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-djinni-summoning.webp"
+    },
+    {
+      "id": "dmgRingOfElement",
+      "name": "命令元素戒指 Ring of Elemental Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-elemental-command-air.webp"
+    },
+    {
+      "id": "dmgRingOfEvasion",
+      "name": "反射闪避戒指 Ring of Evasion",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-evasion.webp"
+    },
+    {
+      "id": "dmgRingOfFeather",
+      "name": "羽落戒指 Ring of Feather Falling",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-feather-falling.webp"
+    },
+    {
+      "id": "dmgRingOfInvisib",
+      "name": "隐身戒指 Ring of Invisibility",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-invisibility.webp"
+    },
+    {
+      "id": "dmgRingOfMindShi",
+      "name": "心灵护盾戒指 Ring of Mind Shielding",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-mind-shielding.webp"
+    },
+    {
+      "id": "dmgRingOfProtect",
+      "name": "防护戒指 Ring of Protection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-protection.webp"
+    },
+    {
+      "id": "dmgRingOfRegener",
+      "name": "再生戒指 Ring of Regeneration",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-regeneration.webp"
+    },
+    {
+      "id": "dmgRingOfResista",
+      "name": "抗性戒指 Ring of Resistance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-resistance-fire.webp"
+    },
+    {
+      "id": "dmgRingOfShootin",
+      "name": "流星戒指 Ring of Shooting Stars",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-shooting-stars.webp"
+    },
+    {
+      "id": "dmgRingOfSpellSt",
+      "name": "储法戒指 Ring of Spell Storing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-spell-storing.webp"
+    },
+    {
+      "id": "dmgRingOfSpellTu",
+      "name": "法术反转戒指 Ring of Spell Turning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-spell-turning.webp"
+    },
+    {
+      "id": "dmgRingOfTelekin",
+      "name": "心灵遥控戒指 Ring of Telekinesis",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-telekinesis.webp"
+    },
+    {
+      "id": "dmgRingOfTheRam0",
+      "name": "公羊戒指 Ring of the Ram",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-the-ram.webp"
+    },
+    {
+      "id": "dmgRingOfThreeWi",
+      "name": "三愿戒指 Ring of Three Wishes",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-three-wishes.webp"
+    },
+    {
+      "id": "dmgRingOfWarmth0",
+      "name": "温暖戒指 Ring of Warmth",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-warmth.webp"
+    },
+    {
+      "id": "dmgRingOfWaterWa",
+      "name": "水上行走戒指 Ring of Water Walking",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-water-walking.webp"
+    },
+    {
+      "id": "dmgRingOfXrayVis",
+      "name": "X射线戒指 Ring of X-ray Vision",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-x-ray-vision.webp"
+    },
+    {
+      "id": "dmgRivalCoin0000",
+      "name": "劲敌硬币 Rival Coin",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rival-coins.webp"
+    },
+    {
+      "id": "dmgRobeOfEyes000",
+      "name": "百眼法袍 Robe of Eyes",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/robe-of-eyes.webp"
+    },
+    {
+      "id": "dmgRobeOfStars00",
+      "name": "星辰法袍 Robe of Stars",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/robe-of-stars.webp"
+    },
+    {
+      "id": "dmgRobeOfTheArch",
+      "name": "大法师法袍 Robe of the Archmagi",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/robe-of-the-archmagi.webp"
+    },
+    {
+      "id": "dmgRobeOfUsefulI",
+      "name": "杂货法袍 Robe of Useful Items",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/robe-of-useful-items.webp"
+    },
+    {
+      "id": "dmgRodOfAbsorpti",
+      "name": "吸收权杖 Rod of Absorption",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rod-of-absorption.webp"
+    },
+    {
+      "id": "dmgRodOfLordlyMi",
+      "name": "王者权杖 Rod of Lordly Might",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rod-of-lordly-might.webp"
+    },
+    {
+      "id": "dmgRodOfResurrec",
+      "name": "复生权杖 Rod of Resurrection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rod-of-resurrection.webp"
+    },
+    {
+      "id": "dmgRodOfRulershi",
+      "name": "统御权杖 Rod of Rulership",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rod-of-rulership.webp"
+    },
+    {
+      "id": "dmgRopeOfEntangl",
+      "name": "纠缠绳 Rope of Entanglement",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rope-of-entanglement.webp"
+    },
+    {
+      "id": "dmgRustBagofTric",
+      "name": "铁锈色魔术袋 Rust Bag of Tricks",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-tricks.webp"
+    },
+    {
+      "id": "dmgSacristy00000",
+      "name": "圣器室 Sacristy",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgSanctuary0000",
+      "name": "圣坛 Sanctuary",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgSanctum000000",
+      "name": "圣所 Sanctum",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgScarabOfProte",
+      "name": "防护圣甲虫 Scarab of Protection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scarab-of-protection.webp"
+    },
+    {
+      "id": "dmgScimitarOfSpe",
+      "name": "急速弯刀 Scimitar of Speed",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scimitar-of-speed.webp"
+    },
+    {
+      "id": "dmgScriptorium00",
+      "name": "抄写室 Scriptorium",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgScrollOfProte",
+      "name": "守护卷轴 Scroll of Protection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "dmgScrollOfTitan",
+      "name": "召唤泰坦卷轴 Scroll of Titan Summoning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "dmgSendingStones",
+      "name": "传讯石 Sending Stones",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sending-stones.webp"
+    },
+    {
+      "id": "dmgShieldOfMissi",
+      "name": "引弹盾 Shield of Missile Attraction",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/shield-of-missile-attraction.webp"
+    },
+    {
+      "id": "dmgShieldOfTheCa",
+      "name": "骑士之盾 Shield of the Cavalier",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/shield-of-the-cavalier.webp"
+    },
+    {
+      "id": "dmgSilverHornOfV",
+      "name": "瓦尔哈拉号角：白银 Silver Horn of Valhalla",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-valhalla.webp"
+    },
+    {
+      "id": "dmgSlayingAmmuni",
+      "name": "屠杀弹药 Ammunition of Slaying",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ammunition-of-slaying.webp"
+    },
+    {
+      "id": "dmgSlippersOfSpi",
+      "name": "蛛行便鞋 Slippers of Spider Climbing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/slippers-of-spider-climbing.webp"
+    },
+    {
+      "id": "dmgSmithy0000000",
+      "name": "铁匠铺 Smithy",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgSovereignGlue",
+      "name": "至尊胶 Sovereign Glue",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sovereign-glue.webp"
+    },
+    {
+      "id": "dmgSpellguardShi",
+      "name": "抗法盾 Spellguard Shield",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/spellguard-shield.webp"
+    },
+    {
+      "id": "dmgSpellScroll00",
+      "name": "法术卷轴 Spell Scroll",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/spell-scroll.webp"
+    },
+    {
+      "id": "dmgSphereOfAnnih",
+      "name": "法球碰撞 Sphere of Annihilation",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sphere-of-annihilation.webp"
+    },
+    {
+      "id": "dmgSpiritBoard00",
+      "name": "通灵板 Spirit Board",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/spirit-board.webp"
+    },
+    {
+      "id": "dmgStable0000000",
+      "name": "稳定姿态 Stable",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgStaffOfAdornm",
+      "name": "饰品法杖 Staff of Adornment",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quarterstaff.webp"
+    },
+    {
+      "id": "dmgStaffOfBirdca",
+      "name": "鸟鸣法杖 Staff of Birdcalls",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quarterstaff.webp"
+    },
+    {
+      "id": "dmgStaffOfCharmi",
+      "name": "魅惑法杖 Staff of Charming",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-charming.webp"
+    },
+    {
+      "id": "dmgStaffOfFire00",
+      "name": "火焰法杖 Staff of Fire",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-fire.webp"
+    },
+    {
+      "id": "dmgStaffOfFlower",
+      "name": "鲜花法杖 Staff of Flowers",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-flowers.webp"
+    },
+    {
+      "id": "dmgStaffOfFrost0",
+      "name": "冰霜法杖 Staff of Frost",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-frost.webp"
+    },
+    {
+      "id": "dmgStaffOfHealin",
+      "name": "治愈法杖 Staff of Healing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-healing.webp"
+    },
+    {
+      "id": "dmgStaffOfPower0",
+      "name": "威力法杖 Staff of Power",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-power.webp"
+    },
+    {
+      "id": "dmgStaffOfStriki",
+      "name": "强袭法杖 Staff of Striking",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quarterstaff.webp"
+    },
+    {
+      "id": "dmgStaffOfSwarmi",
+      "name": "虫群法杖 Staff of Swarming Insects",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-swarming-insects.webp"
+    },
+    {
+      "id": "dmgStaffOfTheAdd",
+      "name": "蝰蛇法杖 Staff of the Adder",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-the-adder.webp"
+    },
+    {
+      "id": "dmgStaffOfTheMag",
+      "name": "贤者法杖 Staff of the Magi",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-the-magi.webp"
+    },
+    {
+      "id": "dmgStaffOfThePyt",
+      "name": "蟒蛇法杖 Staff of the Python",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-the-python.webp"
+    },
+    {
+      "id": "dmgStaffOfTheWoo",
+      "name": "丛林法杖 Staff of the Woodlands",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-the-woodlands.webp"
+    },
+    {
+      "id": "dmgStaffOfThunde",
+      "name": "雷霆法杖 Staff of Thunder and Lightning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-thunder-and-lightning.webp"
+    },
+    {
+      "id": "dmgStaffOfWither",
+      "name": "凋零法杖 Staff of Withering",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/staff-of-withering.webp"
+    },
+    {
+      "id": "dmgstoBeltofGian",
+      "name": "巨人之力腰带：石巨人 Belt of Giant Strength (stone)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/belt-of-giant-strength-stone.webp"
+    },
+    {
+      "id": "dmgStoneOfGoodLu",
+      "name": "吉运之石（幸运石） Stone of Good Luck (Luckstone)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/stone-of-good-luck.webp"
+    },
+    {
+      "id": "dmgStorage000000",
+      "name": "储藏室 Storage",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgStorehouse000",
+      "name": "仓库 Storehouse",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgStrengthIounS",
+      "name": "艾恩石：力量 Ioun Stone of Strength",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-deep-red-sphere.webp"
+    },
+    {
+      "id": "dmgSunBlade00000",
+      "name": "阳炎剑 Sun Blade",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sunblade.webp"
+    },
+    {
+      "id": "dmgSuperiorPotio",
+      "name": "治疗药水（强效） Potion of Healing (Superior)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "dmgSupremePotion",
+      "name": "治疗药水（极效） Potion of Healing (Supreme)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "dmgSustenanceIou",
+      "name": "艾恩石：维生 Ioun Stone of Sustenance",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ioun-clear-prism.webp"
+    },
+    {
+      "id": "dmgSwanBoatQuaal",
+      "name": "夸尔羽符（天鹅船） Quaal's Feather Token (Swan Boat)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-swan-boat.webp"
+    },
+    {
+      "id": "dmgSwordOfAnswer",
+      "name": "应答之剑 Sword of Answering",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/longsword.webp"
+    },
+    {
+      "id": "dmgSwordOfKas000",
+      "name": "凯斯之剑 Sword of Kas",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sword-of-kas.webp"
+    },
+    {
+      "id": "dmgSwordOfLifeSt",
+      "name": "窃命剑 Sword of Life Stealing",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sword-of-life-stealing-longsword.webp"
+    },
+    {
+      "id": "dmgSwordOfSharpn",
+      "name": "锐锋之剑 Sword of Sharpness",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sword-of-sharpness-greatsword.webp"
+    },
+    {
+      "id": "dmgSylvanTalon00",
+      "name": "木族利爪 Sylvan Talon",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sylvan-talon-scimitar.webp"
+    },
+    {
+      "id": "dmgTalismanOfThe",
+      "name": "法球护符 Talisman of the Sphere",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/talisman-of-the-sphere.webp"
+    },
+    {
+      "id": "dmgTalismanOfUlt",
+      "name": "至恶护符 Talisman of Ultimate Evil",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/talisman-of-ultimate-evil.webp"
+    },
+    {
+      "id": "dmgTalkingDoll00",
+      "name": "说话玩偶 Talking Doll",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/talking-doll.webp"
+    },
+    {
+      "id": "dmgTanBagofTrick",
+      "name": "棕褐色魔术袋 Tan Bag of Tricks",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/bag-of-tricks.webp"
+    },
+    {
+      "id": "dmgTeleportation",
+      "name": "传送法阵 Teleportation Circle",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-04.webp"
+    },
+    {
+      "id": "dmgTentacleRod00",
+      "name": "触须权杖 Tentacle Rod",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/tentacle-rod.webp"
+    },
+    {
+      "id": "dmgTheater000000",
+      "name": "剧院 Theater",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "dmgThunderousGre",
+      "name": "雷霆巨棒 Thunderous Greatclub",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/thunderous-greatclub.webp"
+    },
+    {
+      "id": "dmgTomeOfClearTh",
+      "name": "静思卷册 Tome of Clear Thought",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/tome-of-clear-thought.webp"
+    },
+    {
+      "id": "dmgTomeOfLeaders",
+      "name": "统御卷册 Tome of Leadership and Influence",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/tome-of-leadership-and-influence.webp"
+    },
+    {
+      "id": "dmgTomeOfUnderst",
+      "name": "通晓卷册 Tome of Understanding",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/tome-of-understanding.webp"
+    },
+    {
+      "id": "dmgTrainingArea0",
+      "name": "训练场 Training Area",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "dmgTreeQuaalsFea",
+      "name": "夸尔羽符（树） Quaal's Feather Token (Tree)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-tree.webp"
+    },
+    {
+      "id": "dmgTridentOfFish",
+      "name": "唤鱼三叉戟 Trident of Fish Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/trident-of-fish-command.webp"
+    },
+    {
+      "id": "dmgTrophyRoom000",
+      "name": "陈列室 Trophy Room",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgUniversalSolv",
+      "name": "万溶剂 Universal Solvent",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/universal-solvent.webp"
+    },
+    {
+      "id": "dmgVorpalSword00",
+      "name": "斩首剑 Vorpal Sword",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/vorpal-sword-longsword.webp"
+    },
+    {
+      "id": "dmgWandOfEnemyDe",
+      "name": "搜敌魔杖 Wand of Enemy Detection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-enemy-detection.webp"
+    },
+    {
+      "id": "dmgWandOfFear000",
+      "name": "恐惧魔杖 Wand of Fear",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-fear.webp"
+    },
+    {
+      "id": "dmgWandOfFirebal",
+      "name": "火球魔杖 Wand of Fireballs",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-fireballs.webp"
+    },
+    {
+      "id": "dmgWandOfLightni",
+      "name": "闪电束魔杖 Wand of Lightning Bolts",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-lightning-bolts.webp"
+    },
+    {
+      "id": "dmgWandOfMagicDe",
+      "name": "搜魔魔杖 Wand of Magic Detection",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-magic-detection.webp"
+    },
+    {
+      "id": "dmgWandOfMagicMi",
+      "name": "魔法飞弹魔杖 Wand of Magic Missiles",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-magic-missiles.webp"
+    },
+    {
+      "id": "dmgWandOfOrcus00",
+      "name": "奥喀斯之杖 Wand of Orcus",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-orcus.webp"
+    },
+    {
+      "id": "dmgWandOfParalys",
+      "name": "麻痹魔杖 Wand of Paralysis",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-paralysis.webp"
+    },
+    {
+      "id": "dmgWandOfPolymor",
+      "name": "变形魔杖 Wand of Polymorph",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-polymorph.webp"
+    },
+    {
+      "id": "dmgWandOfPyrotec",
+      "name": "烟火魔杖 Wand of Pyrotechnics",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-fireballs.webp"
+    },
+    {
+      "id": "dmgWandOfSecrets",
+      "name": "探秘魔杖 Wand of Secrets",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-secrets.webp"
+    },
+    {
+      "id": "dmgWandOfWeb0000",
+      "name": "蛛网魔杖 Wand of Web",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-web.webp"
+    },
+    {
+      "id": "dmgWandOfWonder0",
+      "name": "惊异魔杖 Wand of Wonder",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-wonder.webp"
+    },
+    {
+      "id": "dmgWarRoom000000",
+      "name": "作战指挥室 War Room",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "dmgWaterRingOfEl",
+      "name": "命令元素戒指：水 Water Ring of Elemental Command",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-elemental-command-air.webp"
+    },
+    {
+      "id": "dmgWave000000000",
+      "name": "波涛 Wave",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/trident.webp"
+    },
+    {
+      "id": "dmgWeapon12or300",
+      "name": "武器，+1、+2、+3 Weapon, +1, +2, or +3",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/plus-one-weapon-war-pick.webp"
+    },
+    {
+      "id": "dmgWeaponOfWarni",
+      "name": "警戒武器 Weapon of Warning",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/weapon-of-warning-trident.webp"
+    },
+    {
+      "id": "dmgWhipQuaalsFea",
+      "name": "夸尔羽符（鞭） Quaal's Feather Token (Whip)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/quaals-feather-token-whip.webp"
+    },
+    {
+      "id": "dmgWindFan000000",
+      "name": "造风之扇 Wind Fan",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wind-fan.webp"
+    },
+    {
+      "id": "dmgWingedBoots00",
+      "name": "飞翼之靴 Winged Boots",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/winged-boots.webp"
+    },
+    {
+      "id": "dmgWingsOfFlying",
+      "name": "飞翼斗篷 Wings of Flying",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wings-of-flying.webp"
+    },
+    {
+      "id": "dmgWorkshop00000",
+      "name": "工坊 Workshop",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-02.webp"
+    },
+    {
+      "id": "dmgYellowElement",
+      "name": "元素宝石：黄钻石 Elemental Gem (Yellow Diamond)",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/elemental-gem-earth.webp"
+    },
+    {
+      "id": "Dp2k2G8cSCRIb3bp",
+      "name": "绿龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "eFfWdbcygq1LDcXe",
+      "name": "Oathbow - Sworn Enemy - Attacker",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/oathbow.webp"
+    },
+    {
+      "id": "Ekz3r0UKJ261oBJj",
+      "name": "油灯 Lamp",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "FqUhrsOwuBjoJjwK",
+      "name": "幸运",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/stone-of-good-luck.webp"
+    },
+    {
+      "id": "FuzyfcWOcC3IXsDB",
+      "name": "水下呼吸",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-water-breathing.webp"
+    },
+    {
+      "id": "gCKSeXHije5JwRe3",
+      "name": "烈焰包覆",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/flame-tongue-longsword.webp"
+    },
+    {
+      "id": "GDfu0ASHkIc3ZYpz",
+      "name": "青铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "GTBlnwp18lMmlhNY",
+      "name": "黑龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "GxutU47JS0FNfeoM",
+      "name": "活力充盈",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-vitality.webp"
+    },
+    {
+      "id": "hFWmlSeGZKjnB2ZE",
+      "name": "心灵感应",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/helm-of-telepathy.webp"
+    },
+    {
+      "id": "HREyjqFevgTvN4uC",
+      "name": "耳聋 Defened",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/horn-of-blasting.webp"
+    },
+    {
+      "id": "IgRS1gR2uBlWZnIK",
+      "name": "铁索束缚",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/iron-bands-of-bilarro.webp"
+    },
+    {
+      "id": "IRF1OVqBXs7xNqcq",
+      "name": "守护卷轴：怪兽",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "jn9U4aMx0EjCXD2Y",
+      "name": "黄铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "JvE43pQh6FVZ42qp",
+      "name": "守护卷轴：亡灵",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "jyIGfsCnReo9WEpN",
+      "name": "守护卷轴：植物",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "KB0ZoPGBRIrkXbHW",
+      "name": "佩戴护目镜",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/goggles-of-night.webp"
+    },
+    {
+      "id": "KUlBAAjJ9KmOCSsC",
+      "name": "油灯 Lamp",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "kwIXULk6aDknIZnv",
+      "name": "红龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "lZOgSICPuR1fKxTL",
+      "name": "中毒",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/potion-of-healing.webp"
+    },
+    {
+      "id": "MFwYWOar805EHkdX",
+      "name": "战法师魔杖 +2",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "Nh870Ujh6Eqy0RFi",
+      "name": "佩戴手套",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gloves-of-thievery.webp"
+    },
+    {
+      "id": "nPEOMehkECBedpCX",
+      "name": "红龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "NzbOdx6nFdfqGIin",
+      "name": "守护卷轴：妖精",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "oAMZPSz9ScJ9kzJS",
+      "name": "金龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "phbagLamp0000000",
+      "name": "油灯 Lamp",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "phbagLanternBull",
+      "name": "牛眼提灯 Lantern, Bullseye",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "phbagLanternHood",
+      "name": "附盖提灯 Lantern, Hooded",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "phbagNet00000000",
+      "name": "捕网 Net",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/net.webp"
+    },
     {
       "id": "phbarmBreastplat",
       "name": "胸甲 Breastplate",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/breastplate.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/breastplate.webp"
     },
     {
       "id": "phbarmChainMail0",
       "name": "链甲 Chain Mail",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/chain-mail.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/chain-mail.webp"
     },
     {
       "id": "phbarmChainShirt",
       "name": "链甲衫 Chain Shirt",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/chain-shirt.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/chain-shirt.webp"
     },
     {
       "id": "phbarmHalfPlateA",
       "name": "半身板甲 Half Plate Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/half-plate-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/half-plate-armor.webp"
     },
     {
       "id": "phbarmHideArmor0",
       "name": "兽皮甲 Hide Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/hide-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/hide-armor.webp"
     },
     {
       "id": "phbarmLeatherArm",
       "name": "皮甲 Leather Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/leather-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/leather-armor.webp"
     },
     {
       "id": "phbarmPaddedArmo",
       "name": "布甲 Padded Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/padded-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/padded-armor.webp"
     },
     {
       "id": "phbarmPlateArmor",
       "name": "板甲 Plate Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/plate-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/plate-armor.webp"
     },
     {
       "id": "phbarmRingMail00",
       "name": "环甲 Ring Mail",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/ring-mail.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/ring-mail.webp"
     },
     {
       "id": "phbarmScaleMail0",
       "name": "鳞甲 Scale Mail",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/scale-mail.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/scale-mail.webp"
     },
     {
       "id": "phbarmShield0000",
       "name": "盾牌 Shield",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/shield.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/shield.webp"
     },
     {
       "id": "phbarmSplintArmo",
       "name": "板条甲 Splint Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/splint-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/splint-armor.webp"
     },
     {
       "id": "phbarmStuddedLea",
       "name": "镶钉皮甲 Studded Leather Armor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/armor/studded-leather-armor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/armor/studded-leather-armor.webp"
     },
     {
       "id": "phbbgAcolyte0000",
       "name": "侍僧 Acolyte",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/acolyte.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/acolyte.webp"
     },
     {
       "id": "phbbgArtisan0000",
       "name": "工匠 Artisan",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/artisan.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/artisan.webp"
     },
     {
       "id": "phbbgCharlatan00",
       "name": "骗子 Charlatan",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/charlatan.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/charlatan.webp"
     },
     {
       "id": "phbbgCriminal000",
       "name": "罪犯 Criminal",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/criminal.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/criminal.webp"
     },
     {
       "id": "phbbgEntertainer",
       "name": "艺人 Entertainer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/entertainer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/entertainer.webp"
     },
     {
       "id": "phbbgFarmer00000",
       "name": "农民 Farmer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/farmer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/farmer.webp"
     },
     {
       "id": "phbbgGuard000000",
       "name": "警卫 Guard",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/guard.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/guard.webp"
     },
     {
       "id": "phbbgGuide000000",
       "name": "向导 Guide",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/guide.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/guide.webp"
     },
     {
       "id": "phbbgHermit00000",
       "name": "隐士 Hermit",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/hermit.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/hermit.webp"
     },
     {
       "id": "phbbgMerchant000",
       "name": "商人 Merchant",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/merchant.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/merchant.webp"
     },
     {
       "id": "phbbgNoble000000",
       "name": "贵族 Noble",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/noble.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/noble.webp"
     },
     {
       "id": "phbbgSage0000000",
       "name": "智者 Sage",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/sage.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/sage.webp"
     },
     {
       "id": "phbbgSailor00000",
       "name": "水手 Sailor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/sailor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/sailor.webp"
     },
     {
       "id": "phbbgScribe00000",
       "name": "抄写员 Scribe",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/scribe.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/scribe.webp"
     },
     {
       "id": "phbbgSoldier0000",
       "name": "士兵 Soldier",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/soldier.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/soldier.webp"
     },
     {
       "id": "phbbgWayfarer000",
       "name": "流浪者 Wayfarer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/backgrounds/wayfarer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/backgrounds/wayfarer.webp"
     },
     {
       "id": "phbbrbBarbarian0",
       "name": "野蛮人 Barbarian",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/barbarian.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/barbarian.webp"
     },
     {
       "id": "phbbrbBerserker0",
       "name": "狂战士道途 Path of the Berserker",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/berserker.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/berserker.webp"
     },
     {
       "id": "phbbrbWildHeart0",
       "name": "兽心道途 Path of the Wild Heart",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wild-heart.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/wild-heart.webp"
     },
     {
       "id": "phbbrbWorldTree0",
       "name": "世界树道途 Path of the World Tree",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/world-tree.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/world-tree.webp"
     },
     {
       "id": "phbbrbZealot0000",
       "name": "狂热者道途 Path of the Zealot",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/zealot.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/zealot.webp"
     },
     {
       "id": "phbbrdBard000000",
       "name": "吟游诗人 Bard",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/bard.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/bard.webp"
     },
     {
       "id": "phbbrdDance00000",
       "name": "舞蹈学院 College of Dance",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/dance.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/dance.webp"
     },
     {
       "id": "phbbrdGlamour000",
       "name": "魅心学院 College of Glamour",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/glamour.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/glamour.webp"
     },
     {
       "id": "phbbrdLore000000",
       "name": "逸闻学院 College of Lore",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/lore.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/lore.webp"
     },
     {
       "id": "phbbrdValor00000",
       "name": "勇气学院 College of Valor",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/valor.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/valor.webp"
     },
     {
       "id": "phbclcCleric0000",
       "name": "牧师 Cleric",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/cleric.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/cleric.webp"
     },
     {
       "id": "phbclcLifeDomain",
       "name": "生命领域 Life Domain",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/life.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/life.webp"
     },
     {
       "id": "phbclcLightDomai",
       "name": "光明领域 Light Domain",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/light.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/light.webp"
     },
     {
       "id": "phbclcTrickeryDo",
       "name": "诡术领域 Trickery Domain",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/trickery.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/trickery.webp"
     },
     {
       "id": "phbclcWarDomain0",
       "name": "战争领域 War Domain",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/war.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/war.webp"
     },
     {
       "id": "phbdrdCirland000",
       "name": "大地结社 Circle of the Land",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/land.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/land.webp"
     },
     {
       "id": "phbdrdCirmoon000",
       "name": "月亮结社 Circle of the Moon",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/moon.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/moon.webp"
     },
     {
       "id": "phbdrdCirsea0000",
       "name": "海洋结社 Circle of the Sea",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/sea.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/sea.webp"
     },
     {
       "id": "phbdrdCirstars00",
       "name": "星辰结社 Circle of the Stars",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/stars.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/stars.webp"
     },
     {
       "id": "phbdrdDruid00000",
       "name": "德鲁伊 Druid",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/druid.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/druid.webp"
     },
     {
       "id": "phbftrBattleMast",
       "name": "战斗大师 Battle Master",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/battle-master.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/battle-master.webp"
     },
     {
       "id": "phbftrChampion00",
       "name": "勇士 Champion",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/champion.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/champion.webp"
     },
     {
       "id": "phbftrEldritchKn",
       "name": "奥法骑士 Eldritch Knight",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/eldritch-knight.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/eldritch-knight.webp"
     },
     {
       "id": "phbftrFighter000",
       "name": "战士 Fighter",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fighter.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/fighter.webp"
     },
     {
       "id": "phbftrPsiWarrior",
       "name": "灵能武士 Psi Warrior",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/psi-warrior.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/psi-warrior.webp"
     },
     {
       "id": "phbmnkElementsWa",
       "name": "四象武者 Warrior of the Elements",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/elements.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/elements.webp"
     },
     {
       "id": "phbmnkMercyWarri",
       "name": "命流武者 Warrior of Mercy",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/mercy.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/mercy.webp"
     },
     {
       "id": "phbmnkMonk000000",
       "name": "武僧 Monk",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/monk.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/monk.webp"
     },
     {
       "id": "phbmnkOpenHandWa",
       "name": "散打武者 Warrior of the Open Hand",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/open-hand.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/open-hand.webp"
     },
     {
       "id": "phbmnkShadowWarr",
       "name": "暗影武者 Warrior of Shadow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/shadow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/shadow.webp"
     },
     {
       "id": "phbpdnOathOfDevo",
       "name": "奉献之誓 Oath of Devotion",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/devotion.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/devotion.webp"
     },
     {
       "id": "phbpdnOathOfGlor",
       "name": "荣耀之誓 Oath of Glory",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/glory.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/glory.webp"
     },
     {
       "id": "phbpdnOathOfTheA",
       "name": "古贤之誓 Oath of the Ancients",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/ancients.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/ancients.webp"
     },
     {
       "id": "phbpdnOathOfVeng",
       "name": "复仇之誓 Oath of Vengeance",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/vengeance.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/vengeance.webp"
     },
     {
       "id": "phbpdnPaladin000",
       "name": "圣武士 Paladin",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/paladin.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/paladin.webp"
     },
     {
       "id": "phbrgeArcaneTric",
       "name": "诡术师 Arcane Trickster",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/arcane-trickster.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/arcane-trickster.webp"
     },
     {
       "id": "phbrgeAssassin00",
       "name": "刺客 Assassin",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/assassin.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/assassin.webp"
     },
     {
       "id": "phbrgeRogue00000",
       "name": "游荡者 Rogue",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/rogue.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/rogue.webp"
     },
     {
       "id": "phbrgeSoulknife0",
       "name": "魂刃 Soulknife",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/soulknife.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/soulknife.webp"
     },
     {
       "id": "phbrgeThief00000",
       "name": "盗贼 Thief",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/thief.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/thief.webp"
     },
     {
       "id": "phbrgrBeastMaste",
       "name": "驯兽师 Beast Master",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/beast-master.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/beast-master.webp"
     },
     {
       "id": "phbrgrFeyWander0",
       "name": "妖精漫游者 Fey Wanderer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fey-wanderer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/fey-wanderer.webp"
     },
     {
       "id": "phbrgrGloomStalk",
       "name": "幽域追猎者 Gloom Stalker",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/gloom-stalker.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/gloom-stalker.webp"
     },
     {
       "id": "phbrgrHunter0000",
       "name": "猎人 Hunter",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/hunter.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/hunter.webp"
     },
     {
       "id": "phbrgrRanger0000",
       "name": "游侠 Ranger",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/ranger.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/ranger.webp"
     },
     {
       "id": "phbscrAberrantSo",
       "name": "畸变术法 Aberrant Sorcery",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/aberrant.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/aberrant.webp"
     },
     {
       "id": "phbscrClockworkS",
       "name": "时械术法 Clockwork Sorcery",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/clockwork.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/clockwork.webp"
     },
     {
       "id": "phbscrDraconicSo",
       "name": "龙族术法 Draconic Sorcery",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/draconic.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/draconic.webp"
     },
     {
       "id": "phbscrSorcerer00",
       "name": "术士 Sorcerer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/sorcerer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/sorcerer.webp"
     },
     {
       "id": "phbscrWildMagicS",
       "name": "狂野术法 Wild Magic Sorcery",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wild-magic.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/wild-magic.webp"
     },
     {
       "id": "phbspAasimar0000",
       "name": "阿斯莫 Aasimar",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/aasimar.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/aasimar.webp"
     },
     {
       "id": "phbspAbyssalTief",
       "name": "提夫林（深渊） Tiefling, Abyssal",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-abyssal.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-abyssal.webp"
     },
     {
       "id": "phbspChthonicTie",
       "name": "提夫林（幽冥） Tiefling, Chthonic",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-chthonic.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-chthonic.webp"
     },
     {
       "id": "phbspDragonborn0",
       "name": "龙裔 Dragonborn",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/dragonborn.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/dragonborn.webp"
     },
     {
       "id": "phbspDrow0000000",
       "name": "精灵（卓尔） Elf, Drow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/drow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/drow.webp"
     },
     {
       "id": "phbspDwarf000000",
       "name": "矮人 Dwarf",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/dwarf.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/dwarf.webp"
     },
     {
       "id": "phbspForestGnome",
       "name": "侏儒（森林） Gnome, Forest",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-forest.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/gnome-forest.webp"
     },
     {
       "id": "phbspGoliath0000",
       "name": "歌利亚 Goliath",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/goliath.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/goliath.webp"
     },
     {
       "id": "phbspHalfling000",
       "name": "半身人 Halfling",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/halfling.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/halfling.webp"
     },
     {
       "id": "phbspHighElf0000",
       "name": "精灵（高等精灵） Elf, High",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-high.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/elf-high.webp"
     },
     {
       "id": "phbspHuman000000",
       "name": "人类 Human",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/human.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/human.webp"
     },
     {
       "id": "phbspInfernalTie",
       "name": "提夫林（炼狱） Tiefling, Infernal",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-infernal.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-infernal.webp"
     },
     {
       "id": "phbspOrc00000000",
       "name": "兽人 Orc",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/orc.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/orc.webp"
     },
     {
       "id": "phbspRockGnome00",
       "name": "侏儒（岩石） Gnome, Rock",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-rock.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/gnome-rock.webp"
     },
     {
       "id": "phbsptAbyssalLeg",
       "name": "邪魔遗赠（深渊） Fiendish Legacy, Abyssal",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-abyssal.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-abyssal.webp"
     },
     {
       "id": "phbsptChthonicLe",
       "name": "邪魔遗赠（幽冥） Fiendish Legacy, Chthonic",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-chthonic.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-chthonic.webp"
     },
     {
       "id": "phbsptDrowElfLin",
       "name": "精灵血系（卓尔） Elven Lineage, Drow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/drow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/drow.webp"
     },
     {
       "id": "phbsptForestGnom",
       "name": "侏儒血系（森林） Gnomish Lineage, Forest",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-forest.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/gnome-forest.webp"
     },
     {
       "id": "phbsptHighElfLin",
       "name": "精灵血系（高等精灵） Elven Lineage, High Elf",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-high.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/elf-high.webp"
     },
     {
       "id": "phbsptInfernalLe",
       "name": "邪魔遗赠（炼狱） Fiendish Legacy, Infernal",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/tiefling-infernal.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/tiefling-infernal.webp"
     },
     {
       "id": "phbsptRockGnomeL",
       "name": "侏儒血系（岩石） Gnomish Lineage, Rock",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/gnome-rock.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/gnome-rock.webp"
     },
     {
       "id": "phbsptWoodElfLin",
       "name": "精灵血系（木精灵） Elven Lineage, Wood Elf",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-wood.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/elf-wood.webp"
     },
     {
       "id": "phbspWoodElf0000",
       "name": "精灵（木精灵） Elf, Wood",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/species/elf-wood.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/species/elf-wood.webp"
+    },
+    {
+      "id": "phbtulCarpenters",
+      "name": "木匠工具 Carpenter's Tools",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/journal-art/glasses-tools.webp"
     },
     {
       "id": "phbwepBattleaxe0",
       "name": "战斧 Battleaxe",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/battleaxe.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/battleaxe.webp"
     },
     {
       "id": "phbwepBlowgun000",
       "name": "吹箭筒 Blowgun",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/blowgun.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/blowgun.webp"
     },
     {
       "id": "phbwepClub000000",
       "name": "短棒 Club",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/club.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/club.webp"
     },
     {
       "id": "phbwepDagger0000",
       "name": "匕首 Dagger",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/dagger.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/dagger.webp"
     },
     {
       "id": "phbwepDart000000",
       "name": "飞镖 Dart",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/dart.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/dart.webp"
     },
     {
       "id": "phbwepFlail00000",
       "name": "链枷 Flail",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/flail.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/flail.webp"
     },
     {
       "id": "phbwepGlaive0000",
       "name": "长柄刀 Glaive",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/glaive.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/glaive.webp"
     },
     {
       "id": "phbwepGreataxe00",
       "name": "巨斧 Greataxe",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greataxe.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/greataxe.webp"
     },
     {
       "id": "phbwepGreatclub0",
       "name": "巨棒 Greatclub",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greatclub.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/greatclub.webp"
     },
     {
       "id": "phbwepGreatsword",
       "name": "巨剑 Greatsword",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/greatsword.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/greatsword.webp"
     },
     {
       "id": "phbwepHalberd000",
       "name": "戟 Halberd",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/halberd.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/halberd.webp"
     },
     {
       "id": "phbwepHandaxe000",
       "name": "手斧 Handaxe",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/handaxe.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/handaxe.webp"
     },
     {
       "id": "phbwepHandCrossb",
       "name": "手弩 Hand Crossbow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/hand-crossbow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/hand-crossbow.webp"
     },
     {
       "id": "phbwepHeavyCross",
       "name": "重弩 Heavy Crossbow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/heavy-crossbow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/heavy-crossbow.webp"
     },
     {
       "id": "phbwepJavelin000",
       "name": "标枪 Javelin",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/javelin.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/javelin.webp"
     },
     {
       "id": "phbwepLance00000",
       "name": "骑枪 Lance",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/lance.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/lance.webp"
     },
     {
       "id": "phbwepLightCross",
       "name": "轻弩 Light Crossbow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/light-crossbow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/light-crossbow.webp"
     },
     {
       "id": "phbwepLightHamme",
       "name": "轻锤 Light Hammer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/light-hammer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/light-hammer.webp"
     },
     {
       "id": "phbwepLongbow000",
       "name": "长弓 Longbow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/longbow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/longbow.webp"
     },
     {
       "id": "phbwepLongsword0",
       "name": "长剑 Longsword",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/longsword.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/longsword.webp"
     },
     {
       "id": "phbwepMace000000",
       "name": "硬头锤 Mace",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/mace.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/mace.webp"
     },
     {
       "id": "phbwepMaul000000",
       "name": "巨锤 Maul",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/maul.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/maul.webp"
     },
     {
       "id": "phbwepMorningsta",
       "name": "钉头锤 Morningstar",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/morningstar.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/morningstar.webp"
     },
     {
       "id": "phbwepMusket0000",
       "name": "火铳 Musket",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/musket.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/musket.webp"
     },
     {
       "id": "phbwepPike000000",
       "name": "长矛 Pike",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/pike.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/pike.webp"
     },
     {
       "id": "phbwepPistol0000",
       "name": "手铳 Pistol",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/pistol.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/pistol.webp"
     },
     {
       "id": "phbwepQuartersta",
       "name": "长棍 Quarterstaff",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/quarterstaff.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/quarterstaff.webp"
     },
     {
       "id": "phbwepRapier0000",
       "name": "刺剑 Rapier",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/rapier.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/rapier.webp"
     },
     {
       "id": "phbwepScimitar00",
       "name": "弯刀 Scimitar",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/scimitar.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/scimitar.webp"
     },
     {
       "id": "phbwepShortbow00",
       "name": "短弓 Shortbow",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/shortbow.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/shortbow.webp"
     },
     {
       "id": "phbwepShortsword",
       "name": "短剑 Shortsword",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/shortsword.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/shortsword.webp"
     },
     {
       "id": "phbwepSickle0000",
       "name": "镰刀 Sickle",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/sickle.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/sickle.webp"
     },
     {
       "id": "phbwepSling00000",
       "name": "投石索 Sling",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/sling.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/sling.webp"
     },
     {
       "id": "phbwepSpear00000",
       "name": "矛 Spear",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/spear.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/spear.webp"
     },
     {
       "id": "phbwepTrident000",
       "name": "三叉戟 Trident",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/trident.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/trident.webp"
     },
     {
       "id": "phbwepWarhammer0",
       "name": "战锤 Warhammer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/warhammer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/warhammer.webp"
     },
     {
       "id": "phbwepWarPick000",
       "name": "战镐 War Pick",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/war-pick.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/war-pick.webp"
     },
     {
       "id": "phbwepWhip000000",
       "name": "鞭 Whip",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/items/whip.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/items/whip.webp"
     },
     {
       "id": "phbwlkArchfeyPat",
       "name": "至高妖精宗主 Archfey Patron",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/archfey.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/archfey.webp"
     },
     {
       "id": "phbwlkCelestialP",
       "name": "天界宗主 Celestial Patron",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/celestial.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/celestial.webp"
     },
     {
       "id": "phbwlkFiendPatro",
       "name": "邪魔宗主 Fiend Patron",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/fiend.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/fiend.webp"
     },
     {
       "id": "phbwlkGreatOldOn",
       "name": "旧日支配者宗主 Great Old One Patron",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/great-old-one.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/great-old-one.webp"
     },
     {
       "id": "phbwlkWarlock000",
       "name": "魔契师 Warlock",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/warlock.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/warlock.webp"
     },
     {
       "id": "phbwzdAbjurer000",
       "name": "防护师 Abjurer",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/abjurer.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/abjurer.webp"
     },
     {
       "id": "phbwzdDiviner000",
       "name": "预言师 Diviner",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/diviner.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/diviner.webp"
     },
     {
       "id": "phbwzdEvoker0000",
       "name": "塑能师 Evoker",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/evoker.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/evoker.webp"
     },
     {
       "id": "phbwzdIllusionis",
       "name": "幻术师 Illusionist",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/illusionist.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/illusionist.webp"
     },
     {
       "id": "phbwzdWizard0000",
       "name": "法师 Wizard",
-      "img": "modules/naxx-dnd5e-collection-2024/assets/icons/classes/wizard.webp"
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/icons/classes/wizard.webp"
+    },
+    {
+      "id": "PnR4l91AJekFZ3lF",
+      "name": "战法师魔杖 +2",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "pYCleIMCUWOJPtF9",
+      "name": "大法师护甲",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/robe-of-the-archmagi.webp"
+    },
+    {
+      "id": "QzV7iJWMlEePDrjN",
+      "name": "白龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "QZXLvBG314EsIM0W",
+      "name": "蓝龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "S6ExnY9BBE2pR0fr",
+      "name": "守护卷轴：野兽",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "shjvKOclgQWwo6jh",
+      "name": "Flame Tongue - Light",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/flame-tongue-longsword.webp"
+    },
+    {
+      "id": "SMj5QHHkDCdvkx35",
+      "name": "油灯 Lamp",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/full/items/lamp.webp"
+    },
+    {
+      "id": "SnxRN0OBcIvCkwiW",
+      "name": "Sunlight",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/sunblade.webp"
+    },
+    {
+      "id": "Sr3MgKylVFrqgAom",
+      "name": "长剑形态",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/longsword.webp"
+    },
+    {
+      "id": "SXYzllaQnbyxFGJu",
+      "name": "绿龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "sYzIZOD83JG2W6wh",
+      "name": "纠缠",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/rope-of-entanglement.webp"
+    },
+    {
+      "id": "TaWMk1UKev6qtNMW",
+      "name": "守护卷轴：龙类",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "tBqJ9VbBK1VpE2JD",
+      "name": "圣徽",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/talisman-of-ultimate-evil.webp"
+    },
+    {
+      "id": "TrcjQLlicKjfI1TX",
+      "name": "战法师魔杖 +1",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/wand-of-the-war-mage.webp"
+    },
+    {
+      "id": "tuG3KOZlWvcEmxWv",
+      "name": "Flame Tongue - Activated",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/flame-tongue-longsword.webp"
+    },
+    {
+      "id": "tvua6yMDXkK9qPSL",
+      "name": "月光小夜曲",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "v8DrjiFf7lRTNj5l",
+      "name": "徒手战斗专家",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "vKSASCidlRLgY3lA",
+      "name": "防护戒指",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/ring-of-protection.webp"
+    },
+    {
+      "id": "vm5sP9BvWTpNSzq6",
+      "name": "战斗专家",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "W3exe9GzisjGw4UL",
+      "name": "Dagger of Venom",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dagger-of-venom.webp"
+    },
+    {
+      "id": "WnwsmlBDChjhXgAj",
+      "name": "银龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "WOcmWplHQT4iWEe3",
+      "name": "Poison - Application",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dagger-of-venom.webp"
+    },
+    {
+      "id": "wodSF9vN42I3xmPq",
+      "name": "银龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "wVh8ceMKvVud2qyr",
+      "name": "赤铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "X1NBL9TCDBKPbn0c",
+      "name": "武器专家",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-03.webp"
+    },
+    {
+      "id": "xQ4fVh7TauA66UNT",
+      "name": "被正能量支援",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/journal-art/bastion-grows-over-time-01.webp"
+    },
+    {
+      "id": "xu5cGmok325TaOt5",
+      "name": "守护卷轴：类人",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "YCUy12OF1A6oWyEt",
+      "name": "赤铜龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "YnovzwTfQAEO8okl",
+      "name": "蓝龙鳞",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/dragon-scale-mail.webp"
+    },
+    {
+      "id": "z8fm5PbP5qz4iJuP",
+      "name": "真视",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/gem-of-seeing.webp"
+    },
+    {
+      "id": "zDPcUdYCKJ7anwvI",
+      "name": "Flame Tongue - Template",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/flame-tongue-longsword.webp"
+    },
+    {
+      "id": "zECAU6TNjC2wJpGq",
+      "name": "守护卷轴：巨人",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/scroll-of-protection.webp"
+    },
+    {
+      "id": "ZEOnfGlqjubR8yjI",
+      "name": "誓仇弓",
+      "img": "modules/naxx-dnd5e-collection-2024/assets/dnd-dungeon-masters-guide/icons/items/oathbow.webp"
     }
   ]
 }

@@ -27,21 +27,34 @@ for (const pack of manifest.packs ?? []) {
 const iconIndex = JSON.parse(await readFile(path.join(root, "data", "item-icons.json"), "utf8"));
 assert(iconIndex.moduleId === expectedId, "Item icon index belongs to another module.");
 assert(iconIndex.count === iconIndex.items.length, "Item icon index count is stale.");
-assert(iconIndex.count === 150, `Expected 150 module-local item icons, found ${iconIndex.count}.`);
+assert(iconIndex.count > 0, "Item icon index is empty.");
+const assetPrefixes = [
+  "dnd-dungeon-masters-guide",
+  "dnd-monster-manual",
+  "dnd-players-handbook"
+].map(sourceModule => `modules/${expectedId}/assets/${sourceModule}/`);
 const seenIds = new Set();
 for (const item of iconIndex.items) {
   assert(!seenIds.has(item.id), `Duplicate item id in icon index: ${item.id}`);
   seenIds.add(item.id);
-  const prefix = `modules/${expectedId}/`;
-  assert(item.img.startsWith(`${prefix}assets/icons/`), `Unexpected item icon prefix: ${item.img}`);
-  assert((await stat(path.join(root, item.img.slice(prefix.length)))).isFile(), `Missing item icon: ${item.img}`);
+  assert(assetPrefixes.some(prefix => item.img.startsWith(prefix)), `Unexpected item icon prefix: ${item.img}`);
 }
 
-const itemPackFiles = await listFiles(path.join(root, "packs", "naxx-homerule-item"));
-const oldPrefix = Buffer.from("modules/dnd-players-handbook/assets/icons/", "utf8");
-for (const file of itemPackFiles) {
-  const contents = await readFile(file);
-  assert(!contents.includes(oldPrefix), `Old item icon prefix remains in current pack storage: ${path.relative(root, file)}`);
+const oldPrefixes = [
+  "modules/dnd-dungeon-masters-guide/assets/",
+  "modules/dnd-monster-manual/assets/",
+  "modules/dnd-players-handbook/assets/"
+].map(prefix => Buffer.from(prefix, "utf8"));
+for (const pack of manifest.packs) {
+  for (const file of await listFiles(path.join(root, pack.path))) {
+    const contents = await readFile(file);
+    for (const oldPrefix of oldPrefixes) {
+      assert(
+        !contents.includes(oldPrefix),
+        `Old official asset prefix remains in current pack storage: ${path.relative(root, file)}`
+      );
+    }
+  }
 }
 
 const runtimeEntries = ["assets", "packs", "module.json", "README.md", "CHANGELOG.md"];

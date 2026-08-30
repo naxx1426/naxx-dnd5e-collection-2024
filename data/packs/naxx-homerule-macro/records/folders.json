@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-macro",
+  "group": "folders",
+  "records": [
+    {
+      "key": "!folders!4rPzuWVYhxDLfu6F",
+      "value": {
+        "type": "Macro",
+        "folder": "Lp0m4oeaTJXnQr1w",
+        "name": "法术列表",
+        "color": null,
+        "flags": {
+          "macro-wheel": {
+            "folderImg": "icons/svg/d20-grey.svg",
+            "presetCondition": "",
+            "condition": ""
+          }
+        },
+        "sorting": "a",
+        "_id": "4rPzuWVYhxDLfu6F",
+        "description": "",
+        "sort": 0,
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606674905,
+          "modifiedTime": 1785606674905,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Lp0m4oeaTJXnQr1w",
+      "value": {
+        "type": "Macro",
+        "folder": null,
+        "name": "法术自动化相关",
+        "color": null,
+        "flags": {
+          "macro-wheel": {
+            "folderImg": "icons/svg/d20-grey.svg",
+            "presetCondition": "",
+            "condition": ""
+          }
+        },
+        "sorting": "a",
+        "_id": "Lp0m4oeaTJXnQr1w",
+        "description": "",
+        "sort": 100000,
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785606674904,
+          "modifiedTime": 1785606675215,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    }
+  ]
+}

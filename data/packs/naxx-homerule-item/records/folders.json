@@ -1,0 +1,5783 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-item",
+  "group": "folders",
+  "records": [
+    {
+      "key": "!folders!0Ca9gLGFA1up33c3",
+      "value": {
+        "name": "Clockwork Sorcery",
+        "type": "Item",
+        "folder": "1dQPltrHt3bFzqtu",
+        "_id": "0Ca9gLGFA1up33c3",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850944058,
+          "modifiedTime": 1784850944058,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!0O0R2DaHzUoslB7X",
+      "value": {
+        "name": "攻城武器",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "0O0R2DaHzUoslB7X",
+        "description": "",
+        "sort": 225000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844951869,
+          "modifiedTime": 1784845018673,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!0qKr1rbesCSNE0MA",
+      "value": {
+        "name": "军用远程",
+        "sorting": "a",
+        "folder": "3gGfshno9bSHH0Dh",
+        "type": "Item",
+        "_id": "0qKr1rbesCSNE0MA",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849897045,
+          "modifiedTime": 1784850485635,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!1dQPltrHt3bFzqtu",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "45fGQlR9VJAIreZA",
+        "type": "Item",
+        "_id": "1dQPltrHt3bFzqtu",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850944058,
+          "modifiedTime": 1784851246196,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!1EvJjbqwO6S0CjxA",
+      "value": {
+        "name": "乐器",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "1EvJjbqwO6S0CjxA",
+        "description": "",
+        "sort": 450000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845025921,
+          "modifiedTime": 1784845043128,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!1hHkBJcFdoeUs25W",
+      "value": {
+        "name": "未来物品",
+        "sorting": "a",
+        "folder": "EsR2hE8xbNxf4gYp",
+        "type": "Item",
+        "_id": "1hHkBJcFdoeUs25W",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845096450,
+          "modifiedTime": 1784849254710,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!1kn4uV4dTVVduLjA",
+      "value": {
+        "name": "护甲",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "1kn4uV4dTVVduLjA",
+        "description": "",
+        "sort": 250000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844957828,
+          "modifiedTime": 1784845017497,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!2Bw096HjE0HyGMwM",
+      "value": {
+        "name": "龙裔",
+        "sorting": "m",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "2Bw096HjE0HyGMwM",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605676277,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!2ufaZU3CczVxwe3R",
+      "value": {
+        "name": "FTD 费资本的巨龙宝库",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "2ufaZU3CczVxwe3R",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1784834971212,
+          "modifiedTime": 1784834971212,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!30VBeC11h9mX6GlK",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "5WSAEI5S847BwZ8e",
+        "type": "Item",
+        "_id": "30VBeC11h9mX6GlK",
+        "description": "",
+        "sort": -100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850764198,
+          "modifiedTime": 1784851191675,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!31qXiuK1HRGSRbQK",
+      "value": {
+        "type": "Item",
+        "folder": "Jdfpetba0VmyiVjt",
+        "name": "法术",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "31qXiuK1HRGSRbQK",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971212,
+          "modifiedTime": 1784851172910,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3gGfshno9bSHH0Dh",
+      "value": {
+        "name": "武器",
+        "sorting": "m",
+        "folder": "ecgQOwKtblmYGJoy",
+        "type": "Item",
+        "_id": "3gGfshno9bSHH0Dh",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849897044,
+          "modifiedTime": 1784849930987,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3jcJFGv9oxJvMGSm",
+      "value": {
+        "type": "Item",
+        "folder": "RNmqY5nOuCMaJjJ9",
+        "name": "化兽者",
+        "color": null,
+        "sorting": "a",
+        "_id": "3jcJFGv9oxJvMGSm",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605496877,
+          "modifiedTime": 1785605690659,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!3SjcO2acsFnWegp4",
+      "value": {
+        "name": "2 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "3SjcO2acsFnWegp4",
+        "description": "",
+        "sort": 300000,
+        "color": "#926fac",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3uafOaOCZJQeUNtw",
+      "value": {
+        "name": "精灵",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "3uafOaOCZJQeUNtw",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605682717,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3wY92TRgyyyDkpmF",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "4I70IkQQuwHPyfKp",
+        "type": "Item",
+        "_id": "3wY92TRgyyyDkpmF",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850888995,
+          "modifiedTime": 1784851327973,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!45fGQlR9VJAIreZA",
+      "value": {
+        "name": "术士",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "45fGQlR9VJAIreZA",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977362,
+          "modifiedTime": 1784834977362,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!46oyPDUMbm12rzwN",
+      "value": {
+        "name": "星辰结社",
+        "type": "Item",
+        "folder": "30VBeC11h9mX6GlK",
+        "_id": "46oyPDUMbm12rzwN",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850764199,
+          "modifiedTime": 1784850809965,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4ce9KM1kN809Ce7j",
+      "value": {
+        "name": "爆炸物",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "4ce9KM1kN809Ce7j",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784849095847,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4DkNWlWv2hEdULoc",
+      "value": {
+        "name": "Warrior of Mercy",
+        "type": "Item",
+        "folder": "jUQv0SMuyBlQBPbI",
+        "_id": "4DkNWlWv2hEdULoc",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850952227,
+          "modifiedTime": 1784850952227,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4FhsY9FJQd7h7MZb",
+      "value": {
+        "name": "戏法",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "4FhsY9FJQd7h7MZb",
+        "description": "",
+        "sort": 100000,
+        "color": "#b18dcd",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4I70IkQQuwHPyfKp",
+      "value": {
+        "name": "牧师",
+        "sorting": "a",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "4I70IkQQuwHPyfKp",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784834977361,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4KZykhQTGVAuVo1I",
+      "value": {
+        "name": "歌利亚",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "4KZykhQTGVAuVo1I",
+        "description": "",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605685297,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4NjJfCbRAVhw8ESv",
+      "value": {
+        "name": "药水",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "4NjJfCbRAVhw8ESv",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225869,
+          "modifiedTime": 1784849143383,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4QPeIV5lcCfm1pPZ",
+      "value": {
+        "type": "Item",
+        "folder": "J9YuLgIh1xiw90ri",
+        "name": "据点",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "4QPeIV5lcCfm1pPZ",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844933825,
+          "modifiedTime": 1784851422612,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4T18pEvubPMQLzvD",
+      "value": {
+        "name": "动作",
+        "sorting": "a",
+        "folder": "X8bNVzR5FMWUgYLi",
+        "type": "Item",
+        "_id": "4T18pEvubPMQLzvD",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844847116,
+          "modifiedTime": 1784844879869,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4wMgBBdUoH6Pe7Do",
+      "value": {
+        "type": "Item",
+        "folder": "RNmqY5nOuCMaJjJ9",
+        "name": "科拉瓦",
+        "color": null,
+        "sorting": "a",
+        "_id": "4wMgBBdUoH6Pe7Do",
+        "description": "",
+        "sort": 300000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605518144,
+          "modifiedTime": 1785605693057,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!53g92CK17yW0r34y",
+      "value": {
+        "name": "TCE 塔莎的万事坩埚",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "53g92CK17yW0r34y",
+        "sort": 300000,
+        "color": "#4139b1",
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1784834971214,
+          "modifiedTime": 1784834971214,
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!5jsJdDIwl7A0hLT6",
+      "value": {
+        "name": "Fey Wanderer",
+        "type": "Item",
+        "folder": "tFzwOdHel4L6EbVK",
+        "_id": "5jsJdDIwl7A0hLT6",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850999097,
+          "modifiedTime": 1784850999097,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!5p9KrkF39e6vFO4g",
+      "value": {
+        "name": "法杖",
+        "sorting": "a",
+        "folder": "kie870i5kr7yuxO8",
+        "type": "Item",
+        "_id": "5p9KrkF39e6vFO4g",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845096450,
+          "modifiedTime": 1784849230042,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!5qvlWBbvYXzxqIa1",
+      "value": {
+        "name": "奥术法器",
+        "sorting": "a",
+        "folder": "YKJofRdXHKeBKJ4C",
+        "type": "Item",
+        "_id": "5qvlWBbvYXzxqIa1",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883064,
+          "modifiedTime": 1784850421373,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!5UciSMNOwLY83syr",
+      "value": {
+        "name": "法师",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "5UciSMNOwLY83syr",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784834977361,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!5WSAEI5S847BwZ8e",
+      "value": {
+        "name": "德鲁伊",
+        "sorting": "a",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "5WSAEI5S847BwZ8e",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784851228559,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!62CcQzoXwAoHhopU",
+      "value": {
+        "name": "特色设施",
+        "sorting": "a",
+        "folder": "4QPeIV5lcCfm1pPZ",
+        "type": "Item",
+        "_id": "62CcQzoXwAoHhopU",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849779808,
+          "modifiedTime": 1784849793819,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!6QOkSNHAocZXhKdO",
+      "value": {
+        "name": "灵能武士",
+        "type": "Item",
+        "folder": "lklu2INzmNCgVf9l",
+        "_id": "6QOkSNHAocZXhKdO",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851015741,
+          "modifiedTime": 1784851056977,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!6RKLEZHPbdWG3fZe",
+      "value": {
+        "name": "超魔法选项",
+        "sorting": "a",
+        "folder": "45fGQlR9VJAIreZA",
+        "type": "Item",
+        "_id": "6RKLEZHPbdWG3fZe",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850938600,
+          "modifiedTime": 1784851380668,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!6uMLnndK8UPkb7Uy",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "VHaxJHEReTihmspe",
+        "type": "Item",
+        "_id": "6uMLnndK8UPkb7Uy",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850900814,
+          "modifiedTime": 1784851323202,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!7t9ya3uL87BMAfTx",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "ZzMJGIp9Rxhr2hDV",
+        "type": "Item",
+        "_id": "7t9ya3uL87BMAfTx",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850966130,
+          "modifiedTime": 1784851256549,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!7zo2bljGLQY3uwXI",
+      "value": {
+        "name": "传奇恩惠专长",
+        "sorting": "a",
+        "folder": "DP8MWvQs9MN94B3u",
+        "type": "Item",
+        "_id": "7zo2bljGLQY3uwXI",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849864417,
+          "modifiedTime": 1784850024975,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!8keksVDATj5D9vYl",
+      "value": {
+        "name": "Warrior of the Open Hand",
+        "type": "Item",
+        "folder": "jUQv0SMuyBlQBPbI",
+        "_id": "8keksVDATj5D9vYl",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850952228,
+          "modifiedTime": 1784850952228,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!8pZACLSVxFNqtfzb",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "5UciSMNOwLY83syr",
+        "type": "Item",
+        "_id": "8pZACLSVxFNqtfzb",
+        "description": "",
+        "sort": -100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850828990,
+          "modifiedTime": 1784851197698,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!8VVWrNSDzLXPrS3F",
+      "value": {
+        "type": "Item",
+        "folder": "TYtid93VI0e8bH8c",
+        "name": "Elixers",
+        "color": "#999999",
+        "sorting": "m",
+        "_id": "8VVWrNSDzLXPrS3F",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785605268616,
+          "createdTime": 1785605268616
+        }
+      }
+    },
+    {
+      "key": "!folders!8WmlLARx1Df3Ii9v",
+      "value": {
+        "name": "6 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "8WmlLARx1Df3Ii9v",
+        "description": "",
+        "sort": 700000,
+        "color": "#58366f",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!8wnVMAA0qwPzQVxS",
+      "value": {
+        "name": "陷阱",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "8wnVMAA0qwPzQVxS",
+        "description": "",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845160031,
+          "modifiedTime": 1784845176707,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!9DftUjbDphyulge0",
+      "value": {
+        "type": "Item",
+        "folder": "31qXiuK1HRGSRbQK",
+        "name": "EFA 艾伯伦：奇械锻炉",
+        "color": null,
+        "sorting": "a",
+        "_id": "9DftUjbDphyulge0",
+        "description": "",
+        "sort": 1000000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605365489,
+          "modifiedTime": 1785605424268,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!9nBBDCuFjT8plVMI",
+      "value": {
+        "type": "Item",
+        "folder": "J9YuLgIh1xiw90ri",
+        "name": "装备",
+        "color": "#04ff00",
+        "sorting": "m",
+        "_id": "9nBBDCuFjT8plVMI",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844938661,
+          "modifiedTime": 1784851429545,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!9rXYNjHVsenqClj6",
+      "value": {
+        "type": "Item",
+        "folder": "VfhB8i470QjJ8BQV",
+        "name": "魔炮师",
+        "color": null,
+        "sorting": "a",
+        "_id": "9rXYNjHVsenqClj6",
+        "description": "",
+        "sort": 400000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603931357,
+          "modifiedTime": 1785604481428,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!9xYal9n6aJGEpUFU",
+      "value": {
+        "name": "设施护咒",
+        "sorting": "a",
+        "folder": "PtV25Is9q5STEurJ",
+        "type": "Item",
+        "_id": "9xYal9n6aJGEpUFU",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845094811,
+          "modifiedTime": 1784845128030,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!aA19yenZydaY6uu7",
+      "value": {
+        "name": "Lore",
+        "type": "Item",
+        "folder": "ycD0c20wPsyBc6Nw",
+        "_id": "aA19yenZydaY6uu7",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850975152,
+          "modifiedTime": 1784850975152,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!aehE0L1ERkzYCvJW",
+      "value": {
+        "name": "传奇动作",
+        "sorting": "a",
+        "folder": "X8bNVzR5FMWUgYLi",
+        "type": "Item",
+        "_id": "aehE0L1ERkzYCvJW",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844844933,
+          "modifiedTime": 1784844874577,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!aiyH43DQjphs06GZ",
+      "value": {
+        "name": "Oath of Glory",
+        "type": "Item",
+        "folder": "b6XrjtsY4K1V8Yc4",
+        "_id": "aiyH43DQjphs06GZ",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850902686,
+          "modifiedTime": 1784850902686,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Amxh67Wqon1bSaHg",
+      "value": {
+        "name": "勇士",
+        "type": "Item",
+        "folder": "lklu2INzmNCgVf9l",
+        "_id": "Amxh67Wqon1bSaHg",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851015741,
+          "modifiedTime": 1784851067139,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!atG8UGtcNyNweUOt",
+      "value": {
+        "name": "简易远程",
+        "sorting": "a",
+        "folder": "3gGfshno9bSHH0Dh",
+        "type": "Item",
+        "_id": "atG8UGtcNyNweUOt",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849897045,
+          "modifiedTime": 1784850464723,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ATtIqlCQWh4B7tmw",
+      "value": {
+        "name": "BMT 万象无常书",
+        "color": null,
+        "flags": {},
+        "sort": 0,
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "ATtIqlCQWh4B7tmw",
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1785597564214,
+          "modifiedTime": 1785597564522,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!AVm8ks2DssHSDe7u",
+      "value": {
+        "name": "巨人之力药水",
+        "sorting": "a",
+        "folder": "4NjJfCbRAVhw8ESv",
+        "type": "Item",
+        "_id": "AVm8ks2DssHSDe7u",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225869,
+          "modifiedTime": 1784849163652,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!b6XrjtsY4K1V8Yc4",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "VHaxJHEReTihmspe",
+        "type": "Item",
+        "_id": "b6XrjtsY4K1V8Yc4",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850902685,
+          "modifiedTime": 1784851217365,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!bEMqmmgGROsTGe0J",
+      "value": {
+        "name": "Path of the Berserker",
+        "sorting": "a",
+        "folder": "7t9ya3uL87BMAfTx",
+        "type": "Item",
+        "_id": "bEMqmmgGROsTGe0J",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850966131,
+          "modifiedTime": 1784850966131,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!beZ8MTpWY2cMEUlp",
+      "value": {
+        "name": "5 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "beZ8MTpWY2cMEUlp",
+        "description": "",
+        "sort": 600000,
+        "color": "#66447e",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!BfXThSSeEfafZ3cJ",
+      "value": {
+        "name": "Celestial Patron",
+        "type": "Item",
+        "folder": "rXn5XYfQVz8vFXMs",
+        "_id": "BfXThSSeEfafZ3cJ",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850862399,
+          "modifiedTime": 1784850862399,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Bhni2SORKeOoqoIa",
+      "value": {
+        "name": "特质",
+        "sorting": "a",
+        "folder": "Ulvo8nbygUegLa59",
+        "type": "Item",
+        "_id": "Bhni2SORKeOoqoIa",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1784850519708,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!BjeMHiqnKNWkWhox",
+      "value": {
+        "name": "魔能祈唤选项",
+        "sorting": "a",
+        "folder": "gG4h5ERlpEXbmxIJ",
+        "type": "Item",
+        "_id": "BjeMHiqnKNWkWhox",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850867391,
+          "modifiedTime": 1784851361174,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!bRhjJ3GivNsz0GTF",
+      "value": {
+        "name": "毒药",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "bRhjJ3GivNsz0GTF",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784849183449,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!bvUC4yRvQ3BWUaG9",
+      "value": {
+        "name": "Path of the Zealot",
+        "sorting": "a",
+        "folder": "7t9ya3uL87BMAfTx",
+        "type": "Item",
+        "_id": "bvUC4yRvQ3BWUaG9",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850966131,
+          "modifiedTime": 1784850966131,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!bZkHbteTzVyrLfZ3",
+      "value": {
+        "name": "祝福",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "bZkHbteTzVyrLfZ3",
+        "description": "",
+        "sort": 725000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845168206,
+          "modifiedTime": 1784845208355,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!CILfsTE7IP3AFN3i",
+      "value": {
+        "type": "Item",
+        "folder": "fBqM6lBJdPMyEQ2r",
+        "name": "龙纹专长",
+        "color": null,
+        "sorting": "a",
+        "_id": "CILfsTE7IP3AFN3i",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605292041,
+          "modifiedTime": 1785605337100,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!CMSIGY6SH6aPuLJ7",
+      "value": {
+        "name": "Illusionist",
+        "type": "Item",
+        "folder": "8pZACLSVxFNqtfzb",
+        "_id": "CMSIGY6SH6aPuLJ7",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850828991,
+          "modifiedTime": 1784850828991,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Cx7Cr4uePGLHWRu8",
+      "value": {
+        "name": "Aberrant Sorcery",
+        "type": "Item",
+        "folder": "1dQPltrHt3bFzqtu",
+        "_id": "Cx7Cr4uePGLHWRu8",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850944058,
+          "modifiedTime": 1784850944058,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!CXJsbhXV9uLcWcfH",
+      "value": {
+        "name": "容器",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "CXJsbhXV9uLcWcfH",
+        "description": "",
+        "sort": 550000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845030289,
+          "modifiedTime": 1784845049954,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!d5jrO8A6QpjEV9rn",
+      "value": {
+        "name": "起源专长",
+        "sorting": "a",
+        "folder": "DP8MWvQs9MN94B3u",
+        "type": "Item",
+        "_id": "d5jrO8A6QpjEV9rn",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849866229,
+          "modifiedTime": 1784850051899,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!DC1x1wAm0NLFudA6",
+      "value": {
+        "name": "戒指",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "DC1x1wAm0NLFudA6",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848947654,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!DDjuF7BenXS8Y8FL",
+      "value": {
+        "name": "兽人",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "DDjuF7BenXS8Y8FL",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401851,
+          "modifiedTime": 1785605674157,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!de4kglc2V33iB0yi",
+      "value": {
+        "name": "Gloom Stalker",
+        "type": "Item",
+        "folder": "tFzwOdHel4L6EbVK",
+        "_id": "de4kglc2V33iB0yi",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850999097,
+          "modifiedTime": 1784850999097,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!DFNpZerX0xRdg8PN",
+      "value": {
+        "name": "奥法骑士",
+        "type": "Item",
+        "folder": "lklu2INzmNCgVf9l",
+        "_id": "DFNpZerX0xRdg8PN",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851015741,
+          "modifiedTime": 1784851050574,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!dnKXgPPMNF5Jbw2T",
+      "value": {
+        "name": "Thief",
+        "type": "Item",
+        "folder": "fpbytrLxSJYwrLx1",
+        "_id": "dnKXgPPMNF5Jbw2T",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850986997,
+          "modifiedTime": 1784850986997,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!DP8MWvQs9MN94B3u",
+      "value": {
+        "type": "Item",
+        "folder": "Jdfpetba0VmyiVjt",
+        "name": "专长",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "DP8MWvQs9MN94B3u",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849852495,
+          "modifiedTime": 1784851142906,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Dq7BWtsgu2yi7Ld2",
+      "value": {
+        "name": "武僧",
+        "sorting": "a",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "Dq7BWtsgu2yi7Ld2",
+        "description": "",
+        "sort": 550000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977362,
+          "modifiedTime": 1784834977362,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!E5uxU0hPioWjcHZu",
+      "value": {
+        "name": "星图",
+        "sorting": "a",
+        "folder": "YKJofRdXHKeBKJ4C",
+        "type": "Item",
+        "_id": "E5uxU0hPioWjcHZu",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883065,
+          "modifiedTime": 1784850390071,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!e9Bx86LUj7rJMszu",
+      "value": {
+        "name": "侏儒",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "e9Bx86LUj7rJMszu",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401851,
+          "modifiedTime": 1785605672107,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ecgQOwKtblmYGJoy",
+      "value": {
+        "type": "Item",
+        "folder": "Jdfpetba0VmyiVjt",
+        "name": "装备",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "ecgQOwKtblmYGJoy",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849860821,
+          "modifiedTime": 1784851150329,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EdAGMG8IF26PLkD3",
+      "value": {
+        "name": "7 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "EdAGMG8IF26PLkD3",
+        "description": "",
+        "sort": 800000,
+        "color": "#4a2960",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EE33G3bMQYoCuh3h",
+      "value": {
+        "type": "Item",
+        "folder": "iyVSZmsl2TSjCQT5",
+        "name": "Level 14 Plans",
+        "color": null,
+        "sorting": "a",
+        "_id": "EE33G3bMQYoCuh3h",
+        "description": "",
+        "sort": 300000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785603798073,
+          "createdTime": 1785603798073
+        }
+      }
+    },
+    {
+      "key": "!folders!EK3hCTgvAmjsKlfl",
+      "value": {
+        "name": "塑像",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "EK3hCTgvAmjsKlfl",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848977945,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EkXAWGxKr4wYpODe",
+      "value": {
+        "name": "弹药",
+        "sorting": "a",
+        "folder": "uDk4FBYfcP2JnX6t",
+        "type": "Item",
+        "_id": "EkXAWGxKr4wYpODe",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883064,
+          "modifiedTime": 1786824550621,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EsR2hE8xbNxf4gYp",
+      "value": {
+        "name": "枪械",
+        "sorting": "a",
+        "folder": "kie870i5kr7yuxO8",
+        "type": "Item",
+        "_id": "EsR2hE8xbNxf4gYp",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845096450,
+          "modifiedTime": 1784849240931,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!etioosF5p3g1hqiO",
+      "value": {
+        "name": "Path of the Wild Heart",
+        "sorting": "a",
+        "folder": "7t9ya3uL87BMAfTx",
+        "type": "Item",
+        "_id": "etioosF5p3g1hqiO",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850966131,
+          "modifiedTime": 1784850966131,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ewxJI9GJAOrYvqNe",
+      "value": {
+        "name": "元素宝石",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "ewxJI9GJAOrYvqNe",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225869,
+          "modifiedTime": 1784849117135,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EXYmwRGoNyMbByN1",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "5WSAEI5S847BwZ8e",
+        "type": "Item",
+        "_id": "EXYmwRGoNyMbByN1",
+        "description": "",
+        "sort": -200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784851235287,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EyNumq1j8kzYOqWm",
+      "value": {
+        "type": "Item",
+        "folder": "iyVSZmsl2TSjCQT5",
+        "name": "Level 6 Plans",
+        "color": null,
+        "sorting": "a",
+        "_id": "EyNumq1j8kzYOqWm",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785603798073,
+          "createdTime": 1785603798073
+        }
+      }
+    },
+    {
+      "key": "!folders!fBiqZyJP2XES6YvY",
+      "value": {
+        "name": "Great Old One Patron",
+        "type": "Item",
+        "folder": "rXn5XYfQVz8vFXMs",
+        "_id": "fBiqZyJP2XES6YvY",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850862399,
+          "modifiedTime": 1784850862399,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!fBqM6lBJdPMyEQ2r",
+      "value": {
+        "type": "Item",
+        "folder": "DP8MWvQs9MN94B3u",
+        "name": "艾伯伦：奇械锻炉",
+        "color": null,
+        "sorting": "a",
+        "_id": "fBqM6lBJdPMyEQ2r",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605334039,
+          "modifiedTime": 1785605334039,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!FCphxnvdYmavFNkr",
+      "value": {
+        "name": "战士",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "FCphxnvdYmavFNkr",
+        "description": "",
+        "sort": 525000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977363,
+          "modifiedTime": 1784834977363,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!fd3qxAXCv2FhExPp",
+      "value": {
+        "name": "军用近战",
+        "sorting": "a",
+        "folder": "3gGfshno9bSHH0Dh",
+        "type": "Item",
+        "_id": "fd3qxAXCv2FhExPp",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849897045,
+          "modifiedTime": 1784850474475,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!FGEikSWOfzemVq2v",
+      "value": {
+        "name": "Assassin",
+        "type": "Item",
+        "folder": "fpbytrLxSJYwrLx1",
+        "_id": "FGEikSWOfzemVq2v",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850986997,
+          "modifiedTime": 1784850986997,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!FL1Jee9DzStc7vM3",
+      "value": {
+        "name": "简易近战",
+        "sorting": "a",
+        "folder": "3gGfshno9bSHH0Dh",
+        "type": "Item",
+        "_id": "FL1Jee9DzStc7vM3",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849897045,
+          "modifiedTime": 1784850455251,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!fP1LEFkoKLotitj0",
+      "value": {
+        "name": "Fiend Patron",
+        "type": "Item",
+        "folder": "rXn5XYfQVz8vFXMs",
+        "_id": "fP1LEFkoKLotitj0",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850862399,
+          "modifiedTime": 1784850862399,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!fpbytrLxSJYwrLx1",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "JBKpeqLQWPp9Wt59",
+        "type": "Item",
+        "_id": "fpbytrLxSJYwrLx1",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850986997,
+          "modifiedTime": 1784851268557,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!frNx5mBr3fzV6OuD",
+      "value": {
+        "type": "Item",
+        "folder": "RNmqY5nOuCMaJjJ9",
+        "name": "幻身灵",
+        "color": null,
+        "sorting": "a",
+        "_id": "frNx5mBr3fzV6OuD",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605499227,
+          "modifiedTime": 1785605691935,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!G1DRr7MIGFmq3yxz",
+      "value": {
+        "type": "Item",
+        "folder": "IepiWWSwNbEzG3dO",
+        "name": "职业特性",
+        "color": null,
+        "sorting": "m",
+        "_id": "G1DRr7MIGFmq3yxz",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603798074,
+          "modifiedTime": 1785603821798,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!G3X11BbtmEqLmEnK",
+      "value": {
+        "name": "轻甲",
+        "sorting": "a",
+        "folder": "Iyyec8ij0PAfdLBd",
+        "type": "Item",
+        "_id": "G3X11BbtmEqLmEnK",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849880622,
+          "modifiedTime": 1784850302511,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!gdLCBIRHB4OBYhqp",
+      "value": {
+        "type": "Item",
+        "folder": null,
+        "name": "怪物图鉴",
+        "color": "#00d5ff",
+        "sorting": "a",
+        "_id": "gdLCBIRHB4OBYhqp",
+        "description": "",
+        "sort": 500000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844762463,
+          "modifiedTime": 1784848831474,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!GdxYMawvxybALCny",
+      "value": {
+        "name": "其他",
+        "sorting": "a",
+        "folder": "vPhOZukrL6RledwE",
+        "type": "Item",
+        "_id": "GdxYMawvxybALCny",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849877376,
+          "modifiedTime": 1784850232130,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!gG4h5ERlpEXbmxIJ",
+      "value": {
+        "name": "魔契师",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "gG4h5ERlpEXbmxIJ",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784834977361,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!GpcElwne8niowtEP",
+      "value": {
+        "name": "Archfey Patron",
+        "type": "Item",
+        "folder": "rXn5XYfQVz8vFXMs",
+        "_id": "GpcElwne8niowtEP",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850862399,
+          "modifiedTime": 1784850862399,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!guHYjt0gjPLU2wCs",
+      "value": {
+        "name": "消耗品",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "guHYjt0gjPLU2wCs",
+        "description": "",
+        "sort": 718750,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784848856517,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!gVOErz4AkTIsal84",
+      "value": {
+        "name": "音乐器乐",
+        "sorting": "a",
+        "folder": "GdxYMawvxybALCny",
+        "type": "Item",
+        "_id": "gVOErz4AkTIsal84",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849877376,
+          "modifiedTime": 1784850261231,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!GWWL7NqfCEyqwfhZ",
+      "value": {
+        "name": "Hunter",
+        "type": "Item",
+        "folder": "tFzwOdHel4L6EbVK",
+        "_id": "GWWL7NqfCEyqwfhZ",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850999097,
+          "modifiedTime": 1784850999097,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!GxpXuivP9ewXXRfI",
+      "value": {
+        "type": "Item",
+        "folder": "VfhB8i470QjJ8BQV",
+        "name": "制图师",
+        "color": null,
+        "sorting": "a",
+        "_id": "GxpXuivP9ewXXRfI",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603927698,
+          "modifiedTime": 1785604505327,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!gZ2IFounJ2DkxipT",
+      "value": {
+        "name": "Oath of the Ancients",
+        "type": "Item",
+        "folder": "b6XrjtsY4K1V8Yc4",
+        "_id": "gZ2IFounJ2DkxipT",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850902686,
+          "modifiedTime": 1784850902686,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!h5OUzaJcZzsNsOGc",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "Rbx9mlNEB2XYxGCZ",
+        "type": "Item",
+        "_id": "h5OUzaJcZzsNsOGc",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850996282,
+          "modifiedTime": 1784851105971,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!HCovEE4VoPGlIbKi",
+      "value": {
+        "name": "3 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "HCovEE4VoPGlIbKi",
+        "description": "",
+        "sort": 400000,
+        "color": "#83609d",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!hGgJdVut0VCdIFjK",
+      "value": {
+        "name": "战斗大师",
+        "type": "Item",
+        "folder": "lklu2INzmNCgVf9l",
+        "_id": "hGgJdVut0VCdIFjK",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851015741,
+          "modifiedTime": 1784851074148,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!hgxCFiq4twdW6SXc",
+      "value": {
+        "name": "Beast Master",
+        "type": "Item",
+        "folder": "tFzwOdHel4L6EbVK",
+        "_id": "hgxCFiq4twdW6SXc",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850999097,
+          "modifiedTime": 1784850999097,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!i9NPLGWDbmgQUjtg",
+      "value": {
+        "type": "Item",
+        "folder": "J9YuLgIh1xiw90ri",
+        "name": "特性",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "i9NPLGWDbmgQUjtg",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844915283,
+          "modifiedTime": 1784851426683,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!IepiWWSwNbEzG3dO",
+      "value": {
+        "type": "Item",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "name": "奇械师",
+        "color": null,
+        "sorting": "m",
+        "_id": "IepiWWSwNbEzG3dO",
+        "description": "",
+        "sort": 578125,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603798072,
+          "modifiedTime": 1785604679808,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!iG0Zia8jh6uK39TB",
+      "value": {
+        "name": "9 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "iG0Zia8jh6uK39TB",
+        "description": "",
+        "sort": 831250,
+        "color": "#300d44",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!iyVSZmsl2TSjCQT5",
+      "value": {
+        "type": "Item",
+        "folder": "IepiWWSwNbEzG3dO",
+        "name": "魔法物品方案",
+        "color": null,
+        "sorting": "m",
+        "_id": "iyVSZmsl2TSjCQT5",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785603828367,
+          "createdTime": 1785603798073
+        }
+      }
+    },
+    {
+      "key": "!folders!Iyyec8ij0PAfdLBd",
+      "value": {
+        "name": "护甲",
+        "sorting": "m",
+        "folder": "ecgQOwKtblmYGJoy",
+        "type": "Item",
+        "_id": "Iyyec8ij0PAfdLBd",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849880622,
+          "modifiedTime": 1784849908392,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!J9YuLgIh1xiw90ri",
+      "value": {
+        "type": "Item",
+        "folder": null,
+        "name": "城主指南",
+        "color": "#00d5ff",
+        "sorting": "a",
+        "_id": "J9YuLgIh1xiw90ri",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844726589,
+          "modifiedTime": 1784845137857,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!JBKpeqLQWPp9Wt59",
+      "value": {
+        "name": "游荡者",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "JBKpeqLQWPp9Wt59",
+        "description": "",
+        "sort": 593750,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977360,
+          "modifiedTime": 1784841459694,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!jCEOVokBRWBPXprX",
+      "value": {
+        "name": "War Domain",
+        "type": "Item",
+        "folder": "yg1sG60lGWHwe1ut",
+        "_id": "jCEOVokBRWBPXprX",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850890501,
+          "modifiedTime": 1784850890501,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Jdfpetba0VmyiVjt",
+      "value": {
+        "type": "Item",
+        "folder": null,
+        "name": "玩家手册",
+        "color": "#00d5ff",
+        "sorting": "a",
+        "_id": "Jdfpetba0VmyiVjt",
+        "description": "",
+        "sort": 600000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844772349,
+          "modifiedTime": 1784848831475,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!jUQv0SMuyBlQBPbI",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "Dq7BWtsgu2yi7Ld2",
+        "type": "Item",
+        "_id": "jUQv0SMuyBlQBPbI",
+        "description": "",
+        "sort": 50000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850952227,
+          "modifiedTime": 1784851250854,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!JWrHBfC3SxUB5k4L",
+      "value": {
+        "name": "Arcane Trickster",
+        "type": "Item",
+        "folder": "fpbytrLxSJYwrLx1",
+        "_id": "JWrHBfC3SxUB5k4L",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850986997,
+          "modifiedTime": 1784850986997,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!jWzqOsH9e7IW7WO7",
+      "value": {
+        "name": "Life Domain",
+        "type": "Item",
+        "folder": "yg1sG60lGWHwe1ut",
+        "_id": "jWzqOsH9e7IW7WO7",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850890501,
+          "modifiedTime": 1784850890501,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!kECSduSbNoLHv8fK",
+      "value": {
+        "name": "德鲁伊法器",
+        "sorting": "a",
+        "folder": "YKJofRdXHKeBKJ4C",
+        "type": "Item",
+        "_id": "kECSduSbNoLHv8fK",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883065,
+          "modifiedTime": 1784850411986,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!kie870i5kr7yuxO8",
+      "value": {
+        "name": "武器",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "kie870i5kr7yuxO8",
+        "description": "",
+        "sort": 650000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845096449,
+          "modifiedTime": 1784848869637,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Kif3DrTmPnMK5Nct",
+      "value": {
+        "name": "月亮结社",
+        "type": "Item",
+        "folder": "30VBeC11h9mX6GlK",
+        "_id": "Kif3DrTmPnMK5Nct",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850764199,
+          "modifiedTime": 1784850816277,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!kK77WX8hVJHRQRda",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "Dq7BWtsgu2yi7Ld2",
+        "type": "Item",
+        "_id": "kK77WX8hVJHRQRda",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850950781,
+          "modifiedTime": 1784851313218,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!KmsEfFM5ay7kSPfK",
+      "value": {
+        "type": "Item",
+        "folder": "VfhB8i470QjJ8BQV",
+        "name": "装甲师",
+        "color": null,
+        "sorting": "a",
+        "_id": "KmsEfFM5ay7kSPfK",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603926000,
+          "modifiedTime": 1785604516278,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!kzSFtaQWQZCAqO28",
+      "value": {
+        "type": "Item",
+        "folder": "VfhB8i470QjJ8BQV",
+        "name": "战地匠师",
+        "color": null,
+        "sorting": "a",
+        "_id": "kzSFtaQWQZCAqO28",
+        "description": "",
+        "sort": 300000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603929637,
+          "modifiedTime": 1785604496617,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!L9Zgr8qAPc3ngKhb",
+      "value": {
+        "name": "特质",
+        "sorting": "a",
+        "folder": "X8bNVzR5FMWUgYLi",
+        "type": "Item",
+        "_id": "L9Zgr8qAPc3ngKhb",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844857260,
+          "modifiedTime": 1784844868380,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!LDogp5CVMlafRRzL",
+      "value": {
+        "name": "炼金壶液体",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "LDogp5CVMlafRRzL",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225869,
+          "modifiedTime": 1784849132493,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!lklu2INzmNCgVf9l",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "FCphxnvdYmavFNkr",
+        "type": "Item",
+        "_id": "lklu2INzmNCgVf9l",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851015740,
+          "modifiedTime": 1784851037077,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!lYU9TkcsaR73tTdn",
+      "value": {
+        "name": "Soulknife",
+        "type": "Item",
+        "folder": "fpbytrLxSJYwrLx1",
+        "_id": "lYU9TkcsaR73tTdn",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850986998,
+          "modifiedTime": 1784850986998,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!M5CvwK9zVtzx6Dnn",
+      "value": {
+        "name": "8 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "M5CvwK9zVtzx6Dnn",
+        "description": "",
+        "sort": 825000,
+        "color": "#3d1b52",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!M6U28MXEjBWNhBAs",
+      "value": {
+        "type": "Item",
+        "folder": "RNmqY5nOuCMaJjJ9",
+        "name": "离梦人",
+        "color": null,
+        "sorting": "a",
+        "_id": "M6U28MXEjBWNhBAs",
+        "description": "",
+        "sort": 400000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605528967,
+          "modifiedTime": 1785605694318,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!mdyzoHWeYYcPMTGl",
+      "value": {
+        "name": "危害",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "mdyzoHWeYYcPMTGl",
+        "description": "",
+        "sort": 575000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845033187,
+          "modifiedTime": 1784845079756,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!nMe7B0yCgOGewxFO",
+      "value": {
+        "name": "Wild Magic Sorcery",
+        "type": "Item",
+        "folder": "1dQPltrHt3bFzqtu",
+        "_id": "nMe7B0yCgOGewxFO",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850944058,
+          "modifiedTime": 1784850944058,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!nP3HNXn7rem24IST",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "taXfKVJXVI5Z807d",
+        "type": "Item",
+        "_id": "nP3HNXn7rem24IST",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850973077,
+          "modifiedTime": 1784851301505,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!nRLsU9drIaxSPf82",
+      "value": {
+        "name": "Glamour",
+        "type": "Item",
+        "folder": "ycD0c20wPsyBc6Nw",
+        "_id": "nRLsU9drIaxSPf82",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850975152,
+          "modifiedTime": 1784850975152,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!O942K0m1gZMIIoMB",
+      "value": {
+        "name": "战斗风格专长",
+        "sorting": "a",
+        "folder": "DP8MWvQs9MN94B3u",
+        "type": "Item",
+        "_id": "O942K0m1gZMIIoMB",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849869961,
+          "modifiedTime": 1784850033973,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ortcuG54X98lRYZL",
+      "value": {
+        "name": "SCC 斯翠海文：混沌研习",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "ortcuG54X98lRYZL",
+        "sort": 800000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!OYpJLX1cvGrg2SN7",
+      "value": {
+        "type": "Item",
+        "folder": "31qXiuK1HRGSRbQK",
+        "name": "PHB 玩家手册法术",
+        "color": null,
+        "sorting": "m",
+        "_id": "OYpJLX1cvGrg2SN7",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971212,
+          "modifiedTime": 1784834971212,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!oYxcxfKSDOdUdaaN",
+      "value": {
+        "name": "赌具",
+        "sorting": "a",
+        "folder": "GdxYMawvxybALCny",
+        "type": "Item",
+        "_id": "oYxcxfKSDOdUdaaN",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849877376,
+          "modifiedTime": 1784850267672,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!p6WDpW0gzmKfhGad",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "ZzMJGIp9Rxhr2hDV",
+        "type": "Item",
+        "_id": "p6WDpW0gzmKfhGad",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850963941,
+          "modifiedTime": 1784851307328,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!pBaAAtXBCq9FVEnL",
+      "value": {
+        "name": "1 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "pBaAAtXBCq9FVEnL",
+        "description": "",
+        "sort": 200000,
+        "color": "#a27ebc",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PbMVDCVQ3cxfsaVY",
+      "value": {
+        "name": "Light Domain",
+        "type": "Item",
+        "folder": "yg1sG60lGWHwe1ut",
+        "_id": "PbMVDCVQ3cxfsaVY",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850890501,
+          "modifiedTime": 1784850890501,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!pDo2UCh4t1Z03F5z",
+      "value": {
+        "name": "Oath of Devotion",
+        "type": "Item",
+        "folder": "b6XrjtsY4K1V8Yc4",
+        "_id": "pDo2UCh4t1Z03F5z",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850902686,
+          "modifiedTime": 1784850902686,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!pI4V0JzLD4njZCjL",
+      "value": {
+        "type": "Item",
+        "folder": "iyVSZmsl2TSjCQT5",
+        "name": "Level 2 Plans",
+        "color": null,
+        "sorting": "a",
+        "_id": "pI4V0JzLD4njZCjL",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785603798073,
+          "createdTime": 1785603798073
+        }
+      }
+    },
+    {
+      "key": "!folders!plFztoZhqP7fLHPl",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "5UciSMNOwLY83syr",
+        "type": "Item",
+        "_id": "plFztoZhqP7fLHPl",
+        "description": "",
+        "sort": -200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977361,
+          "modifiedTime": 1784851338383,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!pohlG2x4Dp7Gdt8v",
+      "value": {
+        "name": "SO 印记城与外域",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "pohlG2x4Dp7Gdt8v",
+        "description": "",
+        "sort": 900000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785597525344,
+          "modifiedTime": 1785597525654,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!pSCWWdqMX9eUATRJ",
+      "value": {
+        "name": "攻击",
+        "sorting": "a",
+        "folder": "X8bNVzR5FMWUgYLi",
+        "type": "Item",
+        "_id": "pSCWWdqMX9eUATRJ",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844853403,
+          "modifiedTime": 1784844885154,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PtV25Is9q5STEurJ",
+      "value": {
+        "name": "护咒",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "PtV25Is9q5STEurJ",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845094811,
+          "modifiedTime": 1784848873649,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PVc8RqPP6dm0oGsM",
+      "value": {
+        "name": "弹药",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "PVc8RqPP6dm0oGsM",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784849192126,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!PvoPSaBbuCP1m6yg",
+      "value": {
+        "name": "Dance",
+        "type": "Item",
+        "folder": "ycD0c20wPsyBc6Nw",
+        "_id": "PvoPSaBbuCP1m6yg",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850975152,
+          "modifiedTime": 1784850975152,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!qi3IbnEwap7mRw4b",
+      "value": {
+        "name": "4 环",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "qi3IbnEwap7mRw4b",
+        "description": "",
+        "sort": 500000,
+        "color": "#75528d",
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!R0KprZdOrRDNsTBv",
+      "value": {
+        "name": "矮人",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "R0KprZdOrRDNsTBv",
+        "description": "",
+        "sort": 900000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605701668,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Rbx9mlNEB2XYxGCZ",
+      "value": {
+        "name": "游侠",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "Rbx9mlNEB2XYxGCZ",
+        "description": "",
+        "sort": 581250,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977363,
+          "modifiedTime": 1784834977363,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!rHnqTOyb3aiQKdh4",
+      "value": {
+        "name": "夸尔羽符",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "rHnqTOyb3aiQKdh4",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784849206355,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!rLoBplj1TIznxeWI",
+      "value": {
+        "name": "魔杖",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "rLoBplj1TIznxeWI",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848987922,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!RNmqY5nOuCMaJjJ9",
+      "value": {
+        "type": "Item",
+        "folder": "Bhni2SORKeOoqoIa",
+        "name": "艾伯伦：奇械锻炉",
+        "color": null,
+        "sorting": "a",
+        "_id": "RNmqY5nOuCMaJjJ9",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605648947,
+          "modifiedTime": 1785605679365,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!rsRpecYuAkjFhYUR",
+      "value": {
+        "name": "基础设施",
+        "sorting": "a",
+        "folder": "4QPeIV5lcCfm1pPZ",
+        "type": "Item",
+        "_id": "rsRpecYuAkjFhYUR",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849777936,
+          "modifiedTime": 1784849786805,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!RSuhMqGxJHmfxlwG",
+      "value": {
+        "name": "Warrior of the Elements",
+        "type": "Item",
+        "folder": "jUQv0SMuyBlQBPbI",
+        "_id": "RSuhMqGxJHmfxlwG",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850952228,
+          "modifiedTime": 1784850952228,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!rtQF1MjVJcoUrf7L",
+      "value": {
+        "type": "Item",
+        "folder": "31qXiuK1HRGSRbQK",
+        "name": "FR 费伦法术",
+        "color": null,
+        "sorting": "a",
+        "_id": "rtQF1MjVJcoUrf7L",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971212,
+          "modifiedTime": 1784834971212,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!rXn5XYfQVz8vFXMs",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "gG4h5ERlpEXbmxIJ",
+        "type": "Item",
+        "_id": "rXn5XYfQVz8vFXMs",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850862399,
+          "modifiedTime": 1784851203115,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!s6eOjIBtoMiA5Usw",
+      "value": {
+        "name": "治疗",
+        "sorting": "a",
+        "folder": "4NjJfCbRAVhw8ESv",
+        "type": "Item",
+        "_id": "s6eOjIBtoMiA5Usw",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225869,
+          "modifiedTime": 1784849151482,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!S6t9xw1VjRZhMbZh",
+      "value": {
+        "type": "Item",
+        "folder": "fBqM6lBJdPMyEQ2r",
+        "name": "通用专长",
+        "color": null,
+        "sorting": "a",
+        "_id": "S6t9xw1VjRZhMbZh",
+        "description": "",
+        "sort": 200000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605342419,
+          "modifiedTime": 1785605847378,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!StCYZZaUbkrW50KU",
+      "value": {
+        "name": "卷轴",
+        "sorting": "a",
+        "folder": "guHYjt0gjPLU2wCs",
+        "type": "Item",
+        "_id": "StCYZZaUbkrW50KU",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845225868,
+          "modifiedTime": 1784849086152,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!SVyCw3C7uAH6U85C",
+      "value": {
+        "name": "宝藏",
+        "sorting": "m",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "SVyCw3C7uAH6U85C",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844947815,
+          "modifiedTime": 1784844981090,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!syUAnjMAMcVP2X3e",
+      "value": {
+        "name": "【模组】夸力许的失落实验室",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "syUAnjMAMcVP2X3e",
+        "sort": 1100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1785606250889,
+          "modifiedTime": 1785606251342,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!taXfKVJXVI5Z807d",
+      "value": {
+        "name": "吟游诗人",
+        "sorting": "a",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "taXfKVJXVI5Z807d",
+        "description": "",
+        "sort": 587500,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977362,
+          "modifiedTime": 1784834977362,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TDK7YU58V9y3Kqjo",
+      "value": {
+        "name": "补充",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "TDK7YU58V9y3Kqjo",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844949952,
+          "modifiedTime": 1784845007593,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TEGFpRmAMpNOJWF6",
+      "value": {
+        "name": "Trickery Domain",
+        "type": "Item",
+        "folder": "yg1sG60lGWHwe1ut",
+        "_id": "TEGFpRmAMpNOJWF6",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850890501,
+          "modifiedTime": 1784850890501,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!tFzwOdHel4L6EbVK",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "Rbx9mlNEB2XYxGCZ",
+        "type": "Item",
+        "_id": "tFzwOdHel4L6EbVK",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850999097,
+          "modifiedTime": 1784851129511,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!tgLxjBJ1GxcEPcIC",
+      "value": {
+        "name": "战技选项",
+        "sorting": "a",
+        "folder": "FCphxnvdYmavFNkr",
+        "type": "Item",
+        "_id": "tgLxjBJ1GxcEPcIC",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851011685,
+          "modifiedTime": 1784851026110,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!tNySLDnz2qPVahU7",
+      "value": {
+        "name": "中甲",
+        "sorting": "a",
+        "folder": "Iyyec8ij0PAfdLBd",
+        "type": "Item",
+        "_id": "tNySLDnz2qPVahU7",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849880623,
+          "modifiedTime": 1784850308558,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!tX3sa7gpX6rhmkHF",
+      "value": {
+        "name": "【模组】冰风谷：冰霜少女的雾凇",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "tX3sa7gpX6rhmkHF",
+        "sort": 1200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1785606252988,
+          "modifiedTime": 1785606253432,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!txz3s3AgQbF5blSo",
+      "value": {
+        "name": "补充物品",
+        "sorting": "a",
+        "folder": "OYpJLX1cvGrg2SN7",
+        "type": "Item",
+        "_id": "txz3s3AgQbF5blSo",
+        "description": "",
+        "sort": 837500,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834971213,
+          "modifiedTime": 1784834971213,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TYtid93VI0e8bH8c",
+      "value": {
+        "type": "Item",
+        "folder": "VfhB8i470QjJ8BQV",
+        "name": "炼金师",
+        "color": null,
+        "sorting": "m",
+        "_id": "TYtid93VI0e8bH8c",
+        "description": "",
+        "sort": 500000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605268616,
+          "modifiedTime": 1785605277640,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!tzwFgcTAGcVUmune",
+      "value": {
+        "name": "通用专长",
+        "sorting": "a",
+        "folder": "DP8MWvQs9MN94B3u",
+        "type": "Item",
+        "_id": "tzwFgcTAGcVUmune",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849868193,
+          "modifiedTime": 1784850044791,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!U4xmShLy19Ry54zl",
+      "value": {
+        "name": "装备",
+        "sorting": "a",
+        "folder": "9nBBDCuFjT8plVMI",
+        "type": "Item",
+        "_id": "U4xmShLy19Ry54zl",
+        "description": "",
+        "sort": 850000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235814,
+          "modifiedTime": 1784848841623,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UbsHMB6E1VDKBvHs",
+      "value": {
+        "name": "巨人之力腰带",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "UbsHMB6E1VDKBvHs",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848956820,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!uCr9wkkriM8r4C9R",
+      "value": {
+        "name": "人类",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "uCr9wkkriM8r4C9R",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401851,
+          "modifiedTime": 1785605675267,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!uCsiJvZQjqz2QNRl",
+      "value": {
+        "name": "XGE 珊娜萨的万事指南",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "uCsiJvZQjqz2QNRl",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1784834971214,
+          "modifiedTime": 1784834971214,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!uDk4FBYfcP2JnX6t",
+      "value": {
+        "name": "冒险装备",
+        "sorting": "a",
+        "folder": "ecgQOwKtblmYGJoy",
+        "type": "Item",
+        "_id": "uDk4FBYfcP2JnX6t",
+        "description": "",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883064,
+          "modifiedTime": 1786824113168,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ug4DNBSjg4ySo9RN",
+      "value": {
+        "type": "Item",
+        "folder": "Ulvo8nbygUegLa59",
+        "name": "艾伯伦：奇械锻炉",
+        "color": null,
+        "sorting": "a",
+        "_id": "ug4DNBSjg4ySo9RN",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605638787,
+          "modifiedTime": 1785605638787,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Ulvo8nbygUegLa59",
+      "value": {
+        "name": "种族",
+        "sorting": "a",
+        "folder": "YvenJSk9bHAFvWPM",
+        "type": "Item",
+        "_id": "Ulvo8nbygUegLa59",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401849,
+          "modifiedTime": 1784849830109,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UP7kFWZ3kL6uCYn0",
+      "value": {
+        "name": "魔术袋",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "UP7kFWZ3kL6uCYn0",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848793327,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UQiLTq4nLQpaM0Q5",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "gG4h5ERlpEXbmxIJ",
+        "type": "Item",
+        "_id": "UQiLTq4nLQpaM0Q5",
+        "description": "",
+        "sort": 50000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850870066,
+          "modifiedTime": 1784851332548,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!uWEQ0361xrEf5MdK",
+      "value": {
+        "name": "Warrior of Shadow",
+        "type": "Item",
+        "folder": "jUQv0SMuyBlQBPbI",
+        "_id": "uWEQ0361xrEf5MdK",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850952227,
+          "modifiedTime": 1784850952227,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UxC3HH9C29PKRC42",
+      "value": {
+        "type": "Item",
+        "folder": "ysJSs3cbEBOMC1zV",
+        "name": "艾伯伦：奇械锻炉",
+        "color": null,
+        "sorting": "a",
+        "_id": "UxC3HH9C29PKRC42",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605592347,
+          "modifiedTime": 1785605608288,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!v1Y7V1VEmTXMl22G",
+      "value": {
+        "type": "Item",
+        "folder": "Jdfpetba0VmyiVjt",
+        "name": "角色职业",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "v1Y7V1VEmTXMl22G",
+        "description": "",
+        "sort": 100000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977360,
+          "modifiedTime": 1785604546077,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!V8KHbNkEWoXQP3Pj",
+      "value": {
+        "name": "工匠",
+        "sorting": "a",
+        "folder": "vPhOZukrL6RledwE",
+        "type": "Item",
+        "_id": "V8KHbNkEWoXQP3Pj",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849877376,
+          "modifiedTime": 1784850241555,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!VfhB8i470QjJ8BQV",
+      "value": {
+        "type": "Item",
+        "folder": "IepiWWSwNbEzG3dO",
+        "name": "子职特性",
+        "color": null,
+        "sorting": "a",
+        "_id": "VfhB8i470QjJ8BQV",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785603920003,
+          "modifiedTime": 1785603920003,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!VHaxJHEReTihmspe",
+      "value": {
+        "name": "圣武士",
+        "sorting": "m",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "VHaxJHEReTihmspe",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977362,
+          "modifiedTime": 1784834977362,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!vjbnrXxp5AsqWHYD",
+      "value": {
+        "name": "海洋结社",
+        "type": "Item",
+        "folder": "30VBeC11h9mX6GlK",
+        "_id": "vjbnrXxp5AsqWHYD",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850764199,
+          "modifiedTime": 1784850803224,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!vl17N1arOkN66aMi",
+      "value": {
+        "name": "艾恩石",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "vl17N1arOkN66aMi",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848939627,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!vnHhgMUbXwdRJDX2",
+      "value": {
+        "name": "Diviner",
+        "type": "Item",
+        "folder": "8pZACLSVxFNqtfzb",
+        "_id": "vnHhgMUbXwdRJDX2",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850828991,
+          "modifiedTime": 1784850828991,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!vPhOZukrL6RledwE",
+      "value": {
+        "name": "工具",
+        "sorting": "a",
+        "folder": "ecgQOwKtblmYGJoy",
+        "type": "Item",
+        "_id": "vPhOZukrL6RledwE",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849877376,
+          "modifiedTime": 1784849917025,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!VZQeqwpBruLqnL6x",
+      "value": {
+        "name": "提夫林",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "VZQeqwpBruLqnL6x",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401851,
+          "modifiedTime": 1785605673198,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!w8DAucTQ0WwoWaJw",
+      "value": {
+        "name": "Oath of Vengeance",
+        "type": "Item",
+        "folder": "b6XrjtsY4K1V8Yc4",
+        "_id": "w8DAucTQ0WwoWaJw",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850902686,
+          "modifiedTime": 1784850902686,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!w9CD92EUhQ1OCQuG",
+      "value": {
+        "name": "阿斯莫",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "w9CD92EUhQ1OCQuG",
+        "description": "",
+        "sort": 1000000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605703098,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!wei9TPwojduGhnDR",
+      "value": {
+        "name": "吟游诗人乐器",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "wei9TPwojduGhnDR",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848926789,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!wF8TLOhNZ4ro1xGj",
+      "value": {
+        "name": "生物特质",
+        "sorting": "a",
+        "folder": "i9NPLGWDbmgQUjtg",
+        "type": "Item",
+        "_id": "wF8TLOhNZ4ro1xGj",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844900512,
+          "modifiedTime": 1784844924694,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!wIhC5bN9XvOuZMFF",
+      "value": {
+        "name": "瓦尔哈拉号角",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "wIhC5bN9XvOuZMFF",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848907125,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!WJ4IXskgADlprLEA",
+      "value": {
+        "name": "大地结社",
+        "type": "Item",
+        "folder": "30VBeC11h9mX6GlK",
+        "_id": "WJ4IXskgADlprLEA",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850764199,
+          "modifiedTime": 1784850796723,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!wwMlXikGly63a6go",
+      "value": {
+        "name": "Draconic Sorcery",
+        "type": "Item",
+        "folder": "1dQPltrHt3bFzqtu",
+        "_id": "wwMlXikGly63a6go",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850944058,
+          "modifiedTime": 1784850944058,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!x7MmWDKa3Bx58yph",
+      "value": {
+        "name": "AAG 星界冒险者指南",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "x7MmWDKa3Bx58yph",
+        "description": "",
+        "sort": 150000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785597544155,
+          "modifiedTime": 1785597544404,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!X8bNVzR5FMWUgYLi",
+      "value": {
+        "type": "Item",
+        "folder": "gdLCBIRHB4OBYhqp",
+        "name": "特性",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "X8bNVzR5FMWUgYLi",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784844840546,
+          "modifiedTime": 1784851433564,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!XeJAkVsw3iXCK4au",
+      "value": {
+        "name": "AI 艾奎兹玄有限责任公司",
+        "sorting": "a",
+        "folder": "31qXiuK1HRGSRbQK",
+        "type": "Item",
+        "_id": "XeJAkVsw3iXCK4au",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "coreVersion": "14.365",
+          "createdTime": 1784834971212,
+          "modifiedTime": 1784834971212,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "description": ""
+      }
+    },
+    {
+      "key": "!folders!xggTDaiQq26ZrVzJ",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "FCphxnvdYmavFNkr",
+        "type": "Item",
+        "_id": "xggTDaiQq26ZrVzJ",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784851013675,
+          "modifiedTime": 1784851031824,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!XNaPTdUGsxTDyfS1",
+      "value": {
+        "name": "Valor",
+        "type": "Item",
+        "folder": "ycD0c20wPsyBc6Nw",
+        "_id": "XNaPTdUGsxTDyfS1",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850975152,
+          "modifiedTime": 1784850975152,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!xuCC9zvWH64GExlQ",
+      "value": {
+        "type": "Item",
+        "folder": "iyVSZmsl2TSjCQT5",
+        "name": "Level 10 Plans",
+        "color": null,
+        "sorting": "a",
+        "_id": "xuCC9zvWH64GExlQ",
+        "description": "",
+        "sort": 250000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "modifiedTime": 1785603798073,
+          "createdTime": 1785603798073
+        }
+      }
+    },
+    {
+      "key": "!folders!XVIITMl9kCCSjZQz",
+      "value": {
+        "name": "权杖",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "XVIITMl9kCCSjZQz",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784848997725,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!XVXuU21XyvevGap7",
+      "value": {
+        "name": "万象无常牌",
+        "sorting": "a",
+        "folder": "U4xmShLy19Ry54zl",
+        "type": "Item",
+        "_id": "XVXuU21XyvevGap7",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845235815,
+          "modifiedTime": 1784849013008,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!y82310X8vyLIlOSF",
+      "value": {
+        "type": "Item",
+        "folder": "RNmqY5nOuCMaJjJ9",
+        "name": "战俑",
+        "color": null,
+        "sorting": "a",
+        "_id": "y82310X8vyLIlOSF",
+        "description": "",
+        "sort": 500000,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605530767,
+          "modifiedTime": 1785605696148,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq"
+        }
+      }
+    },
+    {
+      "key": "!folders!ycD0c20wPsyBc6Nw",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "taXfKVJXVI5Z807d",
+        "type": "Item",
+        "_id": "ycD0c20wPsyBc6Nw",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850975152,
+          "modifiedTime": 1784851262245,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!yg1sG60lGWHwe1ut",
+      "value": {
+        "name": "子职特性",
+        "sorting": "a",
+        "folder": "4I70IkQQuwHPyfKp",
+        "type": "Item",
+        "_id": "yg1sG60lGWHwe1ut",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850890501,
+          "modifiedTime": 1784851210661,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!YKJofRdXHKeBKJ4C",
+      "value": {
+        "name": "施法法器",
+        "sorting": "a",
+        "folder": "uDk4FBYfcP2JnX6t",
+        "type": "Item",
+        "_id": "YKJofRdXHKeBKJ4C",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883064,
+          "modifiedTime": 1786824558980,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ymTkGscp5QEOwDlv",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "JBKpeqLQWPp9Wt59",
+        "type": "Item",
+        "_id": "ymTkGscp5QEOwDlv",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850984870,
+          "modifiedTime": 1784851291752,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ysJSs3cbEBOMC1zV",
+      "value": {
+        "name": "背景",
+        "sorting": "a",
+        "folder": "YvenJSk9bHAFvWPM",
+        "type": "Item",
+        "_id": "ysJSs3cbEBOMC1zV",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845389256,
+          "modifiedTime": 1784845397241,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!yTyzIh76HwFtnMnh",
+      "value": {
+        "type": "Item",
+        "folder": "Bhni2SORKeOoqoIa",
+        "name": "玩家手册",
+        "color": null,
+        "sorting": "a",
+        "_id": "yTyzIh76HwFtnMnh",
+        "description": "",
+        "sort": 300000,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1785605658097,
+          "modifiedTime": 1785605679365,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!YvenJSk9bHAFvWPM",
+      "value": {
+        "type": "Item",
+        "folder": "Jdfpetba0VmyiVjt",
+        "name": "角色起源",
+        "color": "#04ff00",
+        "sorting": "a",
+        "_id": "YvenJSk9bHAFvWPM",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845377061,
+          "modifiedTime": 1784851155102,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Yxtyuf6PvbrATAek",
+      "value": {
+        "name": "Abjurer",
+        "type": "Item",
+        "folder": "8pZACLSVxFNqtfzb",
+        "_id": "Yxtyuf6PvbrATAek",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850828991,
+          "modifiedTime": 1784850828991,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!z3BNNUO43nbnbTy7",
+      "value": {
+        "name": "圣徽",
+        "sorting": "a",
+        "folder": "YKJofRdXHKeBKJ4C",
+        "type": "Item",
+        "_id": "z3BNNUO43nbnbTy7",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849883065,
+          "modifiedTime": 1784850401986,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Zd7YGO9cOq0vvRbw",
+      "value": {
+        "name": "Path of the World Tree",
+        "sorting": "a",
+        "folder": "7t9ya3uL87BMAfTx",
+        "type": "Item",
+        "_id": "Zd7YGO9cOq0vvRbw",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850966131,
+          "modifiedTime": 1784850966131,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ZHJ6ibjd1J4CSyNw",
+      "value": {
+        "name": "Evoker",
+        "type": "Item",
+        "folder": "8pZACLSVxFNqtfzb",
+        "_id": "ZHJ6ibjd1J4CSyNw",
+        "description": "",
+        "sorting": "a",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850828991,
+          "modifiedTime": 1784850828991,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!zm1kuLu4kdDhoOyL",
+      "value": {
+        "name": "职业特性",
+        "sorting": "a",
+        "folder": "45fGQlR9VJAIreZA",
+        "type": "Item",
+        "_id": "zm1kuLu4kdDhoOyL",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784850941004,
+          "modifiedTime": 1784851318492,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!zqXSu2wOJljt7AsS",
+      "value": {
+        "name": "重甲",
+        "sorting": "a",
+        "folder": "Iyyec8ij0PAfdLBd",
+        "type": "Item",
+        "_id": "zqXSu2wOJljt7AsS",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784849880623,
+          "modifiedTime": 1784850315454,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!zVLJosGQ7viZqH14",
+      "value": {
+        "name": "半身人",
+        "sorting": "a",
+        "folder": "yTyzIh76HwFtnMnh",
+        "type": "Item",
+        "_id": "zVLJosGQ7viZqH14",
+        "description": "",
+        "sort": 800000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784845401850,
+          "modifiedTime": 1785605687237,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ZzMJGIp9Rxhr2hDV",
+      "value": {
+        "name": "野蛮人",
+        "sorting": "a",
+        "folder": "v1Y7V1VEmTXMl22G",
+        "type": "Item",
+        "_id": "ZzMJGIp9Rxhr2hDV",
+        "description": "",
+        "sort": 575000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784834977362,
+          "modifiedTime": 1784834977362,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    }
+  ]
+}

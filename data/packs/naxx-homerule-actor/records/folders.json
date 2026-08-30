@@ -1,0 +1,1083 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "packId": "naxx-homerule-actor",
+  "group": "folders",
+  "records": [
+    {
+      "key": "!folders!1hMlj4ZjQ9Xw8iym",
+      "value": {
+        "name": "邪魔灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "1hMlj4ZjQ9Xw8iym",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849664323,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!1zCBgl5X9GSb1Hml",
+      "value": {
+        "name": "异怪灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "1zCBgl5X9GSb1Hml",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849608766,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!2AjZvlZWDCwSd0ry",
+      "value": {
+        "name": "魔法物品",
+        "sorting": "a",
+        "folder": "7SdyFkljG6rgAzml",
+        "type": "Actor",
+        "_id": "2AjZvlZWDCwSd0ry",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843093611,
+          "modifiedTime": 1784843107272,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!36r8qm2aE4k6QTnW",
+      "value": {
+        "name": "怪兽",
+        "type": "Actor",
+        "_id": "36r8qm2aE4k6QTnW",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842847073,
+          "modifiedTime": 1784842877066,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3893ZA5FlQZHzMBd",
+      "value": {
+        "name": "邪魔",
+        "type": "Actor",
+        "_id": "3893ZA5FlQZHzMBd",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1000000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842982448,
+          "modifiedTime": 1784843055995,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!3U4TdZXxCUUCDN61",
+      "value": {
+        "name": "原初行侣",
+        "sorting": "a",
+        "folder": "gubp4LZJLTbYgaal",
+        "type": "Actor",
+        "_id": "3U4TdZXxCUUCDN61",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842436178,
+          "modifiedTime": 1784849701132,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!4Lxoa4gitE28qJLk",
+      "value": {
+        "name": "召唤物模板",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "4Lxoa4gitE28qJLk",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394301,
+          "modifiedTime": 1784849557366,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!7SdyFkljG6rgAzml",
+      "value": {
+        "type": "Actor",
+        "folder": null,
+        "name": "城主指南",
+        "color": "#00d5ff",
+        "sorting": "m",
+        "_id": "7SdyFkljG6rgAzml",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842830997,
+          "modifiedTime": 1784844751577,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!92I7uGwuF7K77tcy",
+      "value": {
+        "name": "范例角色",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "92I7uGwuF7K77tcy",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842387255,
+          "modifiedTime": 1784842786342,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!9mmdDqYZFLIJBacj",
+      "value": {
+        "name": "咒唤物",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "9mmdDqYZFLIJBacj",
+        "description": "",
+        "sort": 200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842391322,
+          "modifiedTime": 1784842787779,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!AhQfcWoWHcRgvnF9",
+      "value": {
+        "name": "亡灵灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "AhQfcWoWHcRgvnF9",
+        "description": "",
+        "sort": 250000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849529977,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!B4jgCSN5ycmyM4ak",
+      "value": {
+        "name": "天族",
+        "type": "Actor",
+        "_id": "B4jgCSN5ycmyM4ak",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 800000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842930154,
+          "modifiedTime": 1784842955178,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!beGRXWKaYfeeR1Iz",
+      "value": {
+        "name": "巨虫",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "beGRXWKaYfeeR1Iz",
+        "description": "",
+        "sort": 1000000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849592908,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!bPHpkGNFTk8TIq6q",
+      "value": {
+        "name": "生物",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "bPHpkGNFTk8TIq6q",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842435670,
+          "modifiedTime": 1784842809514,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ciCmIC4SIvmtmsnS",
+      "value": {
+        "name": "妖精灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "ciCmIC4SIvmtmsnS",
+        "description": "",
+        "sort": 800000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849544151,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!CRjk7GO7nXypfeNL",
+      "value": {
+        "name": "野兽灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "CRjk7GO7nXypfeNL",
+        "description": "",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849618650,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!dhBu2KZBt4bSp19U",
+      "value": {
+        "name": "元素灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "dhBu2KZBt4bSp19U",
+        "description": "",
+        "sort": 900000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394301,
+          "modifiedTime": 1784849654181,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!EypLbRzz5Hphlv5M",
+      "value": {
+        "name": "妖精",
+        "type": "Actor",
+        "_id": "EypLbRzz5Hphlv5M",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842988937,
+          "modifiedTime": 1784843049995,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!fSNeRtZ6WOSjk4f8",
+      "value": {
+        "name": "亡灵",
+        "type": "Actor",
+        "_id": "fSNeRtZ6WOSjk4f8",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 900000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842934585,
+          "modifiedTime": 1784842947741,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!Gmjni5LiNjX0lxvt",
+      "value": {
+        "type": "Actor",
+        "folder": null,
+        "name": "怪物图鉴",
+        "color": "#00d5ff",
+        "sorting": "m",
+        "_id": "Gmjni5LiNjX0lxvt",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842819009,
+          "modifiedTime": 1784844749235,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!gubp4LZJLTbYgaal",
+      "value": {
+        "name": "行侣",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "gubp4LZJLTbYgaal",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842436177,
+          "modifiedTime": 1784842810710,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!HpvmwTUEbJR7kCxX",
+      "value": {
+        "type": "Actor",
+        "folder": null,
+        "name": "玩家手册",
+        "color": "#00d5ff",
+        "sorting": "m",
+        "_id": "HpvmwTUEbJR7kCxX",
+        "description": "",
+        "sort": 0,
+        "flags": {},
+        "_stats": {
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842783964,
+          "modifiedTime": 1784844746982,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!iGILeV3hU3r3LBLW",
+      "value": {
+        "name": "活化物件",
+        "sorting": "m",
+        "folder": "9mmdDqYZFLIJBacj",
+        "type": "Actor",
+        "_id": "iGILeV3hU3r3LBLW",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842391323,
+          "modifiedTime": 1784849492113,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!l9ar6UzbvIRDyYmA",
+      "value": {
+        "name": "异界坐骑",
+        "sorting": "a",
+        "folder": "gubp4LZJLTbYgaal",
+        "type": "Actor",
+        "_id": "l9ar6UzbvIRDyYmA",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842436178,
+          "modifiedTime": 1784849689612,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!LK5iEx8W2Y5YxDHM",
+      "value": {
+        "name": "集群",
+        "type": "Actor",
+        "_id": "LK5iEx8W2Y5YxDHM",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842850759,
+          "modifiedTime": 1784842882583,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!m38nAYWZbWqdnNHn",
+      "value": {
+        "name": "泥怪",
+        "type": "Actor",
+        "_id": "m38nAYWZbWqdnNHn",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842927669,
+          "modifiedTime": 1784842965673,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!mSjiQ0a7M8it70qu",
+      "value": {
+        "name": "元素",
+        "type": "Actor",
+        "_id": "mSjiQ0a7M8it70qu",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843003450,
+          "modifiedTime": 1784843031285,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!O40SgA96siOsrZmv",
+      "value": {
+        "name": "危害",
+        "sorting": "a",
+        "folder": "7SdyFkljG6rgAzml",
+        "type": "Actor",
+        "_id": "O40SgA96siOsrZmv",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843098395,
+          "modifiedTime": 1784843120580,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!oq65o5ZsauMtb1JY",
+      "value": {
+        "name": "类人",
+        "type": "Actor",
+        "_id": "oq65o5ZsauMtb1JY",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842889737,
+          "modifiedTime": 1784842903118,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!SuapX0QD3Ii9APVP",
+      "value": {
+        "name": "召唤物",
+        "sorting": "a",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "type": "Actor",
+        "_id": "SuapX0QD3Ii9APVP",
+        "description": "",
+        "sort": 1500000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843007685,
+          "modifiedTime": 1784843024138,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!sUWhvnagivVASLJz",
+      "value": {
+        "name": "异怪",
+        "type": "Actor",
+        "_id": "sUWhvnagivVASLJz",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842998305,
+          "modifiedTime": 1784843040385,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!t5Glgag6D7m4yRnt",
+      "value": {
+        "name": "植物",
+        "type": "Actor",
+        "_id": "t5Glgag6D7m4yRnt",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843010350,
+          "modifiedTime": 1784843017576,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TMBlXc3bnF7vL2Oy",
+      "value": {
+        "name": "野兽",
+        "type": "Actor",
+        "_id": "TMBlXc3bnF7vL2Oy",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 1200000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842993918,
+          "modifiedTime": 1784843045584,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!TYL2OiqdnUspYV8R",
+      "value": {
+        "name": "构装",
+        "type": "Actor",
+        "_id": "TYL2OiqdnUspYV8R",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842845124,
+          "modifiedTime": 1784842868632,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UkOGmZEiXrlLv29I",
+      "value": {
+        "name": "召唤",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "UkOGmZEiXrlLv29I",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784842789166,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!UvlQFmKuGiSS9WJd",
+      "value": {
+        "name": "咒唤元素",
+        "sorting": "a",
+        "folder": "9mmdDqYZFLIJBacj",
+        "type": "Actor",
+        "_id": "UvlQFmKuGiSS9WJd",
+        "description": "",
+        "sort": 0,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842391323,
+          "modifiedTime": 1784849498922,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!uzfjTR3kDzzsWp3V",
+      "value": {
+        "name": "巨人",
+        "type": "Actor",
+        "_id": "uzfjTR3kDzzsWp3V",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842887339,
+          "modifiedTime": 1784842898326,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!WKlKpYJuod4Z5udy",
+      "value": {
+        "name": "构装灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "WKlKpYJuod4Z5udy",
+        "description": "",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849645666,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!XKtttysn3SWatvHb",
+      "value": {
+        "name": "天界灵魄",
+        "sorting": "a",
+        "folder": "UkOGmZEiXrlLv29I",
+        "type": "Actor",
+        "_id": "XKtttysn3SWatvHb",
+        "description": "",
+        "sort": 700000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842394300,
+          "modifiedTime": 1784849637471,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!XKw7ZvElYaHqASuq",
+      "value": {
+        "name": "据点卫兵",
+        "sorting": "a",
+        "folder": "7SdyFkljG6rgAzml",
+        "type": "Actor",
+        "_id": "XKw7ZvElYaHqASuq",
+        "description": "",
+        "sort": 100000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843088434,
+          "modifiedTime": 1784843129425,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!xmXOrBADA4LyJOGl",
+      "value": {
+        "name": "龙类",
+        "type": "Actor",
+        "_id": "xmXOrBADA4LyJOGl",
+        "description": "",
+        "folder": "Gmjni5LiNjX0lxvt",
+        "sorting": "a",
+        "sort": 600000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842908382,
+          "modifiedTime": 1784842971768,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!YRCjFZLqErBv0VKJ",
+      "value": {
+        "name": "载具",
+        "sorting": "a",
+        "folder": "HpvmwTUEbJR7kCxX",
+        "type": "Actor",
+        "_id": "YRCjFZLqErBv0VKJ",
+        "description": "",
+        "sort": 400000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784842435668,
+          "modifiedTime": 1784842807394,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    },
+    {
+      "key": "!folders!ZM6hXZTyqSH6Ggqt",
+      "value": {
+        "name": "生物",
+        "sorting": "a",
+        "folder": "7SdyFkljG6rgAzml",
+        "type": "Actor",
+        "_id": "ZM6hXZTyqSH6Ggqt",
+        "description": "",
+        "sort": 300000,
+        "color": null,
+        "flags": {},
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.365",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1784843095991,
+          "modifiedTime": 1784843115614,
+          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "exportSource": null
+        }
+      }
+    }
+  ]
+}

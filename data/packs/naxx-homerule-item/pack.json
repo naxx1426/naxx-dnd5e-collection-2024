@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "moduleId": "naxx-dnd5e-collection-2024",
+  "pack": {
+    "id": "naxx-homerule-item",
+    "label": "Naxx物品",
+    "type": "Item",
+    "system": "dnd5e"
+  },
+  "recordCount": 4813,
+  "groups": [
+    {
+      "group": "folders",
+      "file": "records/folders.json",
+      "count": 231
+    },
+    {
+      "group": "items",
+      "file": "records/items.json",
+      "count": 2968
+    },
+    {
+      "group": "items.effects",
+      "file": "records/items.effects.json",
+      "count": 1614
+    }
+  ]
+}
