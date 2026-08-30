@@ -24,11 +24,12 @@ modules/naxx-dnd5e-collection-2024/assets/icons/
 
 ## 发布
 
-推送形如 `v1.0.1` 的标签后，GitHub Actions 会运行校验并建立公开 Release，附带：
+推送形如 `v1.0.2` 的标签后，GitHub Actions 会运行校验并建立公开 Release。Release 标题使用纯版本号，正文列出 Foundry 兼容版本与完整更新对比链接，自定义附件只保留：
 
 - `module.json`
-- `naxx-dnd5e-collection-2024.zip`
-- `SHA256SUMS.txt`
+- `module.zip`
+
+当前 `v1.0.1` 仍保留旧名称的 ZIP 和 `SHA256SUMS.txt`；上述简化格式从下一版本开始使用。
 
 具体步骤见 [发布说明](docs/PUBLISHING.md)。
 

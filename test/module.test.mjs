@@ -12,7 +12,10 @@ test("Foundry 更新清单和下载地址与版本一致", () => {
   assert.equal(manifest.id, "naxx-dnd5e-collection-2024");
   assert.equal(manifest.type, "module");
   assert.equal(manifest.manifest, `${manifest.url}/releases/latest/download/module.json`);
-  assert.equal(manifest.download, `${manifest.url}/releases/download/v${manifest.version}/${manifest.id}.zip`);
+  const tag = `v${manifest.version}`;
+  const expected = `${manifest.url}/releases/download/${tag}/module.zip`;
+  const legacy = `${manifest.url}/releases/download/${tag}/${manifest.id}.zip`;
+  assert.equal(manifest.download, manifest.version === "1.0.1" ? legacy : expected);
 });
 
 test("清单中的每个合集数据库都存在", async () => {

@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
 
       - name: Set up Node.js
         uses: actions/setup-node@v7
@@ -31,20 +33,38 @@ jobs:
         shell: bash
         run: |
           cd build/package
-          zip -r ../naxx-dnd5e-collection-2024.zip .
+          zip -r ../module.zip .
           cd ..
-          test "$(unzip -Z1 naxx-dnd5e-collection-2024.zip | grep -Ec '^module\.json$')" -eq 1
-          sha256sum module.json naxx-dnd5e-collection-2024.zip > SHA256SUMS.txt
+          test "$(unzip -Z1 module.zip | grep -Ec '^module\.json$')" -eq 1
+          sha256sum module.json module.zip
+
+      - name: Prepare release notes
+        id: release
+        shell: bash
+        run: |
+          version="${GITHUB_REF_NAME#v}"
+          verified="$(node -e 'const m = require("./module.json"); process.stdout.write(String(m.compatibility?.verified ?? ""))')"
+          foundry_major="${verified%%.*}"
+          previous_tag="$(git tag --sort=-v:refname | grep -Fvx "$GITHUB_REF_NAME" | head -n 1 || true)"
+          echo "title=$version" >> "$GITHUB_OUTPUT"
+          echo "foundry_major=$foundry_major" >> "$GITHUB_OUTPUT"
+          echo "previous_tag=$previous_tag" >> "$GITHUB_OUTPUT"
 
       - name: Publish GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
+          RELEASE_TITLE: ${{ steps.release.outputs.title }}
+          FOUNDRY_MAJOR: ${{ steps.release.outputs.foundry_major }}
+          PREVIOUS_TAG: ${{ steps.release.outputs.previous_tag }}
         run: |
+          notes="- Verified for FoundryVTT V${FOUNDRY_MAJOR}."
+          if [[ -n "$PREVIOUS_TAG" ]]; then
+            notes="${notes}"$'\n\n'"Full Changelog: https://github.com/naxx1426/naxx-dnd5e-collection-2024/compare/${PREVIOUS_TAG}...${GITHUB_REF_NAME}"
+          fi
           gh release create "$GITHUB_REF_NAME" \
             build/module.json \
-            build/naxx-dnd5e-collection-2024.zip \
-            build/SHA256SUMS.txt \
+            build/module.zip \
             --verify-tag \
             --latest \
-            --title "naxx-dnd5e-collection-2024 $GITHUB_REF_NAME" \
-            --generate-notes
+            --title "$RELEASE_TITLE" \
+            --notes "$notes"

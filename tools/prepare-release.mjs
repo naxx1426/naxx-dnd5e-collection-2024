@@ -8,6 +8,9 @@ const packageJson = JSON.parse(await readFile(path.join(root, "package.json"), "
 const tag = process.argv[2] ?? `v${manifest.version}`;
 const expectedId = "naxx-dnd5e-collection-2024";
 const repository = `https://github.com/naxx1426/${expectedId}`;
+const expectedDownload = `${repository}/releases/download/${tag}/module.zip`;
+const legacyDownload = `${repository}/releases/download/${tag}/${expectedId}.zip`;
+const isCurrentLegacyRelease = manifest.version === "1.0.1" && manifest.download === legacyDownload;
 
 assert(manifest.id === expectedId, "Unexpected module id.");
 assert(manifest.type === "module", "module.json type must be module.");
@@ -15,7 +18,7 @@ assert(manifest.version === packageJson.version, "module.json and package.json v
 assert(tag === `v${manifest.version}`, `Tag ${tag} does not match version ${manifest.version}.`);
 assert(manifest.url === repository, "Repository URL is incorrect.");
 assert(manifest.manifest === `${repository}/releases/latest/download/module.json`, "Manifest update URL is incorrect.");
-assert(manifest.download === `${repository}/releases/download/${tag}/${expectedId}.zip`, "Download URL is incorrect.");
+assert(manifest.download === expectedDownload || isCurrentLegacyRelease, `Download URL must be ${expectedDownload}.`);
 assert(!JSON.stringify(manifest).match(/@(?:gmail|qq)\.com/i), "Public manifest contains a personal email address.");
 
 for (const pack of manifest.packs ?? []) {
