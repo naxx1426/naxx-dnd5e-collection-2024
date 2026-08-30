@@ -69,7 +69,7 @@ modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/
 
 迁移会递归处理 JSON 中的路径，包括文档 `img`、Token 纹理、主体图以及效果变更值。当前共维护 2,420 条本模组资源引用：DMG 617 条、MM 1,136 条、PHB 667 条。其中 2,270 条由三个官方模组路径迁移而来，另有 150 条旧 PHB 本地引用按来源重新归类。
 
-完整素材由私有仓库 `naxx1426/naxx-dnd5e-collection-2024-assets` 通过 Git LFS 维护，公开仓库和公开 Release 不包含它们。公开仓库只保留原先已经分发的 142 个 PHB 图标，可满足 254 条引用；其余 2,166 条写入 `data/asset-reference-report.json`。私有仓库中的 `sync-to-foundry.ps1` 会把三套来源目录合并到已安装模组，不会删除其他文件。
+完整素材由私有仓库 `naxx1426/naxx-dnd5e-collection-2024-assets` 通过 Git LFS 维护，公开仓库和公开 Release 不包含它们。公开仓库只保留原先已经分发的 142 个 PHB 图标，可满足 254 条引用；其余 2,166 条写入 `data/asset-reference-report.json`。使用时将私有仓库中的 `assets/` 解压或复制到已安装的 `naxx-dnd5e-collection-2024` 模组目录。
 
 迁移工具只改 JSON 引用，不主动从官方模组复制素材。目标文件不存在时仍会改写，并把具体合集、记录 key、字段路径、当前路径和期望路径写入报告。
 
