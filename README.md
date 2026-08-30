@@ -30,7 +30,9 @@ modules/naxx-dnd5e-collection-2024/assets/dnd-monster-manual/
 modules/naxx-dnd5e-collection-2024/assets/dnd-players-handbook/
 ```
 
-当前共维护 2,420 条本模组资源引用，其中 DMG 617 条、MM 1,136 条、PHB 667 条：2,270 条由官方模组路径迁移而来，另有 150 条旧 PHB 本地引用按来源重新归类。迁移只改引用，不复制官方素材，因此在对应文件尚未放入上述目录时，缺失资源报告属于预期结果。具体缺失项记录在 [`data/asset-reference-report.json`](data/asset-reference-report.json)；测试会阻止旧的三个官方路径或不含来源目录的本模组资源路径重新进入 JSON 源数据和生成的合集数据库。
+当前共维护 2,420 条本模组资源引用，其中 DMG 617 条、MM 1,136 条、PHB 667 条：2,270 条由官方模组路径迁移而来，另有 150 条旧 PHB 本地引用按来源重新归类。公开仓库只保留原先已经随模组分发的 142 个 PHB 图标，可满足 254 条引用；其余 2,166 条在公开构建中记录为缺失。完整素材放在私有仓库 [`naxx-dnd5e-collection-2024-assets`](https://github.com/naxx1426/naxx-dnd5e-collection-2024-assets)，不会进入公开 Release。
+
+首次克隆私有素材仓库后，运行其中的 `sync-to-foundry.ps1` 即可把素材合并到本地安装目录。公开模组更新后如果素材被更新器清理，再运行一次同步脚本即可恢复。具体缺失项记录在 [`data/asset-reference-report.json`](data/asset-reference-report.json)；测试会阻止旧的三个官方路径或不含来源目录的本模组资源路径重新进入 JSON 源数据和生成的合集数据库。
 
 ## 规则来源
 

@@ -5,6 +5,85 @@
   "group": "items.effects",
   "records": [
     {
+      "key": "!items.effects!1xfvqwNyqqNINwql.bA9jGJLPC87StGPe",
+      "value": {
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.1xfvqwNyqqNINwql",
+        "duration": {
+          "value": 60,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "bA9jGJLPC87StGPe",
+        "tint": "#ffffff",
+        "transfer": false,
+        "flags": {
+          "dfreds-convenient-effects": {
+            "description": ""
+          },
+          "dae": {
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "stackable": "noneName",
+            "durationExpression": "",
+            "specialDuration": [
+              "isCheck",
+              "isSkill"
+            ],
+            "macroRepeat": "none"
+          },
+          "core": {
+            "statusId": "21344213"
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false
+          }
+        },
+        "name": "神导术 Guidance",
+        "description": "",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085474378,
+          "modifiedTime": 1788085474378,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": "Actor.IOObBuw02XRfRgiy.Item.Kyv24afg6zttEBa2.ActiveEffect.Cttw0OSAXrnydpfp",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": null,
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.bonuses.abilities.check",
+              "value": "+1d4",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!23c6EOCEwMoRr5M2.82UCvTkEU9yAztRq",
       "value": {
         "name": "烟火术 Pyrotechnics",
@@ -74,12 +153,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976524,
-          "modifiedTime": 1784834976524,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587596,
+          "modifiedTime": 1788085587596,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -144,12 +223,12 @@
         ],
         "_id": "LJa6Ko9cpfrnAkKm",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976526,
-          "modifiedTime": 1784834976526,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587601,
+          "modifiedTime": 1788085587601,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -178,7 +257,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=int,saveDamage=nodamage,saveRemove=true,saveMagic=true,damageType=radiant,rollMode=publicroll,",
+              "value": "turn=end, label=心灵尖啸 Psychic Scream, saveAbility=int, saveDC=@attributes.spell.dc, saveMagic=true, damageType=radiant, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -242,12 +321,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976530,
-          "modifiedTime": 1784834976530,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587603,
+          "modifiedTime": 1788085587603,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -304,12 +383,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976534,
-          "modifiedTime": 1784834976534,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587606,
+          "modifiedTime": 1788085587606,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -360,7 +439,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=wis,saveDamage=nodamage,saveRemove=true,saveMagic=true,rollMode=publicroll,",
+              "value": "turn=end, label=造成恐惧Cause Fear, saveAbility=wis, saveDC=@attributes.spell.dc, saveMagic=true, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -423,12 +502,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976538,
-          "modifiedTime": 1784834976538,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587609,
+          "modifiedTime": 1788085587609,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -516,12 +595,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976539,
-          "modifiedTime": 1784834976539,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587611,
+          "modifiedTime": 1788085587611,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "_id": "kv8MJFhjSkek0SdW",
@@ -610,12 +689,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976539,
-          "modifiedTime": 1784834976539,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587611,
+          "modifiedTime": 1788085587611,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "_id": "oJolgzI1Kr7Rv7t2",
@@ -704,12 +783,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976539,
-          "modifiedTime": 1784834976539,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587611,
+          "modifiedTime": 1788085587611,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "_id": "t95gblStUaq8AG0Z",
@@ -798,12 +877,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976539,
-          "modifiedTime": 1784834976539,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587611,
+          "modifiedTime": 1788085587611,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "_id": "tSMtjC3Er4zbGmAi",
@@ -893,12 +972,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976539,
-          "modifiedTime": 1784834976539,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587611,
+          "modifiedTime": 1788085587611,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -919,7 +998,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end, saveAbility=str, saveDC=@attributes.spelldc, saveMagic=true, saveDamage=halfdamage, rollType=save, saveMagic=true, damageBeforeSave=false, damageRoll=[@flags.dnd5e.spellLevel/2]d6, damageType=bludgeoning",
+              "value": "turn=end, label=暴风法球Storm Sphere, saveAbility=str, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=[@flags.dnd5e.spellLevel/2]d6, damageType=bludgeoning, saveDamage=halfdamage, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -948,7 +1027,8 @@
             "stackable": "noneName",
             "showIcon": false,
             "durationExpression": "",
-            "specialDuration": []
+            "specialDuration": [],
+            "macroRepeat": "none"
           },
           "dnd5e": {
             "riders": {
@@ -979,12 +1059,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976584,
-          "modifiedTime": 1784834976584,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587649,
+          "modifiedTime": 1788085587649,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -1039,12 +1119,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976585,
-          "modifiedTime": 1784834976585,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587650,
+          "modifiedTime": 1788085587650,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -1136,12 +1216,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976587,
-          "modifiedTime": 1784834976587,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587652,
+          "modifiedTime": 1788085587652,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -1223,12 +1303,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976586,
-          "modifiedTime": 1784834976586,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587651,
+          "modifiedTime": 1788085587651,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -1249,7 +1329,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,saveMagic=true,damageRoll=1d10,damageType=fire,rollMode=publicroll,",
+              "value": "turn=end, label=炽焰赋权光环Investiture of Flame, rollType=damage, saveMagic=true, damageRoll=1d10, damageType=fire, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -1317,12 +1397,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976588,
-          "modifiedTime": 1784834976588,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587653,
+          "modifiedTime": 1788085587653,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -1425,12 +1505,93 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976588,
-          "modifiedTime": 1784834976588,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587653,
+          "modifiedTime": 1788085587653,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!c4Rwx5li2TEEQPzf.ufnxVsEnobiB2cnO",
+      "value": {
+        "name": "引力裂沟Gravity Sinkhole",
+        "img": "icons/magic/air/air-burst-spiral-blue-gray.webp",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.c4Rwx5li2TEEQPzf",
+        "transfer": false,
+        "_id": "ufnxVsEnobiB2cnO",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "turns",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "isMoved"
+            ]
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550956,
+          "modifiedTime": 1788085550956,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -1497,12 +1658,12 @@
         ],
         "_id": "HWrDPImmAWPgNzoI",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976591,
-          "modifiedTime": 1784834976591,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085546277,
+          "modifiedTime": 1788085546277,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "ActiveEffect.O7UWnvWdmLkNnXPF",
           "duplicateSource": null,
           "exportSource": null
@@ -1575,12 +1736,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976591,
-          "modifiedTime": 1784834976591,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085546277,
+          "modifiedTime": 1788085546277,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -1590,7 +1751,7 @@
         "system": {
           "changes": [
             {
-              "key": "flags.midi-qol.advantage.ability.save.wis",
+              "key": "flags.midi-qol.advantage.save.wis",
               "value": 1,
               "priority": 20,
               "type": "add",
@@ -1671,12 +1832,12 @@
         ],
         "_id": "3EsHBstwrMw1ddPE",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976592,
-          "modifiedTime": 1784834976592,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587655,
+          "modifiedTime": 1788085587655,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -1793,12 +1954,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976593,
-          "modifiedTime": 1784834976593,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587656,
+          "modifiedTime": 1788085587656,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "Actor.bvEYS7EFkAFT4pCf.Item.D85jj7XpsIug249c.ActiveEffect.nVmlEvvV2f4CRei7",
           "duplicateSource": null,
           "exportSource": null
@@ -1809,7 +1970,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=start,allowIncapacitated=true,rollType=save,saveDamage=nodamage,saveMagic=true,damageRoll=6d6,damageType=bludgeoning,rollMode=publicroll,",
+              "value": "turn=start, label=大漩涡生效Maelstrom, rollType=damage, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=6d6, damageType=bludgeoning, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -1880,12 +2041,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976543,
-          "modifiedTime": 1784834976543,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587614,
+          "modifiedTime": 1788085587614,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -1896,7 +2057,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=dex,saveDamage=nodamage,saveRemove=true,saveMagic=true,damageRoll=4d6,damageType=fire,rollMode=publicroll,",
+              "value": "turn=end, label=焚烧Immolation, saveAbility=dex, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=4d6, damageType=fire, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -29187,12 +29348,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976544,
-          "modifiedTime": 1784834976544,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587615,
+          "modifiedTime": 1788085587615,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -29247,12 +29408,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976544,
-          "modifiedTime": 1784834976544,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587615,
+          "modifiedTime": 1788085587615,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -29278,6 +29439,84 @@
             {
               "key": "system.traits.dr.value",
               "value": "slashing",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!dxCs7oMMHNV7keND.OVWwLWCMRIdd5vld",
+      "value": {
+        "name": "灵敏之赐Gift of Alacrity",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.dxCs7oMMHNV7keND",
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "OVWwLWCMRIdd5vld",
+        "description": "",
+        "transfer": false,
+        "statuses": [],
+        "flags": {
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "longRest"
+            ]
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system"
+          }
+        },
+        "tint": "#ffffff",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550957,
+          "modifiedTime": 1788085550957,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/magic/control/silhouette-hold-change-blue.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.init.bonus",
+              "value": "+1d8",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -39537,6 +39776,114 @@
       }
     },
     {
+      "key": "!items.effects!EPA95aL0TTwT4WCb.zOO0T8AxHs7VOaf1",
+      "value": {
+        "name": "智能壁垒 Intellect Fortress (TCE)",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.EPA95aL0TTwT4WCb",
+        "duration": {
+          "value": 3600,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "zOO0T8AxHs7VOaf1",
+        "description": "",
+        "transfer": false,
+        "statuses": [],
+        "flags": {
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [],
+            "enableCondition": "",
+            "disableCondition": ""
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          }
+        },
+        "tint": "#ffffff",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585711,
+          "modifiedTime": 1788085585711,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "modules/dnd5e_classpack/Nicons/ability_bastion_priest.jpg",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.traits.dr.value",
+              "value": "psychic",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.advantage.save.cha",
+              "value": 1,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.advantage.save.int",
+              "value": 1,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.advantage.save.wis",
+              "value": 1,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!FhUX1dok8J753raG.k3kMiZTFvf6JQHPY",
       "value": {
         "name": "阿莎德隆加速 Ashardalon's Stride",
@@ -39583,12 +39930,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976548,
-          "modifiedTime": 1784834976548,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085553747,
+          "modifiedTime": 1788085553747,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -39706,12 +40053,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976551,
-          "modifiedTime": 1784834976551,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587620,
+          "modifiedTime": 1788085587620,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -39731,7 +40078,7 @@
         "system": {
           "changes": [
             {
-              "key": "flags.midi-qol.advantage.ability.save.con",
+              "key": "flags.midi-qol.advantage.save.con",
               "value": "+1",
               "priority": 20,
               "type": "add",
@@ -39813,12 +40160,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976551,
-          "modifiedTime": 1784834976551,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587620,
+          "modifiedTime": 1788085587620,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -39895,12 +40242,12 @@
         "description": "",
         "statuses": [],
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976550,
-          "modifiedTime": 1784834976550,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587619,
+          "modifiedTime": 1788085587619,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "ActiveEffect.8fYkPnOf7pMU05N0",
           "duplicateSource": null,
           "exportSource": null
@@ -39910,7 +40257,7 @@
         "system": {
           "changes": [
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.dex",
+              "key": "flags.midi-qol.disadvantage.save.dex",
               "value": 1,
               "priority": 0,
               "type": "custom",
@@ -39939,7 +40286,7 @@
             },
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveDamage=nodamage,saveRemove=true,saveMagic=true,rollMode=publicroll,",
+              "value": "turn=end, label=Restrained, saveDC=@attributes.spell.dc, saveMagic=true, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -39956,6 +40303,341 @@
           "initiative": null
         },
         "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!gqGklSk6EiHsGrlr.GPOHshHCCBp5bbd6",
+      "value": {
+        "name": "崩坏现实Reality Break",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.gqGklSk6EiHsGrlr",
+        "duration": {
+          "value": 60,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "GPOHshHCCBp5bbd6",
+        "description": "",
+        "transfer": false,
+        "statuses": [],
+        "flags": {
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [],
+            "enableCondition": "",
+            "disableCondition": ""
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          }
+        },
+        "tint": "#ffffff",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550959,
+          "modifiedTime": 1788085550959,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/magic/lightning/orb-ball-purple.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.OverTime",
+              "value": "turn=end, label=崩坏现实Reality Break, saveAbility=wis, saveDC=@attributes.spell.dc, saveMagic=true, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "macro.itemMacro",
+              "value": "",
+              "priority": 20,
+              "type": "custom",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!gqGklSk6EiHsGrlr.HvIPjZQqS9kbyvQs",
+      "value": {
+        "name": "倒地",
+        "img": "icons/magic/lightning/orb-ball-purple.webp",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.gqGklSk6EiHsGrlr",
+        "transfer": false,
+        "_id": "HvIPjZQqS9kbyvQs",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "turns",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [
+          "prone"
+        ],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550959,
+          "modifiedTime": 1788085550959,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!gqGklSk6EiHsGrlr.pJlnsN9U7QNOnqHv",
+      "value": {
+        "name": "震慑 stun",
+        "img": "icons/magic/lightning/orb-ball-purple.webp",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.gqGklSk6EiHsGrlr",
+        "transfer": false,
+        "_id": "pJlnsN9U7QNOnqHv",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "rounds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [
+          "incapacitated",
+          "stunned"
+        ],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550959,
+          "modifiedTime": 1788085550959,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!gqGklSk6EiHsGrlr.wBvjaodmGEn4HXgL",
+      "value": {
+        "name": "目盲",
+        "img": "icons/magic/lightning/orb-ball-purple.webp",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.gqGklSk6EiHsGrlr",
+        "transfer": false,
+        "_id": "wBvjaodmGEn4HXgL",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "turns",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [
+          "blinded"
+        ],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550959,
+          "modifiedTime": 1788085550959,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": null,
         "folder": null
       }
     },
@@ -40008,12 +40690,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976554,
-          "modifiedTime": 1784834976554,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587626,
+          "modifiedTime": 1788085587626,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -40050,7 +40732,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=wis,saveDamage=nodamage,saveRemove=true,saveMagic=true,rollMode=publicroll,",
+              "value": "turn=end, label=鼓动贪欲 Incite  Greed, saveAbility=wis, saveDC=@attributes.spell.dc, saveMagic=true, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -40079,7 +40761,8 @@
             "stackable": "noneName",
             "showIcon": false,
             "durationExpression": "",
-            "specialDuration": []
+            "specialDuration": [],
+            "macroRepeat": "none"
           },
           "dnd5e": {
             "riders": {
@@ -40110,12 +40793,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976612,
-          "modifiedTime": 1784834976612,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085546279,
+          "modifiedTime": 1788085546279,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -41703,6 +42386,177 @@
       }
     },
     {
+      "key": "!items.effects!IkFYMlWnKZOskbxR.OI8kYV1vibzCimR6",
+      "value": {
+        "name": "闪电牵引 Lightning Lure",
+        "img": "modules/dnd5e_classpack/Nicons/Ability_Monk_CracklingJadeLightning.png",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.IkFYMlWnKZOskbxR",
+        "transfer": false,
+        "_id": "OI8kYV1vibzCimR6",
+        "type": "base",
+        "system": {
+          "changes": []
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "turns",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "isMoved"
+            ]
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085577426,
+          "modifiedTime": 1788085577426,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!Il0iA9nttKqh0ACr.ZXv7eRn3xf5tzP8x",
+      "value": {
+        "name": "心灵之楔 Mind Sliver（TCE）",
+        "img": "modules/dnd5e_classpack/Nicons/ability_demonhunter_soulcleave2.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.Il0iA9nttKqh0ACr",
+        "transfer": false,
+        "_id": "ZXv7eRn3xf5tzP8x",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.bonuses.abilities.save",
+              "value": "-1d4",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": 1,
+          "units": "rounds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": [
+              "isSave",
+              "turnEndSource"
+            ],
+            "macroRepeat": "none"
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585713,
+          "modifiedTime": 1788085585713,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!iYwrPPLmuVD9eqfa.HsbtDDdiWhk4d7WB",
       "value": {
         "name": "缓速",
@@ -41757,6 +42611,107 @@
       }
     },
     {
+      "key": "!items.effects!jlxVoUI0BpoOLcjx.EdXRHuZrKxW44O0f",
+      "value": {
+        "name": "时光蹂躏 Time Ravage",
+        "img": "modules/dnd5e_classpack/Nicons/ability_bossmagistrix_timewarp1.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.jlxVoUI0BpoOLcjx",
+        "transfer": false,
+        "_id": "EdXRHuZrKxW44O0f",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.disadvantage.check.all",
+              "value": "+1",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.disadvantage.save.all",
+              "value": "+1",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.disadvantage.attack.all",
+              "value": "+1",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550962,
+          "modifiedTime": 1788085550962,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!JPBsQ6vNXASfe3nk.snoP3NoCu0FvkEJq",
       "value": {
         "name": "突触静止Synaptic Static",
@@ -41790,7 +42745,7 @@
             },
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=int,saveDamage=nodamage,saveRemove=true,saveMagic=true,damageType=radiant,rollMode=publicroll,",
+              "value": "turn=end, label=突触静止Synaptic Static, saveAbility=int, saveDC=@attributes.spell.dc, saveMagic=true, damageType=radiant, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -41851,12 +42806,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976555,
-          "modifiedTime": 1784834976555,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587627,
+          "modifiedTime": 1788085587627,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -41898,6 +42853,110 @@
           "systemVersion": "5.3.3",
           "createdTime": 1784849884400,
           "modifiedTime": 1784849884400,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!KS5iEDJFWv7JWwb2.nkmHVJFyqP5tl5VD",
+      "value": {
+        "name": "暗黑星辰Dark Star",
+        "img": "icons/magic/light/projectiles-star-purple.webp",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.KS5iEDJFWv7JWwb2",
+        "transfer": false,
+        "_id": "nkmHVJFyqP5tl5VD",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.fail.spell.vocal",
+              "value": "+1",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "system.traits.di.value",
+              "value": "thunder",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.OverTime",
+              "value": "turn=start, label=暗黑星辰Dark Star, saveAbility=con, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=8d10, damageType=force, saveDamage=halfdamage, rollMode=publicroll, allowIncapacitated=true",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [
+          "silenced",
+          "deafened"
+        ],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": [],
+            "macroRepeat": "none"
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": true,
+            "aura": "All",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": true,
+            "hostile": false,
+            "onlyOnce": true,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550949,
+          "modifiedTime": 1788085550949,
           "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
@@ -41964,12 +43023,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976647,
-          "modifiedTime": 1784834976647,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587664,
+          "modifiedTime": 1788085587664,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -41979,7 +43038,7 @@
         "system": {
           "changes": [
             {
-              "key": "flags.midi-qol.disadvantage.ability.all",
+              "key": "flags.midi-qol.disadvantage.check.all",
               "value": 1,
               "priority": 20,
               "type": "add",
@@ -41993,35 +43052,35 @@
               "phase": "initial"
             },
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.cha",
+              "key": "flags.midi-qol.disadvantage.save.cha",
               "value": 1,
               "priority": 20,
               "type": "add",
               "phase": "initial"
             },
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.dex",
+              "key": "flags.midi-qol.disadvantage.save.dex",
               "value": 1,
               "priority": 20,
               "type": "add",
               "phase": "initial"
             },
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.int",
+              "key": "flags.midi-qol.disadvantage.save.int",
               "value": 1,
               "priority": 20,
               "type": "add",
               "phase": "initial"
             },
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.str",
+              "key": "flags.midi-qol.disadvantage.save.str",
               "value": 1,
               "priority": 20,
               "type": "add",
               "phase": "initial"
             },
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.wis",
+              "key": "flags.midi-qol.disadvantage.save.wis",
               "value": 1,
               "priority": 20,
               "type": "add",
@@ -42029,7 +43088,7 @@
             },
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=con,saveDamage=nodamage,saveRemove=true,saveMagic=true,rollMode=publicroll,",
+              "value": "turn=end, label=律令痛苦Power Word Pain, saveAbility=con, saveDC=@attributes.spell.dc, saveMagic=true, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -42089,12 +43148,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976649,
-          "modifiedTime": 1784834976649,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587665,
+          "modifiedTime": 1788085587665,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -42120,6 +43179,220 @@
           ]
         },
         "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!LkEHyXctkvbdkbEV.MGUvQ0X8dnq3M32N",
+      "value": {
+        "name": "下层位面 Tasha’s Otherworldly Guise (TCE)",
+        "img": "modules/dnd5e_classpack/Nicons/spell_animaardenweald_buff.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.LkEHyXctkvbdkbEV",
+        "transfer": false,
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.traits.dm.amount.fire",
+              "value": 0,
+              "priority": 20,
+              "type": "multiply",
+              "phase": "initial"
+            },
+            {
+              "key": "system.traits.dm.amount.poison",
+              "value": 0,
+              "priority": 20,
+              "type": "multiply",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 40,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.ac.bonus",
+              "value": 2,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": 60,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "multi",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585715,
+          "modifiedTime": 1788085585715,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "_id": "MGUvQ0X8dnq3M32N",
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!LkEHyXctkvbdkbEV.VGbnVcgTkcxe8yFB",
+      "value": {
+        "name": "上层位面 Tasha’s Otherworldly Guise (TCE）",
+        "img": "modules/dnd5e_classpack/Nicons/spell_animaardenweald_buff.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.LkEHyXctkvbdkbEV",
+        "transfer": false,
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.traits.dm.amount.radiant",
+              "value": 0,
+              "priority": 20,
+              "type": "multiply",
+              "phase": "initial"
+            },
+            {
+              "key": "system.traits.dm.amount.necrotic",
+              "value": 0,
+              "priority": 20,
+              "type": "multiply",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.movement.fly",
+              "value": 40,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.ac.bonus",
+              "value": 2,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": 60,
+          "units": "seconds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "multi",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585715,
+          "modifiedTime": 1788085585715,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "_id": "VGbnVcgTkcxe8yFB",
         "start": null,
         "showIcon": 1,
         "folder": null
@@ -42226,12 +43499,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976651,
-          "modifiedTime": 1784834976651,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587667,
+          "modifiedTime": 1788085587667,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -42286,12 +43559,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976652,
-          "modifiedTime": 1784834976652,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587668,
+          "modifiedTime": 1788085587668,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -42395,12 +43668,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976652,
-          "modifiedTime": 1784834976652,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587668,
+          "modifiedTime": 1788085587668,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -42424,12 +43697,12 @@
         "flags": {},
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976558,
-          "modifiedTime": 1784834976558,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085581184,
+          "modifiedTime": 1788085581184,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -57636,12 +58909,12 @@
         "description": "",
         "statuses": [],
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976654,
-          "modifiedTime": 1784834976654,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587670,
+          "modifiedTime": 1788085587670,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "ActiveEffect.8fYkPnOf7pMU05N0",
           "duplicateSource": null,
           "exportSource": null
@@ -57651,7 +58924,7 @@
         "system": {
           "changes": [
             {
-              "key": "flags.midi-qol.disadvantage.ability.save.dex",
+              "key": "flags.midi-qol.disadvantage.save.dex",
               "value": 1,
               "priority": 0,
               "type": "custom",
@@ -57763,14 +59036,137 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976560,
-          "modifiedTime": 1784834976560,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587631,
+          "modifiedTime": 1788085587631,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
+        "showIcon": 2,
+        "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!OVgmvEJHFmGeeu7g.bLGEl1iaM754WulO",
+      "value": {
+        "description": "<p>- A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.<br>- The creature has disadvantage on attack rolls.<br>- An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. Otherwise, the attack roll has disadvantage.</p>",
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "flags": {
+          "dfreds-convenient-effects": {
+            "isConvenient": true,
+            "isDynamic": false,
+            "isViewable": true,
+            "nestedEffects": [],
+            "subEffects": []
+          },
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "isMoved"
+            ]
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system"
+          }
+        },
+        "name": "Prone",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.OVgmvEJHFmGeeu7g",
+        "tint": "#ffffff",
+        "transfer": false,
+        "statuses": [
+          "Convenient Effect: Prone",
+          "prone"
+        ],
+        "_id": "bLGEl1iaM754WulO",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550950,
+          "modifiedTime": 1788085550950,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "modules/dfreds-convenient-effects/images/prone.svg",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.grants.advantage.attack.mwak",
+              "value": 1,
+              "priority": 0,
+              "type": "custom",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.grants.advantage.attack.msak",
+              "value": 1,
+              "priority": 0,
+              "type": "custom",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.grants.disadvantage.attack.rwak",
+              "value": 1,
+              "priority": 0,
+              "type": "custom",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.grants.disadvantage.attack.rsak",
+              "value": 1,
+              "priority": 0,
+              "type": "custom",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.disadvantage.attack.all",
+              "value": 1,
+              "priority": 0,
+              "type": "custom",
+              "phase": "initial"
+            },
+            {
+              "key": "system.attributes.movement.all",
+              "value": "*0.5",
+              "priority": 25,
+              "type": "custom",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
         "showIcon": 2,
         "start": null,
         "folder": null
@@ -57849,12 +59245,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976655,
-          "modifiedTime": 1784834976655,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587671,
+          "modifiedTime": 1788085587671,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -57920,12 +59316,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976658,
-          "modifiedTime": 1784834976658,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085553751,
+          "modifiedTime": 1788085553751,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -58029,12 +59425,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976659,
-          "modifiedTime": 1784834976659,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587673,
+          "modifiedTime": 1788085587673,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -58125,12 +59521,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976659,
-          "modifiedTime": 1784834976659,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587673,
+          "modifiedTime": 1788085587673,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -58151,7 +59547,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=con,saveDamage=nodamage,saveRemove=true,saveMagic=true,damageType=radiant,rollMode=publicroll,",
+              "value": "turn=end, label=神圣武器目盲Holy Weapon, saveAbility=con, saveDC=@attributes.spell.dc, saveMagic=true, damageType=radiant, saveCount=1-, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -58214,12 +59610,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976659,
-          "modifiedTime": 1784834976659,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587673,
+          "modifiedTime": 1788085587673,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -88099,6 +89495,114 @@
       }
     },
     {
+      "key": "!items.effects!QD0hMadacCVoJGkn.AM8ee2iV9vYDFgWj",
+      "value": {
+        "name": "命运宠儿Fortune’s Favor",
+        "img": "modules/dnd5e_classpack/Nicons/ability_rogue_rollthebones.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.QD0hMadacCVoJGkn",
+        "transfer": false,
+        "_id": "AM8ee2iV9vYDFgWj",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.optional.NAME.attack.fail.all",
+              "value": "reroll-kh",
+              "priority": 20,
+              "type": "override",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.NAME.save.fail.all",
+              "value": "reroll-kh",
+              "priority": 20,
+              "type": "override",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.NAME.check.fail.all",
+              "value": "reroll-kh",
+              "priority": 20,
+              "type": "override",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.NAME.label",
+              "value": "命运宠儿",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "multi",
+            "showIcon": false,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550952,
+          "modifiedTime": 1788085550952,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!QeeoKnO9JbeAkvQz.AORU2aKdkWgFgHe1",
       "value": {
         "name": "卡牌喷射 Spray of Cards",
@@ -88168,12 +89672,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1785597564453,
-          "modifiedTime": 1785597564453,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085547780,
+          "modifiedTime": 1788085547780,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "showIcon": 2,
@@ -88239,12 +89743,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977071,
-          "modifiedTime": 1784834977071,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587675,
+          "modifiedTime": 1788085587675,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -88341,12 +89845,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977072,
-          "modifiedTime": 1784834977072,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587676,
+          "modifiedTime": 1788085587676,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -88405,12 +89909,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977074,
-          "modifiedTime": 1784834977074,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085553753,
+          "modifiedTime": 1788085553753,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "img": "modules/dnd5e_classpack/Nicons/ability_evoker_essenceburst2.png",
@@ -88425,6 +89929,98 @@
               "phase": "initial"
             }
           ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!S2Julj2sEMwh4rdc.VfdhnTyZRUgnBemB",
+      "value": {
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "flags": {
+          "core": {
+            "overlay": false
+          },
+          "dfreds-convenient-effects": {
+            "description": "缓慢 Slowed 如同缓慢术的效果，如果在缓慢状态下再次受到缓慢影响将会陷入失能",
+            "isConvenient": true,
+            "isDynamic": false,
+            "isViewable": true,
+            "nestedEffects": [],
+            "subEffects": []
+          },
+          "times-up": {
+            "isPassive": false
+          },
+          "dae": {
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "stackable": "count",
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "turnEnd"
+            ],
+            "disableIncapacitated": false,
+            "dontApply": false,
+            "showIcon": false,
+            "enableCondition": "",
+            "disableCondition": ""
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "nameOverride": "",
+            "customCheck": "",
+            "wallsBlock": "system",
+            "statuses": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          }
+        },
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.S2Julj2sEMwh4rdc",
+        "tint": "#ffffff",
+        "transfer": false,
+        "_id": "VfdhnTyZRUgnBemB",
+        "name": "恍惚",
+        "description": "<div class=\"Section0\" style=\"LAYOUT-GRID:15.6pt none\"><h4 style=\"MARGIN:2pt 0pt;mso-pagination:widow-orphan\"><strong>恍惚</strong></h4><p class=\"26\" style=\"MARGIN-BOTTOM:0pt;MARGIN-TOP:0pt;LINE-HEIGHT:13pt;MARGIN-RIGHT:0pt;TEXT-INDENT:12pt;mso-pagination:widow-orphan;mso-char-indent-count:1.0000;mso-add-space:auto;mso-line-height-rule:exactly\">·恍惚的生物不能执行反应。</p><p class=\"26\" style=\"MARGIN-BOTTOM:0pt;MARGIN-TOP:0pt;LINE-HEIGHT:13pt;MARGIN-RIGHT:0pt;TEXT-INDENT:12pt;mso-pagination:widow-orphan;mso-char-indent-count:1.0000;mso-add-space:auto;mso-line-height-rule:exactly\">·恍惚的生物在自己的回合内，只能从动作、附赠动作、消耗移动力三种行为中选择一项执行。</p></div>",
+        "statuses": [],
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585717,
+          "modifiedTime": 1788085585717,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": "ActiveEffect.SDrUwzuaGgY9Zvev",
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/svg/daze.svg",
+        "type": "base",
+        "system": {
+          "changes": []
         },
         "sort": 0,
         "start": null,
@@ -88480,12 +90076,12 @@
         "description": "",
         "statuses": [],
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977077,
-          "modifiedTime": 1784834977077,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587679,
+          "modifiedTime": 1788085587679,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "Actor.GabJyoAElcOKQvnt.Item.BLQ0Ji7lUWee8Nkf.ActiveEffect.0dzIM4EKwjByRFi9",
           "duplicateSource": null,
           "exportSource": null
@@ -88572,12 +90168,12 @@
         "description": "",
         "statuses": [],
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976570,
-          "modifiedTime": 1784834976570,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085553749,
+          "modifiedTime": 1788085553749,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": "Actor.GabJyoAElcOKQvnt.Item.9uuVdQ5fn2hKm8Yy.ActiveEffect.uuJR7pWerqyxE3kN",
           "duplicateSource": null,
           "exportSource": null
@@ -89060,6 +90656,393 @@
       }
     },
     {
+      "key": "!items.effects!TH2wXQ3yssrGZ821.kjydidYoNaarZI0M",
+      "value": {
+        "name": "魂灵环绕光耀SpiritShroud",
+        "img": "modules/dnd5e_classpack/Nicons/ability_ardenweald_priest.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.TH2wXQ3yssrGZ821",
+        "transfer": false,
+        "_id": "kjydidYoNaarZI0M",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.activation",
+              "value": "computeDistance(tokenUuid, targetUuid)<=10",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.damage.msak",
+              "value": "((@scaling+1)/2)d8[radiant]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.damage.mwak",
+              "value": "((@scaling+1)/2)d8[radiant]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.damage.rsak",
+              "value": "((@scaling+1)/2)d8[radiant]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.damage.rwak",
+              "value": "((@scaling+1)/2)d8[radiant]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.count",
+              "value": "every",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕光耀SpiritShroud.criticalDamage",
+              "value": true,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": [],
+            "macroRepeat": "none"
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585719,
+          "modifiedTime": 1788085585719,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!TH2wXQ3yssrGZ821.lBHWltVhN1lBQLaO",
+      "value": {
+        "name": "魂灵环绕黯蚀SpiritShroud",
+        "img": "modules/dnd5e_classpack/Nicons/ability_ardenweald_priest.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.TH2wXQ3yssrGZ821",
+        "transfer": false,
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.activation",
+              "value": "computeDistance(tokenUuid, targetUuid)<=10",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.damage.msak",
+              "value": "((@scaling+1)/2)d8[necrotic]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.damage.mwak",
+              "value": "((@scaling+1)/2)d8[necrotic]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.damage.rsak",
+              "value": "((@scaling+1)/2)d8[necrotic]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.damage.rwak",
+              "value": "((@scaling+1)/2)d8[necrotic]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.count",
+              "value": "every",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕黯蚀SpiritShroud.criticalDamage",
+              "value": true,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": [],
+            "macroRepeat": "none"
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585719,
+          "modifiedTime": 1788085585719,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "_id": "lBHWltVhN1lBQLaO",
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!TH2wXQ3yssrGZ821.XWlwr9BXnrhm1gzy",
+      "value": {
+        "name": "魂灵环绕寒冷SpiritShroud",
+        "img": "modules/dnd5e_classpack/Nicons/ability_ardenweald_priest.jpg",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.TH2wXQ3yssrGZ821",
+        "transfer": false,
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.activation",
+              "value": "computeDistance(tokenUuid, targetUuid)<=10",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.damage.msak",
+              "value": "+((@scaling+1)/2)d8[cold]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.damage.mwak",
+              "value": "+((@scaling+1)/2)d8[cold]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.damage.rsak",
+              "value": "+((@scaling+1)/2)d8[cold]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.damage.rwak",
+              "value": "+((@scaling+1)/2)d8[cold]",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.count",
+              "value": "every",
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            },
+            {
+              "key": "flags.midi-qol.optional.魂灵环绕寒冷SpiritShroud.criticalDamage",
+              "value": true,
+              "priority": 20,
+              "type": "add",
+              "phase": "initial"
+            }
+          ]
+        },
+        "disabled": false,
+        "duration": {
+          "value": null,
+          "units": "seconds",
+          "expiry": null,
+          "expired": false
+        },
+        "description": "",
+        "tint": "#ffffff",
+        "statuses": [],
+        "sort": 0,
+        "flags": {
+          "dae": {
+            "enableCondition": "",
+            "disableCondition": "",
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": false,
+            "durationExpression": "",
+            "specialDuration": [],
+            "macroRepeat": "none"
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          }
+        },
+        "_stats": {
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085585719,
+          "modifiedTime": 1788085585719,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "exportSource": null
+        },
+        "_id": "XWlwr9BXnrhm1gzy",
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
       "key": "!items.effects!uGPq5j00ZkoApJkQ.5uVcNGYxCbpOGGbh",
       "value": {
         "name": "德鲁伊林地Druid Grove",
@@ -89086,12 +91069,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977091,
-          "modifiedTime": 1784834977091,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587680,
+          "modifiedTime": 1788085587680,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89174,12 +91157,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976572,
-          "modifiedTime": 1784834976572,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587639,
+          "modifiedTime": 1788085587639,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89270,12 +91253,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976572,
-          "modifiedTime": 1784834976572,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587639,
+          "modifiedTime": 1788085587639,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89343,12 +91326,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977092,
-          "modifiedTime": 1784834977092,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085553755,
+          "modifiedTime": 1788085553755,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -89484,12 +91467,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1785597564455,
-          "modifiedTime": 1785597564455,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085547783,
+          "modifiedTime": 1788085547783,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89527,12 +91510,12 @@
         ],
         "_id": "Q6ZnHIUqZSmvafn7",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976574,
-          "modifiedTime": 1784834976574,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587641,
+          "modifiedTime": 1788085587641,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -89588,6 +91571,95 @@
         "sort": 0,
         "showIcon": 2,
         "start": null,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!wMEtvmN9ZcwU6o82.mfedas8D5jCzoFKf",
+      "value": {
+        "name": "扩大重力Magnify Gravity",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.wMEtvmN9ZcwU6o82",
+        "duration": {
+          "value": 1,
+          "units": "rounds",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "mfedas8D5jCzoFKf",
+        "description": "",
+        "transfer": false,
+        "statuses": [],
+        "flags": {
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "turnEnd"
+            ],
+            "enableCondition": "",
+            "disableCondition": ""
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          }
+        },
+        "tint": "#ffffff",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550964,
+          "modifiedTime": 1788085550964,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "icons/skills/targeting/target-glowing-yellow.webp",
+        "type": "base",
+        "system": {
+          "changes": [
+            {
+              "key": "system.attributes.movement.walk",
+              "value": 0.5,
+              "priority": 20,
+              "type": "multiply",
+              "phase": "initial"
+            }
+          ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
         "folder": null
       }
     },
@@ -89671,12 +91743,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976575,
-          "modifiedTime": 1784834976575,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085546276,
+          "modifiedTime": 1788085546276,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89758,12 +91830,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976576,
-          "modifiedTime": 1784834976576,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587641,
+          "modifiedTime": 1788085587641,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -89801,12 +91873,12 @@
         ],
         "_id": "AaIAvrThtbi2GIRT",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977093,
-          "modifiedTime": 1784834977093,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085546283,
+          "modifiedTime": 1788085546283,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -89871,12 +91943,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976577,
-          "modifiedTime": 1784834976577,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587642,
+          "modifiedTime": 1788085587642,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -89905,7 +91977,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=end,allowIncapacitated=true,rollType=save,saveAbility=con,saveDamage=halfdamage,saveMagic=true,damageRoll=4d10,damageType=radiant,rollMode=publicroll,",
+              "value": "turn=end, label=拂晓Dawn, saveAbility=con, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=4d10, damageType=radiant, saveDamage=halfdamage, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -89966,12 +92038,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977095,
-          "modifiedTime": 1784834977095,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587685,
+          "modifiedTime": 1788085587685,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -90009,12 +92081,12 @@
         ],
         "_id": "eQb43s2PXL37KWFq",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977094,
-          "modifiedTime": 1784834977094,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587681,
+          "modifiedTime": 1788085587681,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -90088,12 +92160,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976580,
-          "modifiedTime": 1784834976580,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587645,
+          "modifiedTime": 1788085587645,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -90104,7 +92176,7 @@
           "changes": [
             {
               "key": "flags.midi-qol.OverTime",
-              "value": "turn=start,allowIncapacitated=true,rollType=save,saveAbility=wis,saveDamage=halfdamage,saveMagic=true,damageRoll=8d8,damageType=psychic,rollMode=publicroll,",
+              "value": "turn=start, label=疯狂之暗Maddening Darkness, saveAbility=wis, saveDC=@attributes.spell.dc, saveMagic=true, damageRoll=8d8, damageType=psychic, saveDamage=halfdamage, rollMode=publicroll, allowIncapacitated=true",
               "priority": 20,
               "type": "add",
               "phase": "initial"
@@ -90247,12 +92319,12 @@
         "_stats": {
           "compendiumSource": null,
           "duplicateSource": null,
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977099,
-          "modifiedTime": 1784834977099,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587687,
+          "modifiedTime": 1788085587687,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "exportSource": null
         },
         "start": null,
@@ -90307,12 +92379,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834977100,
-          "modifiedTime": 1784834977100,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587688,
+          "modifiedTime": 1788085587688,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null
@@ -90329,6 +92401,87 @@
               "phase": "initial"
             }
           ]
+        },
+        "sort": 0,
+        "start": null,
+        "showIcon": 1,
+        "folder": null
+      }
+    },
+    {
+      "key": "!items.effects!ZGvthYJNmIv8sDqj.iITXAE1XWdXb41b7",
+      "value": {
+        "name": "脉冲波动Pulse Wave",
+        "origin": "Compendium.naxx-dnd5e-collection-2024.naxx-homerule-item.Item.ZGvthYJNmIv8sDqj",
+        "duration": {
+          "value": 1,
+          "units": "turns",
+          "expiry": "turnStart",
+          "expired": false
+        },
+        "disabled": false,
+        "_id": "iITXAE1XWdXb41b7",
+        "description": "",
+        "transfer": false,
+        "statuses": [],
+        "flags": {
+          "dae": {
+            "disableIncapacitated": false,
+            "selfTarget": false,
+            "selfTargetAlways": false,
+            "dontApply": false,
+            "stackable": "noneName",
+            "showIcon": true,
+            "durationExpression": "",
+            "macroRepeat": "none",
+            "specialDuration": [
+              "isMoved"
+            ],
+            "enableCondition": "",
+            "disableCondition": ""
+          },
+          "ActiveAuras": {
+            "isAura": false,
+            "aura": "None",
+            "nameOverride": "",
+            "radius": "",
+            "alignment": "",
+            "type": "",
+            "customCheck": "",
+            "ignoreSelf": false,
+            "height": false,
+            "hidden": false,
+            "displayTemp": false,
+            "hostile": false,
+            "onlyOnce": false,
+            "wallsBlock": "system",
+            "statuses": []
+          },
+          "dnd5e": {
+            "riders": {
+              "statuses": []
+            }
+          },
+          "core": {
+            "overlay": false
+          }
+        },
+        "tint": "#ffffff",
+        "_stats": {
+          "coreVersion": "14.367",
+          "systemId": "dnd5e",
+          "systemVersion": "5.3.3",
+          "createdTime": 1788085550954,
+          "modifiedTime": 1788085550954,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
+          "compendiumSource": null,
+          "duplicateSource": null,
+          "exportSource": null
+        },
+        "img": "modules/dnd5e_classpack/Nicons/ability_warlock_Coil2.png",
+        "type": "base",
+        "system": {
+          "changes": []
         },
         "sort": 0,
         "start": null,
@@ -90383,12 +92536,12 @@
         },
         "tint": "#ffffff",
         "_stats": {
-          "coreVersion": "14.365",
+          "coreVersion": "14.367",
           "systemId": "dnd5e",
           "systemVersion": "5.3.3",
-          "createdTime": 1784834976582,
-          "modifiedTime": 1784834976582,
-          "lastModifiedBy": "nSt1PeNLIOK4Bhvq",
+          "createdTime": 1788085587647,
+          "modifiedTime": 1788085587647,
+          "lastModifiedBy": "AUFFKYXLqN9aztQc",
           "compendiumSource": null,
           "duplicateSource": null,
           "exportSource": null

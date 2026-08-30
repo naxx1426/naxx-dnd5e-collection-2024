@@ -40,6 +40,16 @@ for (const item of iconIndex.items) {
   assert(assetPrefixes.some(prefix => item.img.startsWith(prefix)), `Unexpected item icon prefix: ${item.img}`);
 }
 
+const publicAssetFiles = await listFiles(path.join(root, "assets"));
+assert(publicAssetFiles.length === 142, `Expected 142 public PHB icons, found ${publicAssetFiles.length}.`);
+for (const file of publicAssetFiles) {
+  const relative = path.relative(path.join(root, "assets"), file).replaceAll("\\", "/");
+  assert(
+    relative.startsWith("dnd-players-handbook/icons/"),
+    `Private asset must not enter the public release: assets/${relative}`
+  );
+}
+
 const oldPrefixes = [
   "modules/dnd-dungeon-masters-guide/assets/",
   "modules/dnd-monster-manual/assets/",

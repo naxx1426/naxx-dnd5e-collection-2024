@@ -94,11 +94,12 @@ test("官方模组资源引用已按原规则书改写为本房规包路径", as
 
   assert.deepEqual(localReferences, expectedSourceBreakdown);
   assert.equal(report.assetReferences, 2420);
-  assert.equal(report.assetReferencesMigrated, 2420);
+  assert.equal(report.assetReferencesMigrated, 0);
+  assert.equal(report.assetReferencesAvailable, 254);
   assert.equal(report.inferredPlayerHandbook, 150);
   assert.deepEqual(report.sourceBreakdown, expectedSourceBreakdown);
   assert.equal(report.assetReferencesMissing, report.missingAssets.length);
-  assert.equal(report.assetReferencesMissing, 2420);
+  assert.equal(report.assetReferencesMissing, 2166);
 });
 
 function escapeRegExp(value) {

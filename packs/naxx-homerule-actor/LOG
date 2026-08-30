@@ -1,5 +1,5 @@
-2026/08/30-17:05:05.513 48e4 Delete type=3 #1
-2026/08/30-17:05:05.621 5064 Level-0 table #5: started
-2026/08/30-17:05:05.738 5064 Level-0 table #5: 10330006 bytes OK
-2026/08/30-17:05:05.742 5064 Delete type=0 #3
-2026/08/30-17:05:05.744 5064 Manual compaction at level-0 from '\x00' @ 72057594037927935 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at (end)
+2026/08/30-20:16:09.601 8a10 Delete type=3 #1
+2026/08/30-20:16:09.711 5324 Level-0 table #5: started
+2026/08/30-20:16:09.825 5324 Level-0 table #5: 10330006 bytes OK
+2026/08/30-20:16:09.829 5324 Delete type=0 #3
+2026/08/30-20:16:09.832 5324 Manual compaction at level-0 from '\x00' @ 72057594037927935 : 1 .. '\xef\xbf\xbf' @ 0 : 0; will stop at (end)

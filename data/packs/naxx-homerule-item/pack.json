@@ -7,22 +7,22 @@
     "type": "Item",
     "system": "dnd5e"
   },
-  "recordCount": 4813,
+  "recordCount": 4927,
   "groups": [
     {
       "group": "folders",
       "file": "records/folders.json",
-      "count": 231
+      "count": 291
     },
     {
       "group": "items",
       "file": "records/items.json",
-      "count": 2968
+      "count": 3000
     },
     {
       "group": "items.effects",
       "file": "records/items.effects.json",
-      "count": 1614
+      "count": 1636
     }
   ]
 }

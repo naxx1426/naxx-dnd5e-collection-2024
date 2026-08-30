@@ -1,4 +1,4 @@
-import { mkdir, readFile, stat, writeFile } from "node:fs/promises";
+import { mkdir, readFile, readdir, stat, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 import {
@@ -36,6 +36,7 @@ const report = {
   sourceDocumentsChanged: 0,
   assetReferences: 0,
   assetReferencesMigrated: 0,
+  assetReferencesAvailable: 0,
   assetReferencesMissing: 0,
   inferredPlayerHandbook: 0,
   sourceBreakdown: Object.fromEntries(SOURCE_MODULES.map(sourceModule => [sourceModule, 0])),
@@ -52,6 +53,7 @@ for (const pack of manifest.packs ?? []) {
     sourceDocumentsChanged: 0,
     assetReferences: 0,
     assetReferencesMigrated: 0,
+    assetReferencesAvailable: 0,
     assetReferencesMissing: 0,
     inferredPlayerHandbook: 0,
     sourceBreakdown: Object.fromEntries(SOURCE_MODULES.map(sourceModule => [sourceModule, 0]))
@@ -104,12 +106,14 @@ for (const pack of manifest.packs ?? []) {
     }
   }
 
+  packReport.assetReferencesAvailable = packReport.assetReferences - packReport.assetReferencesMissing;
   report.packs.push(packReport);
   for (const key of [
     "sourceDocuments",
     "sourceDocumentsChanged",
     "assetReferences",
     "assetReferencesMigrated",
+    "assetReferencesAvailable",
     "assetReferencesMissing",
     "inferredPlayerHandbook"
   ]) report[key] += packReport[key];
@@ -205,10 +209,15 @@ function resolveAssetReference(current, origin, reportedOrigin) {
   const remainder = current.slice(TARGET_PREFIX.length);
   const scopedModule = SOURCE_MODULES.find(sourceModule => remainder.startsWith(`${sourceModule}/`));
   if (scopedModule) {
+    const inferred = scopedModule === "dnd-players-handbook" && [origin, reportedOrigin].some(candidate => (
+      typeof candidate === "string"
+      && candidate.startsWith(TARGET_PREFIX)
+      && !SOURCE_MODULES.some(sourceModule => candidate.startsWith(`${TARGET_PREFIX}${sourceModule}/`))
+    ));
     return {
       sourceModule: scopedModule,
       suffix: remainder.slice(scopedModule.length + 1),
-      inferred: false
+      inferred
     };
   }
 
@@ -270,10 +279,26 @@ async function loadOriginRecords(packsRoot) {
 }
 
 async function exists(filePath) {
+  if (/[*?]/.test(path.basename(filePath))) {
+    const pattern = new RegExp(`^${escapeRegExp(path.basename(filePath))
+      .replace(/\\\*/g, ".*")
+      .replace(/\\\?/g, ".")}$`);
+    try {
+      return (await readdir(path.dirname(filePath), { withFileTypes: true }))
+        .some(entry => entry.isFile() && pattern.test(entry.name));
+    } catch (error) {
+      if (error?.code === "ENOENT") return false;
+      throw error;
+    }
+  }
   try {
     return (await stat(filePath)).isFile();
   } catch (error) {
     if (error?.code === "ENOENT") return false;
     throw error;
   }
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
