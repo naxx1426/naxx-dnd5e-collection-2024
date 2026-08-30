@@ -33,27 +33,25 @@ jobs:
         shell: bash
         run: |
           cd build/package
-          zip -r ../module.zip .
+          zip -r ../naxx-dnd5e-collection-2024.zip .
           cd ..
-          test "$(unzip -Z1 module.zip | grep -Ec '^module\.json$')" -eq 1
-          sha256sum module.json module.zip
+          test "$(unzip -Z1 naxx-dnd5e-collection-2024.zip | grep -Ec '^module\.json$')" -eq 1
+          sha256sum module.json naxx-dnd5e-collection-2024.zip
 
       - name: Prepare release notes
         id: release
         shell: bash
         run: |
-          version="${GITHUB_REF_NAME#v}"
           verified="$(node -e 'const m = require("./module.json"); process.stdout.write(String(m.compatibility?.verified ?? ""))')"
           foundry_major="${verified%%.*}"
-          previous_tag="$(git tag --sort=-v:refname | grep -Fvx "$GITHUB_REF_NAME" | head -n 1 || true)"
-          echo "title=$version" >> "$GITHUB_OUTPUT"
+          previous_tag="$(git describe --tags --abbrev=0 "${GITHUB_SHA}^" 2>/dev/null || true)"
+          if [[ "$GITHUB_REF_NAME" == "v1.0.0" ]]; then previous_tag=""; fi
           echo "foundry_major=$foundry_major" >> "$GITHUB_OUTPUT"
           echo "previous_tag=$previous_tag" >> "$GITHUB_OUTPUT"
 
       - name: Publish GitHub Release
         env:
           GH_TOKEN: ${{ github.token }}
-          RELEASE_TITLE: ${{ steps.release.outputs.title }}
           FOUNDRY_MAJOR: ${{ steps.release.outputs.foundry_major }}
           PREVIOUS_TAG: ${{ steps.release.outputs.previous_tag }}
         run: |
@@ -63,8 +61,8 @@ jobs:
           fi
           gh release create "$GITHUB_REF_NAME" \
             build/module.json \
-            build/module.zip \
+            build/naxx-dnd5e-collection-2024.zip \
             --verify-tag \
             --latest \
-            --title "$RELEASE_TITLE" \
+            --title "$GITHUB_REF_NAME" \
             --notes "$notes"
